@@ -81,8 +81,17 @@ def detect_characters(scene_text):
     return characters
 
 def build_hardened_prompt(page_num, page_title, scene_text, is_spread=True):
+    # Programmatically sanitize raw scene text to neutralize AI triggers (like speech bubbles or human hands)
+    sanitized_scene = scene_text
+    sanitized_scene = re.sub(r'\bhands\b', 'paws', sanitized_scene, flags=re.IGNORECASE)
+    sanitized_scene = re.sub(r'\bhand\b', 'paw', sanitized_scene, flags=re.IGNORECASE)
+    sanitized_scene = re.sub(r'\bfingers\b', 'paw digits', sanitized_scene, flags=re.IGNORECASE)
+    sanitized_scene = re.sub(r'\bfinger\b', 'paw digit', sanitized_scene, flags=re.IGNORECASE)
+    # Strip all quotation marks to prevent the AI from generating comic-book speech bubbles
+    sanitized_scene = sanitized_scene.replace('"', '').replace('“', '').replace('”', '').replace('`', '').replace("'", "")
+    
     bible = load_character_bible()
-    chars_present = detect_characters(scene_text)
+    chars_present = detect_characters(sanitized_scene)
     
     # 1. Verbatim Style Prefix
     prompt = "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, warm golden savanna lighting. "
@@ -93,7 +102,7 @@ def build_hardened_prompt(page_num, page_title, scene_text, is_spread=True):
         prompt += f"Single-page storybook illustration (Page {page_num}), clear layout. "
     
     # 2. Scene Action & Environment Setup
-    prompt += f"Scene Action: {scene_text} "
+    prompt += f"Scene Action: {sanitized_scene} "
     prompt += "Environment: A vibrant 'Big Family / Big Yard' setting with lush green grass, tall acacia trees, colorful blooming marigolds and red roses, sunny blue sky. "
     
     # 3. Add Character Descriptions
@@ -112,7 +121,11 @@ def build_hardened_prompt(page_num, page_title, scene_text, is_spread=True):
         )
         
     # 5. Core Rules & Safe Zones
-    prompt += "CRITICAL RULE: 100% anthropomorphic animal universe. All figures must stand on two legs, wear clothes, and have animal paws instead of human hands. Zero humans or human hands allowed. "
+    prompt += (
+        "CRITICAL RULE: 100% anthropomorphic animal universe. All figures must stand on two legs, wear clothes, and have animal paws instead of human hands. Zero humans, zero human-like skin, and zero human hands allowed. "
+        "CRITICAL ANATOMY LOCK: Every hand must be a soft, furry animal paw with clear, simplified paw pads and soft claws, NOT smooth human skin, NOT human knuckles, and NOT human fingers. "
+        "When a character is holding a prop (like a rag, cane, brush, or tool), their paw must naturally wrap around or grasp the object with a simplified 4-digit animal paw, NEVER showing human-like five-fingered hands or realistic human anatomy. "
+    )
     
     if is_spread:
         prompt += "Layout constraints: central gutter of the spread must be clean and empty of any characters' faces or critical details. Provide open, soft low-contrast areas (like open sky or grass) on the left and right halves for text overlays. "
