@@ -1,0 +1,26 @@
+# Virtual Environments and Python Cache
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Heavy Compiled/Backup Outputs (Build targets that are compiled on-the-fly)
+02_Publishing_Files/*.pdf
+02_Publishing_Files/*.epub
+01_Final_Book_Assets/temp_left_*.png
+01_Final_Book_Assets/temp_right_*.png
+
+# Temporary and local test files
+02_Publishing_Files/test_*.py
+02_Publishing_Files/*_temp.png
+02_Publishing_Files/run_compilation_worker.py
+epub_build_temp/
+
