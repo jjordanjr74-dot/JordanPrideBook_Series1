@@ -177,6 +177,7 @@ def generate_image(prompt_text, aspect_ratio="17:11"):
     
     instruction = (
         "Generate a high-resolution, final publication-grade 2D digital storybook illustration with vibrant vector linework and soft cel shading. "
+        "STRICT NO-TEXT & NO-BUBBLE RULE: You must absolutely NEVER render any text, letters, words, dialog bubbles, speech bubbles, thought bubbles, or comic-book pointers on the image. Keep the background completely clean, natural, and empty of graphical text artifacts. "
         "STRICT CHARACTER & STYLE CONTINUITY: You must match the visual style, fur tones, and character visual designs shown in the attached reference image. "
         f"Prompt instructions: {prompt_text}"
     )
