@@ -117,6 +117,38 @@ def create_interior_pdf():
         spaceBefore=15
     )
 
+    page2_dedication_style = ParagraphStyle(
+        'Page2Dedication',
+        parent=styles['Normal'],
+        fontName='Helvetica-Oblique',
+        fontSize=12,
+        leading=16,
+        textColor=colors.HexColor('#4A2E10'),
+        alignment=1, # Center
+        spaceAfter=15
+    )
+
+    page2_pub_note_style = ParagraphStyle(
+        'Page2PubNote',
+        parent=styles['Normal'],
+        fontName='Helvetica-Oblique',
+        fontSize=9,
+        leading=13,
+        textColor=colors.HexColor('#666666'),
+        alignment=1, # Center
+        spaceAfter=20
+    )
+
+    page2_copyright_style = ParagraphStyle(
+        'Page2Copyright',
+        parent=styles['Normal'],
+        fontName='Helvetica',
+        fontSize=9,
+        leading=12,
+        textColor=colors.HexColor('#555555'),
+        alignment=1 # Center
+    )
+
     story = []
 
     def get_image_path(filename):
@@ -156,7 +188,13 @@ def create_interior_pdf():
     # --- PAGE 2: COPYRIGHT & IMPRINT PAGE ---
     img2 = get_image_path("Page_02.png")
     if img2:
-        story.append(Image(img2, width=7.2*inch, height=9.3*inch))
+        story.append(Image(img2, width=7.2*inch, height=5.06*inch))
+        story.append(Spacer(1, 15))
+        story.append(Paragraph("Dedicated to every brave young cub<br/>learning to walk in courage, honor, and truth.", page2_dedication_style))
+        story.append(Spacer(1, 20))
+        story.append(Paragraph("<b>Publisher Note:</b> The Jordan Pride series is dedicated to equipping families with foundational virtues through courageous storytelling, helping children discover that honesty, integrity, and family trust create true strength.", page2_pub_note_style))
+        story.append(Spacer(1, 25))
+        story.append(Paragraph("Copyright © 2026 Jay Jay. All Rights Reserved. Series TM.", page2_copyright_style))
     story.append(PageBreak())
 
     # --- PAGE 3: FULL TITLE PAGE & DEDICATION ---
