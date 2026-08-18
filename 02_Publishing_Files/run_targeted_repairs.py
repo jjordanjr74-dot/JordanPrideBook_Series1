@@ -87,12 +87,12 @@ def audit_image(image_path, title):
             return {"status": "FAIL", "issues": [str(e)], "explanation": "Audit request error."}
 
 REPAIR_PLAN = {
-    18: "Refine Dad's left paw resting on Leo's shoulder to be a soft, golden-furred 4-digit animal paw with clear paw pads. Keep Dad's right hand as a 4-digit paw and keep Mom in the doorway.",
-    22: "Correct the hands of Pop Pop, Dad, Leo, and Maya to be soft furry 4-digit animal paws with paw pads (no 5-fingered human hands). Ensure Leo, Maya, and Pop Pop appear once each.",
-    24: "Ensure Maya is an anthropomorphic lion cub with furry ears and her purple ear bow attached to her ear. Correct all hands to be soft 4-digit furry lion paws with paw pads.",
-    26: "Ensure Leo appears ONCE on the right waving warmly with Maya under the starry night sky. Correct Leo's waving hand to be a soft 4-digit furry lion paw.",
+    18: "Redraw Page 18-19: Show Dad Jordan with his arm around Leo Jordan, while tiny Maya Jordan (3-year-old toddler with purple ear bow in her yellow dress) stands right beside Leo looking up at Dad. Ensure Dad's paw resting on Leo's shoulder is a golden-furred 4-digit lion paw matching his arm. Position Dad and Leo cleanly away from the central gutter crease.",
+    22: "Specifically fix Leo's right hand resting on his chest: change it from 5 fingers to a simplified, soft 4-digit furry lion paw (one thumb pad and three finger pads) with golden fur on top. Ensure Maya remains present once and all characters have furry 4-digit paws.",
+    24: "Simplify every character's hand (Leo, Dad, Pop Pop, Mom, Maya) into a smooth, 4-digit golden-furred mitten paw. Ensure no hand has human fingers or more than 4 digits.",
+    26: "Fix character duplication and waving paw: Remove the extra duplicate Leo from the left page. Leo Jordan appears ONLY ONCE standing next to tiny Maya under the starry savanna night sky. Correct Leo's raised waving hand to be a soft, 4-digit furry lion paw with clear paw pads.",
     29: "Correct Pop Pop's hands holding the book and Maya's raised paw to be soft, furry 4-digit animal paws with clear paw pads.",
-    31: "In Pop Pop's and Dad's portrait badges, simplify their paws to be soft, furry 4-digit mitten paws with round paw pads (STRICTLY 4 DIGITS, NO fifth finger). Keep all 4 circular badge frames neat and symmetrical."
+    31: "Focus exclusively on the adult lion in the red plaid shirt (top right circular badge): change his raised right paw so it shows strictly 3 finger pads plus 1 thumb pad (TOTAL 4 PADS, no 5th pink pad). Ensure his paw is a soft 4-digit furry lion paw."
 }
 
 def repair_single(p_num):
