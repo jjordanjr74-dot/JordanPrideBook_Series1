@@ -92,7 +92,7 @@ REPAIR_PLAN = {
     24: "Ensure Maya is an anthropomorphic lion cub with furry ears and her purple ear bow attached to her ear. Correct all hands to be soft 4-digit furry lion paws with paw pads.",
     26: "Ensure Leo appears ONCE on the right waving warmly with Maya under the starry night sky. Correct Leo's waving hand to be a soft 4-digit furry lion paw.",
     29: "Correct Pop Pop's hands holding the book and Maya's raised paw to be soft, furry 4-digit animal paws with clear paw pads.",
-    31: "In Maya's portrait badge, adjust her head size to be smaller than Leo's, ensure she wears her pink sandals, and draw soft 4-digit paws for Pop Pop and Dad."
+    31: "In Pop Pop's and Dad's portrait badges, simplify their paws to be soft, furry 4-digit mitten paws with round paw pads (STRICTLY 4 DIGITS, NO fifth finger). Keep all 4 circular badge frames neat and symmetrical."
 }
 
 def repair_single(p_num):
