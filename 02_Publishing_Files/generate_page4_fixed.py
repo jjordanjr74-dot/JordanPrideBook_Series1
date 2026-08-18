@@ -7,7 +7,7 @@ from PIL import Image as PILImage
 
 API_KEY = "AQ.Ab8RN6KOKkmFqHlyG1kpgwMJued42xwOvIkvmEagmgsSw5nhig"
 AUDIT_MODEL = "gemini-3.5-flash"
-GENERATE_MODEL = "gemini-2.5-flash-image"
+GENERATE_MODEL = "gemini-3.1-flash-image"
 
 AUDIT_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{AUDIT_MODEL}:generateContent?key={API_KEY}"
 GENERATE_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GENERATE_MODEL}:generateContent?key={API_KEY}"

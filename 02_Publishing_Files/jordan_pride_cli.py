@@ -102,6 +102,26 @@ print("\\n🎉 Compilation Finished successfully!")
          os.remove(compile_worker)
 
 # Manuscript scene extraction for automation
+def get_art_prompt(page_num):
+    prompts_path = os.path.join(DESKTOP_DIR, "01_Final_Book_Assets", "The Jordan Pride - Book 1 Art Prompts.md")
+    if not os.path.exists(prompts_path):
+        return None
+        
+    with open(prompts_path, "r", encoding="utf-8") as f:
+        content = f.read()
+        
+    # Split content by markdown #### headings
+    headings = re.split(r'(?=#### \*\*)', content)
+    for h in headings:
+        header_line = h.split('\n')[0]
+        # Match Page or Pages containing the page number
+        if re.search(rf'\bPage(s)?\s*(\d+\s*(&|and|-)?\s*)*{page_num}\b', header_line, re.IGNORECASE):
+            # Extract content inside backticks `...`
+            match_backtick = re.search(r'`([^`]+)`', h, re.DOTALL)
+            if match_backtick:
+                return match_backtick.group(1).strip()
+    return None
+
 def get_manuscript_scene(page_num):
     if not os.path.exists(MANUSCRIPT_PATH):
         return f"Scene description for Page {page_num}"
@@ -159,10 +179,19 @@ def main():
             print("❌ Error: Page number must be an integer.")
             sys.exit(1)
             
-        scene_text = get_manuscript_scene(p_num)
+        # Prioritize master-locked Art Prompt sheet over raw manuscript text!
+        scene_text = get_art_prompt(p_num)
+        is_from_art_sheet = True
+        if not scene_text:
+            scene_text = get_manuscript_scene(p_num)
+            is_from_art_sheet = False
+            
         is_spread = p_num in range(4, 28)
         
-        print(f"📖 Extracted Scene Text from Manuscript for Page {p_num}:")
+        if is_from_art_sheet:
+            print(f"📖 Extracted Master-Locked Art Prompt for Page {p_num}:")
+        else:
+            print(f"📖 Extracted Scene Text from Manuscript for Page {p_num}:")
         print(f"  \"{scene_text}\"\n")
         
         process_page(p_num, f"Page {p_num} Production", scene_text, is_spread)
@@ -191,7 +220,9 @@ def main():
                 
         print(f"🔄 Starting Sequential Batch Production for pages: {pages_to_run}")
         for p_num in pages_to_run:
-            scene_text = get_manuscript_scene(p_num)
+            scene_text = get_art_prompt(p_num)
+            if not scene_text:
+                scene_text = get_manuscript_scene(p_num)
             is_spread = p_num in range(4, 28)
             success = process_page(p_num, f"Page {p_num} Production", scene_text, is_spread)
             if not success:

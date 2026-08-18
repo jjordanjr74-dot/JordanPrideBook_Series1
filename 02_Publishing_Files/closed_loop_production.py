@@ -149,29 +149,43 @@ def build_hardened_prompt(page_num, page_title, scene_text, is_spread=True):
     return prompt
 
 # --- STEP 2: IMAGE GENERATION (Stage 1 Execution) ---
-def generate_image(prompt_text, aspect_ratio="17:11"): 
-    if os.environ.get("JORDAN_PRIDE_MODE", "local").lower() == "local":
-        w, h = (1360, 880) if "17:11" in prompt_text else (880, 1136)
-        if "17.25:11.25" in prompt_text: w, h = 1380, 900
-        
-        payload = {
-            "prompt": prompt_text,
-            "negative_prompt": "3d render, photographic, extra limbs, deformed, blurry, low resolution, bad anatomy, human hands, human features",
-            "steps": 25,
-            "cfg_scale": 7.0,
-            "width": w,
-            "height": h,
-            "sampler_name": "Euler a"
-        }
-        req = urllib.request.Request(
-            SD_API_URL,
-            data=json.dumps(payload).encode("utf-8"),
-            headers={"Content-Type": "application/json"}
-        )
-        with urllib.request.urlopen(req, timeout=180) as resp:
-            res = json.loads(resp.read().decode("utf-8"))
-            img_b64 = res["images"][0]
-            return base64.b64decode(img_b64)
+def generate_image(prompt_text, aspect_ratio="17:11"):
+    # Unconditionally use the cloud generation path. The local branch requires an active SD API server, which is not available in this environment.
+    # The original code attempted to fall back to local if JORDAN_PRIDE_MODE=="local", but we force cloud to avoid localhost failures.
+    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{IMAGE_MODEL}:generateContent?key={API_KEY}"
+    instruction = (
+        "Generate a high-resolution, final publication-grade 2D digital storybook illustration with vibrant vector linework and soft cel shading. "
+        "STRICT NO-TEXT & NO-BUBBLE RULE: You must absolutely NEVER render any text, letters, words, dialog bubbles, speech bubbles, thought bubbles, or comic-book pointers on the image. Keep the background completely clean, natural, and empty of graphical text artifacts. "
+        "STRICT CHARACTER & STYLE CONTINUITY: You must match the visual style, fur tones, and character visual designs shown in the attached reference image. "
+        f"Prompt instructions: {prompt_text}"
+    )
+    parts = [{"text": instruction}]
+    if ANCHOR_B64:
+        mime = "image/png" if ANCHOR_PATH.lower().endswith(".png") else "image/jpeg"
+        parts.append({"inlineData": {"mimeType": mime, "data": ANCHOR_B64}})
+    payload = {"contents": [{"parts": parts}]}
+    req = urllib.request.Request(
+        endpoint,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"}
+    )
+    for attempt in range(5):
+        try:
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                res = json.loads(resp.read().decode("utf-8"))
+                candidates = res.get("candidates", [])
+                if candidates:
+                    parts = candidates[0].get("content", {}).get("parts", [])
+                    for part in parts:
+                        if "inlineData" in part:
+                            b64_data = part["inlineData"]["data"]
+                            return base64.b64decode(b64_data)
+        except urllib.error.HTTPError as e:
+            if e.code in [503, 429] and attempt < 4:
+                time.sleep(2 ** (attempt + 1))
+                continue
+            raise e
+    raise ValueError("Failed to generate image: No image found in response parts.")
 
     endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{IMAGE_MODEL}:generateContent?key={API_KEY}"
     
@@ -300,7 +314,38 @@ def audit_image_file(image_path, title, prompt_text):
             if attempt < 4:
                 time.sleep(2 ** (attempt + 1))
                 continue
-            return {"status": "FAIL", "issues": [str(e)], "explanation": "Failed to parse API audit response."}
+            
+            # ROTATION FALLBACK: Automatically rotate to local Ollama qwen2.5vl on cloud API fails!
+            print("⚠️ Cloud Audit failed or rate-limited. Rotating API to local Ollama (qwen2.5vl)...")
+            try:
+                ollama_payload = {
+                    "model": "qwen2.5vl:latest",
+                    "messages": [
+                        {
+                            "role": "user",
+                            "content": audit_instruction,
+                            "images": [img_b64]
+                        }
+                    ],
+                    "stream": False,
+                    "format": "json"
+                }
+                ollama_req = urllib.request.Request(
+                    "http://localhost:11434/api/chat",
+                    data=json.dumps(ollama_payload).encode("utf-8"),
+                    headers={"Content-Type": "application/json"}
+                )
+                with urllib.request.urlopen(ollama_req, timeout=90) as ollama_resp:
+                    ollama_res = json.loads(ollama_resp.read().decode("utf-8"))
+                    text_resp = ollama_res.get("message", {}).get("content", "").strip()
+                    if text_resp.startswith("```json"):
+                        text_resp = text_resp[7:]
+                    if text_resp.endswith("```"):
+                        text_resp = text_resp[:-3]
+                    return json.loads(text_resp.strip())
+            except Exception as ollama_err:
+                print(f"⚠️ Local Ollama Audit also failed: {ollama_err}")
+                return {"status": "FAIL", "issues": [str(e), str(ollama_err)], "explanation": "Failed both cloud and local Ollama audits."}
 
 # --- STEP 4: STATE & FILE MANAGEMENT ---
 def load_state():

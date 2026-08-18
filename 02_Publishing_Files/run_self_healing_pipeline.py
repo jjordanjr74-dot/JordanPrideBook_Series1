@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 API_KEY = "AQ.Ab8RN6KOKkmFqHlyG1kpgwMJued42xwOvIkvmEagmgsSw5nhig"
 AUDIT_MODEL = "gemini-3.5-flash"
-GENERATE_MODEL = "gemini-2.5-flash-image"
+GENERATE_MODEL = "gemini-3.1-flash-image"
 
 AUDIT_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{AUDIT_MODEL}:generateContent?key={API_KEY}"
 GENERATE_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GENERATE_MODEL}:generateContent?key={API_KEY}"
@@ -29,8 +29,17 @@ if os.path.exists("D:/"):
     os.makedirs(backup_dir, exist_ok=True)
 
 # Load Master Anchor Image
+fallback_anchor = os.path.join(images_dir, "Page_12.png")
+anchor_mime = "image/jpeg"
 if os.path.exists(anchor_path):
+    print(f"🌟 Loading Master Anchor Image from {anchor_path}")
+    anchor_mime = "image/jpeg"
     with open(anchor_path, "rb") as f:
+        anchor_b64 = base64.b64encode(f.read()).decode("utf-8")
+elif os.path.exists(fallback_anchor):
+    print(f"🌟 Loading Fallback Master Anchor Image from {fallback_anchor}")
+    anchor_mime = "image/png"
+    with open(fallback_anchor, "rb") as f:
         anchor_b64 = base64.b64encode(f.read()).decode("utf-8")
 else:
     anchor_b64 = None
@@ -185,7 +194,7 @@ def generate_conditioned_image(hardened_prompt):
         "contents": [{
             "parts": [
                 {"text": instruction},
-                {"inlineData": {"mimeType": "image/jpeg", "data": anchor_b64}}
+                {"inlineData": {"mimeType": anchor_mime, "data": anchor_b64}}
             ]
         }]
     }
@@ -297,12 +306,20 @@ def main():
     failed_items = []
     for fn, rep in report_dict.items():
         if rep.get("status") == "FAIL":
-            # Extract page index from filename (e.g., 'Page_04.png' -> 4)
+            # Extract page index from filename and map to prompts index correctly
             try:
                 if fn.startswith("Page_"):
-                    p_idx = int(fn.split("_")[1].split(".")[0])
-                    if p_idx in prompts:
-                        failed_items.append((fn, prompts[p_idx][0], prompts[p_idx][1], rep.get("issues")))
+                    p_num = int(fn.split("_")[1].split(".")[0])
+                    prompt_idx = None
+                    if p_num in [1, 2, 3]:
+                        prompt_idx = p_num
+                    elif p_num in range(4, 28, 2):
+                        prompt_idx = 4 + (p_num - 4) // 2
+                    elif p_num in [28, 29, 30, 31, 32]:
+                        prompt_idx = 16 + (p_num - 28)
+                    
+                    if prompt_idx is not None and prompt_idx in prompts:
+                        failed_items.append((fn, prompts[prompt_idx][0], prompts[prompt_idx][1], rep.get("issues")))
                 elif fn == "Cover_Wrap.png" and 21 in prompts:
                     failed_items.append((fn, prompts[21][0], prompts[21][1], rep.get("issues")))
             except Exception as e:

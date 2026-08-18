@@ -6,33 +6,46 @@ import time
 
 API_KEY = "AQ.Ab8RN6KOKkmFqHlyG1kpgwMJued42xwOvIkvmEagmgsSw5nhig"
 AUDIT_MODEL = "gemini-3.5-flash"
-GENERATE_MODEL = "gemini-2.5-flash-image"
+GENERATE_MODEL = "gemini-3.1-flash-image"
 
 AUDIT_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{AUDIT_MODEL}:generateContent?key={API_KEY}"
 GENERATE_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GENERATE_MODEL}:generateContent?key={API_KEY}"
 
-desktop_dir = r"C:\Users\marti\Desktop"
-images_dir = os.path.join(desktop_dir, "The Jordan Pride - Book 1 Images")
-backup_dir = r"D:\Jordan_Pride_Publishing_Library\Book_Assets"
+desktop_dir = r"C:\Users\marti\JordanPrideBook_Series1_Final"
+images_dir = os.path.join(desktop_dir, "01_Final_Book_Assets")
+backup_dir = os.path.join(desktop_dir, "01_Final_Book_Assets")
 anchor_path = r"C:\Users\marti\AppData\Local\hermes\cache\images\img_4f6728cd4318.jpg"
+fallback_anchor = os.path.join(images_dir, "Page_12.png")
 
 os.makedirs(images_dir, exist_ok=True)
-if os.path.exists("D:/"):
-    os.makedirs(backup_dir, exist_ok=True)
 
-# Load Master Anchor Image
-with open(anchor_path, "rb") as f:
-    anchor_b64 = base64.b64encode(f.read()).decode("utf-8")
+# Load Master Anchor Image dynamically
+anchor_mime = "image/jpeg"
+if os.path.exists(anchor_path):
+    print(f"🌟 Loading Master Anchor Image from {anchor_path}")
+    anchor_mime = "image/jpeg"
+    with open(anchor_path, "rb") as f:
+        anchor_b64 = base64.b64encode(f.read()).decode("utf-8")
+elif os.path.exists(fallback_anchor):
+    print(f"🌟 Loading Fallback Master Anchor Image from {fallback_anchor}")
+    anchor_mime = "image/png"
+    with open(fallback_anchor, "rb") as f:
+        anchor_b64 = base64.b64encode(f.read()).decode("utf-8")
+else:
+    anchor_b64 = None
+    print("⚠️ Master Anchor image not found! Reference conditioning will be skipped.")
 
+# Super-hardened prompt applying "The Sibling Height Matrix Exaggeration" and "The Sloped arm pyramid composition"
 hardened_prompt = (
     "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, warm savanna lighting. Title page vignette. "
-    "Centered, perfectly symmetrical character portrait on a flat warm cream background (#FFFDF5). "
-    "In the absolute center of the frame stands Pop Pop Jordan (broad-shouldered grandfather lion, silver-and-gold mane, red plaid flannel shirt with rolled sleeves, dark khaki trousers, work boots, brass belt buckle, golden pocket watch chain). Pop Pop is positioned directly in the center, standing behind both children in a protective, symmetrical stance. "
-    "Pop Pop Jordan's large right arm is extended to his right, resting a warm, thick cartoon animal paw on Leo's shoulder. His large left arm is extended to his left, resting a warm, thick cartoon animal paw on Maya's shoulder. "
-    "Standing directly in front of Pop Pop Jordan's left side (on the left side of the frame) is Leo Jordan (6yo golden boy lion cub, unruly reddish-brown head hair tuft, amber eyes, blue denim overalls, orange-and-white striped t-shirt, blue canvas sneakers, NO hair ribbons) standing proudly with his right paw placed firmly over his heart. "
-    "Leo's denim overalls feature exactly one large chest bib pocket on the front center of his chest. Inside this chest bib pocket, a small toy magnifying glass is fully tucked, with only its round handle peeking out at the top. The hip pockets and side loops are completely empty; there is absolutely no accessory hanging on Leo's hip. "
-    "Standing directly in front of Pop Pop Jordan's right side (on the right side of the frame) is Maya Jordan (3yo cream-and-gold girl lion cub, snout freckles, hazel eyes, sunshine-yellow dress with two large deep front crayon pockets, bright purple ear bow ribbon behind her left ear, pink sandals, clutching soft purple star plushie Glimmer) waving happily. Maya is much smaller and shorter than Leo, reaching only to Leo's shoulder height. "
-    "CRITICAL BRAND SAFETY & DESIGN RULES: Symmetrical centered composition. 100% anthropomorphic animal universe. Absolutely NO human hands, NO human fingers, NO human knuckles, NO human skin folds. All characters must have thick, rounded, fuzzy cartoon animal paws with soft pads that look like mittens. Leo has absolutely NO ribbons, bows, or flowers in his hair. Keep the upper 40% of the canvas completely clear warm cream space with absolutely no sunflower graphics or details, specifically reserved for title typography. Symmetrical composition."
+    "Centered, beautifully framed character portrait on a flat warm cream background (#FFFDF5). "
+    "In the center of the frame stands Pop Pop Jordan (broad-shouldered grandfather lion, silver-and-gold mane, red plaid flannel shirt with rolled sleeves, dark khaki trousers, work boots, brass belt buckle, golden pocket watch chain) sitting on a sturdy rustic wooden bench, smiling warmly with relaxed eyebrows. "
+    "Pop Pop Jordan is holding tiny Maya Jordan (3yo cream-and-gold girl lion cub, snout freckles, hazel eyes, sunshine-yellow dress with deep front pockets, bright purple ear bow ribbon behind her left ear, pink sandals) sitting comfortably on his left knee. Maya is clutching her soft purple star plushie Glimmer and waving happily. Pop Pop's large left arm is wrapped gently around Maya's waist to hold her safely on his lap. "
+    "Standing proudly next to them on the viewer's left side of the bench is Leo Jordan (6yo golden boy lion cub, unruly reddish-brown head hair tuft, amber eyes, blue denim overalls, over orange-and-white horizontally striped t-shirt, blue canvas sneakers, NO hair ribbons). "
+    "Leo has a big, cheerful, open-mouth smile of happiness, with soft, relaxed, friendly eyebrows and sparkling amber eyes, looking very proud and joyful. Leo's right paw is placed firmly over his heart. "
+    "Tucked clearly in Leo's central chest bib pocket is a highly visible toy magnifying glass with a bright yellow handle sticking straight up out of the pocket. "
+    "CRITICAL PROPORTION MATRIX (LAP-SEATING BENCHMARK): Maya is a tiny 3yo toddler and is seated directly on grandfather Pop Pop's lap on his left side. Leo is a tall 6yo older brother standing next to the bench on the left. Because Maya is a tiny toddler sitting on Pop Pop's lap, she is extremely small and petite compared to Leo who is standing proudly next to them. This creates an absolute visual scale anchor with an obvious height and size difference. "
+    "CRITICAL BRAND SAFETY & ANATOMICAL RULES: Exactly 100% anthropomorphic animal universe. NO human hands, smooth fingers, or human knuckles. All paws must be rounded, soft, fuzzy cartoon animal paws (mitten-like paws). Leo has absolutely NO ribbons, bows, or flowers on his head. ONLY Maya wears the bright purple ear bow. Centered framing with generous open background space above the characters for title text. Single unified frame."
 )
 
 instruction = (
@@ -45,7 +58,7 @@ payload = {
     "contents": [{
         "parts": [
             {"text": instruction},
-            {"inlineData": {"mimeType": "image/jpeg", "data": anchor_b64}}
+            {"inlineData": {"mimeType": anchor_mime, "data": anchor_b64}}
         ]
     }]
 }
@@ -66,10 +79,6 @@ fn = "Page_01.png"
 filepath = os.path.join(images_dir, fn)
 with open(filepath, "wb") as f:
     f.write(img_bytes)
-
-if os.path.exists("D:/"):
-    with open(os.path.join(backup_dir, fn), "wb") as f:
-        f.write(img_bytes)
 
 print(f"✅ Successfully generated and saved Page_01.png!")
 
@@ -145,8 +154,8 @@ print(f"  Issues Found: {report.get('issues', [])}")
 print(f"  Explanation: {report.get('explanation')}")
 
 # Update databases
-report_file = os.path.join(desktop_dir, "Book1_Audit_Report.json")
-state_file = os.path.join(desktop_dir, "production_state.json")
+report_file = os.path.join(desktop_dir, "02_Publishing_Files", "Book1_Audit_Report.json")
+state_file = os.path.join(desktop_dir, "02_Publishing_Files", "production_state.json")
 
 if os.path.exists(report_file):
     with open(report_file, "r", encoding="utf-8") as f:
