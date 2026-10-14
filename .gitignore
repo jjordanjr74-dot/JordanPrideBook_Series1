@@ -24,3 +24,11 @@ desktop.ini
 02_Publishing_Files/run_compilation_worker.py
 epub_build_temp/
 
+
+# Art assets — canon zone D:/Jordan_Pride_Production is the source of truth; images no longer tracked (2026-10-14)
+01_Final_Book_Assets/**/*.png
+01_Final_Book_Assets/**/*.jpg
+01_Final_Book_Assets/**/*.jpeg
+03_Source_Art/**/*.png
+03_Source_Art/**/*.jpg
+03_Source_Art/**/*.jpeg
