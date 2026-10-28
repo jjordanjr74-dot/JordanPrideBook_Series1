@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Jordan Pride — Book 1: The Day Leo Broke Pop Pop's Walking Stick & Interactive Kids Apps</title>
+  <meta name="description" content="The Jordan Pride Book 1: The Day Leo Broke Pop Pop's Walking Stick — 32-page 3D Pixar-style illustrated children's book (ages 3–7), plus Jordan Pride Kids World & Stock Market Kids Safari interactive apps." />
+  <meta property="og:title" content="The Jordan Pride — Book 1 & Interactive Family Apps" />
+  <meta property="og:description" content="A Broken Walking Stick. A Shaking Heart. And the Courage to Make Things Right. Order Book 1 & play Jordan Pride Kids World + Stock Market Kids Safari." />
+  <meta property="og:image" content="https://jjordanjr74-dot.github.io/JordanPrideBook_Series1/images/book_1_front_cover_master.png" />
+  <style>
+    :root {
+      --bg: #fdf8ee;
+      --card: #fffdf8;
+      --ink: #2b1d12;
+      --bronze: #8c5a2b;
+      --gold: #d4a038;
+      --amber: #e67e22;
+      --forest: #1e5631;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Georgia', 'Palatino Linotype', serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #2b1d12 0%, #4a2f18 100%);
+      color: #fdf8ee;
+      padding: 2.8rem 1.5rem;
+      text-align: center;
+      border-bottom: 5px solid var(--gold);
+    }
+    header .badge {
+      display: inline-block;
+      background: var(--gold);
+      color: #2b1d12;
+      font-weight: bold;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.35rem 1rem;
+      border-radius: 999px;
+      margin-bottom: 1rem;
+    }
+    header h1 {
+      font-size: clamp(2rem, 4.5vw, 3.3rem);
+      margin-bottom: 0.5rem;
+      color: #fff8e7;
+    }
+    header p.sub {
+      font-size: clamp(1.05rem, 2.2vw, 1.35rem);
+      max-width: 780px;
+      margin: 0 auto 1.6rem;
+      color: #f3e2c3;
+    }
+    .cta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.9rem;
+      justify-content: center;
+    }
+    .btn {
+      display: inline-block;
+      padding: 0.9rem 1.6rem;
+      border-radius: 12px;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 1.05rem;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .btn:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.22); }
+    .btn-gold { background: var(--gold); color: #2b1d12; }
+    .btn-amber { background: var(--amber); color: #fff; }
+    .btn-outline { border: 2px solid var(--gold); color: #fff8e7; }
+    .container { max-width: 1140px; margin: 0 auto; padding: 2.5rem 1.25rem; }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+      gap: 2.2rem;
+      align-items: center;
+      margin-bottom: 3rem;
+    }
+    .cover-card {
+      background: var(--card);
+      padding: 1rem;
+      border-radius: 18px;
+      border: 3px solid var(--gold);
+      box-shadow: 0 12px 32px rgba(43,29,18,0.12);
+      text-align: center;
+    }
+    .cover-card img {
+      width: 100%;
+      max-width: 440px;
+      border-radius: 12px;
+    }
+    .tier-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 1.5rem;
+      margin: 2rem 0 3rem;
+    }
+    .tier {
+      background: var(--card);
+      border: 2px solid var(--gold);
+      border-radius: 16px;
+      padding: 1.8rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      box-shadow: 0 6px 20px rgba(43,29,18,0.07);
+    }
+    .tier.featured {
+      border-width: 3px;
+      border-color: var(--amber);
+      transform: scale(1.02);
+    }
+    .price {
+      font-size: 2.3rem;
+      font-weight: bold;
+      color: var(--bronze);
+      margin: 0.6rem 0;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.2rem;
+      margin: 1.5rem 0 3rem;
+    }
+    .gallery img {
+      width: 100%;
+      border-radius: 12px;
+      border: 2px solid var(--gold);
+    }
+    .apps-section {
+      background: linear-gradient(135deg, #fff6e0 0%, #f9e8c2 100%);
+      border: 3px solid var(--gold);
+      border-radius: 20px;
+      padding: 2.2rem;
+      margin-bottom: 3rem;
+    }
+    .pillars {
+      background: #2b1d12;
+      color: #fdf8ee;
+      border-radius: 20px;
+      padding: 2.4rem;
+      margin-bottom: 2.5rem;
+      border: 3px solid var(--gold);
+    }
+    .pillars ol {
+      max-width: 720px;
+      margin: 1.2rem auto 0;
+      font-size: 1.15rem;
+    }
+    .pillars li { margin-bottom: 0.65rem; }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      border-top: 2px solid var(--gold);
+      color: var(--bronze);
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="badge">The Jordan Pride Series • Ages 3–7 • 32 Full-Color 3D Pixar-Style Pages</div>
+    <h1>The Day Leo Broke Pop Pop's Walking Stick</h1>
+    <p class="sub">A Broken Walking Stick. A Shaking Heart. And the Courage to Make Things Right.<br/><em>"Love, Loyalty and Family — We are ALWAYS Stronger, Together."</em></p>
+    <div class="cta-row">
+      <a class="btn btn-gold" href="https://buy.stripe.com/5kQ6oAgxJ7qPfBW6Gt08g0g">Buy Instant Digital Book ($9.99)</a>
+      <a class="btn btn-amber" href="https://buy.stripe.com/28E9AMa9l9yX4Xigh308g0h">Order Collector's Paperback ($16.99)</a>
+      <a class="btn btn-outline" href="https://buy.stripe.com/bJe6oA5T55iHgG02qd08g0i">Deluxe Hardcover + Apps Bundle ($24.99)</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero-grid">
+      <div class="cover-card">
+        <img src="./images/book_1_front_cover_master.png" alt="The Jordan Pride Book 1 Front Cover" />
+      </div>
+      <div>
+        <h2 style="font-size:2rem; color:var(--bronze); margin-bottom:0.8rem;">Saturday Morning in Savanna Heights</h2>
+        <p style="margin-bottom:1rem;">Saturday morning in Savanna Heights is bursting with sunshine, Mama Pearl’s warm cinnamon rolls, and the whole 11-member Jordan Pride rolling onto Pop Pop’s front porch. Six-year-old Leo knows the family rules: hold the gate for three-year-old Maya, open the door for GiGi and TiTi, and always say <strong>“Yes, sir”</strong> and <strong>“Yes, ma’am.”</strong></p>
+        <p style="margin-bottom:1rem;">Then — <strong>CRACK!</strong> One big pirate swing snaps Pop Pop’s beloved carved walking stick in two. Scared of getting in trouble, Leo hides the broken pieces behind a porch fern. With little sister Maya and her purple star Glimmer beside him, Leo discovers why owning up to a mistake right away — and working side by side in Pop Pop's workshop to fix what we break — is what makes a true Jordan Pride.</p>
+        <blockquote style="border-left:4px solid var(--gold); padding-left:1rem; font-style:italic; color:var(--bronze); margin:1.2rem 0;">
+          “Broken sticks mend faster than broken trust.” — Pop Pop
+        </blockquote>
+      </div>
+    </section>
+
+    <h2 style="text-align:center; font-size:2rem; color:var(--bronze);">Choose Your Edition (Instant Stripe Checkout)</h2>
+    <section class="tier-grid">
+      <div class="tier">
+        <div>
+          <h3>Instant Digital Storybook</h3>
+          <div class="price">$9.99</div>
+          <p>Complete 34-page high-resolution 8.5×11 illustrated PDF storybook for tablets, phones, and home printing. Includes the 7-Question Family Talk & The Five Pillars of the Pride.</p>
+        </div>
+        <a class="btn btn-gold" style="text-align:center; margin-top:1.4rem;" href="https://buy.stripe.com/5kQ6oAgxJ7qPfBW6Gt08g0g">Get Digital Edition — $9.99</a>
+      </div>
+
+      <div class="tier featured">
+        <div>
+          <span style="background:var(--amber); color:#fff; padding:0.2rem 0.7rem; border-radius:99px; font-size:0.8rem; font-weight:bold;">MOST POPULAR</span>
+          <h3 style="margin-top:0.5rem;">Collector's Paperback + Digital</h3>
+          <div class="price">$16.99</div>
+          <p>Full-color 8.5×11 glossy paperback shipped to your door, plus immediate access to the Digital Illustrated Storybook PDF.</p>
+        </div>
+        <a class="btn btn-amber" style="text-align:center; margin-top:1.4rem;" href="https://buy.stripe.com/28E9AMa9l9yX4Xigh308g0h">Order Paperback — $16.99</a>
+      </div>
+
+      <div class="tier">
+        <div>
+          <h3>Deluxe Hardcover + Kids Apps Bundle</h3>
+          <div class="price">$24.99</div>
+          <p>Heirloom Hardcover Edition + Instant Digital PDF + Full Family Access to <strong>Jordan Pride Kids World</strong> & <strong>Stock Market Kids Safari</strong>.</p>
+        </div>
+        <a class="btn btn-gold" style="text-align:center; margin-top:1.4rem;" href="https://buy.stripe.com/bJe6oA5T55iHgG02qd08g0i">Order Hardcover Bundle — $24.99</a>
+      </div>
+    </section>
+
+    <section class="apps-section">
+      <h2 style="text-align:center; font-size:2rem; color:var(--ink); margin-bottom:0.6rem;">Play the Live Interactive Jordan Pride Family Apps</h2>
+      <p style="text-align:center; max-width:760px; margin:0 auto 1.6rem;">Built for Poojie (Leo), Juju (Maya), and families everywhere — explore Savanna Heights, play the Walking Stick Workshop Mini-Game, or learn real investing and compound growth on the Stock Market Kids Safari!</p>
+      <div class="cta-row">
+        <a class="btn btn-amber" href="./kids-world/index.html">Launch Jordan Pride Kids World App →</a>
+        <a class="btn btn-gold" href="./stock-safari/index.html">Launch Stock Market Kids Safari App →</a>
+      </div>
+    </section>
+
+    <h2 style="text-align:center; font-size:2rem; color:var(--bronze); margin-bottom:1rem;">Inside the 32 Locked Pixar-Style Pages</h2>
+    <section class="gallery">
+      <img src="./images/page_03_master_locked.png" alt="Savanna Heights Morning" />
+      <img src="./images/page_08_master_locked.png" alt="The Walking Stick Snaps" />
+      <img src="./images/page_17_master_locked.png" alt="Pop Pop Hugs Leo on the Porch" />
+      <img src="./images/page_23_master_locked.png" alt="Mending the Stick Together in the Workshop" />
+      <img src="./images/page_31_master_locked.png" alt="Family Talk on the Porch" />
+      <img src="./images/page_32_master_locked.png" alt="All 11 Members of the Jordan Pride" />
+    </section>
+
+    <section class="pillars">
+      <h2 style="text-align:center; color:var(--gold); font-size:1.9rem;">The Five Pillars of the Pride</h2>
+      <p style="text-align:center; color:#f3e2c3;">Five pillars we practice together, every single day:</p>
+      <ol>
+        <li><strong>Integrity &amp; the Courage to Do What's Right</strong></li>
+        <li><strong>Family Unity &amp; Unconditional Support</strong></li>
+        <li><strong>Hard Work &amp; Self-Discipline</strong></li>
+        <li><strong>Courtesy &amp; Universal Respect</strong> (“Yes, sir,” “Yes, ma’am,” holding doors)</li>
+        <li><strong>Active Kindness &amp; Service</strong></li>
+      </ol>
+      <p style="text-align:center; margin-top:1.4rem; font-style:italic; color:var(--gold);">“Fear is fuel—look it in the face and blaze right through it. Family over everything.” — James Jordan Jr. (Pop Pop)</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 The Jordan Pride Production • Created by James Jordan Jr. (Pop Pop) for Carter ("Poojie"), Lani ("Juju"), and the entire Jordan Pride.</p>
+  </footer>
+</body>
+</html>
