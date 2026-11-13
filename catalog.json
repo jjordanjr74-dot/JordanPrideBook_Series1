@@ -990,193 +990,225 @@
           "page": 1,
           "kind": "FRONT",
           "scene": "Half-Title Still Life — Glimmer the Star Plush on a Windowsill",
-          "text": "Maya and Glimmer’s Starlight Promise"
+          "text": "Maya and Glimmer’s Starlight Promise",
+          "image": "pages/book-03/page_01.jpg"
         },
         {
           "page": 2,
           "kind": "FRONT",
           "scene": "Title Page — Maya Holding Glimmer, Looking at the Moon",
-          "text": "The Jordan Pride - Book 3: Maya and Glimmer’s Starlight Promise\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights"
+          "text": "The Jordan Pride - Book 3: Maya and Glimmer’s Starlight Promise\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights",
+          "image": "pages/book-03/page_02.jpg"
         },
         {
           "page": 3,
           "kind": "ILL",
           "scene": "Supper Time — One Empty Chair",
-          "text": "The supper table was set. Golden light poured through the kitchen window. Mom set down a big bowl of rice and stew. Leo was already in his chair, napkin tucked in. But Maya stood at her seat, looking at the one empty chair across from her."
+          "text": "The supper table was set. Golden light poured through the kitchen window. Mom set down a big bowl of rice and stew. Leo was already in his chair, napkin tucked in. But Maya stood at her seat, looking at the one empty chair across from her.",
+          "image": "pages/book-03/page_03.jpg"
         },
         {
           "page": 4,
           "kind": "TEXT",
           "scene": "The Quiet Tummy",
-          "text": "Maya climbed into her chair and sat very still. She didn’t reach for the stew. She didn’t touch her cornbread. Her tummy felt quiet, like it was waiting for something. Mom sat down beside her and brushed her mane. \"What’s going on in that little head, baby?\""
+          "text": "Maya climbed into her chair and sat very still. She didn’t reach for the stew. She didn’t touch her cornbread. Her tummy felt quiet, like it was waiting for something. Mom sat down beside her and brushed her mane. \"What’s going on in that little head, baby?\"",
+          "image": "pages/book-03/page_04.jpg"
         },
         {
           "page": 5,
           "kind": "ILL",
           "scene": "Maya Points at the Empty Chair",
-          "text": "Maya pointed one small paw at the empty chair across the table. Her lower lip trembled. She pulled Glimmer close and held her tight. The chair was pushed in neat, with nobody behind it."
+          "text": "Maya pointed one small paw at the empty chair across the table. Her lower lip trembled. She pulled Glimmer close and held her tight. The chair was pushed in neat, with nobody behind it.",
+          "image": "pages/book-03/page_05.jpg"
         },
         {
           "page": 6,
           "kind": "TEXT",
           "scene": "Someone Is Away",
-          "text": "\"Somebody’s not here,\" Maya whispered. \"And I miss them.\" Mom’s eyes softened. She knew exactly who Maya meant. She took Maya’s paw and squeezed it. \"I know, baby. I miss them too. But you know what? They’re thinking about you right this very second.\""
+          "text": "\"Somebody’s not here,\" Maya whispered. \"And I miss them.\" Mom’s eyes softened. She knew exactly who Maya meant. She took Maya’s paw and squeezed it. \"I know, baby. I miss them too. But you know what? They’re thinking about you right this very second.\"",
+          "image": "pages/book-03/page_06.jpg"
         },
         {
           "page": 7,
           "kind": "ILL",
           "scene": "Leo Tries to Cheer Maya Up",
-          "text": "Leo put down his spoon. \"Maya, want me to do the funny face I learned at school? The one where I cross my eyes and stick out my tongue?\" He did it, tongue out and eyes crossed. Usually, Maya giggled. Tonight, she just held Glimmer tighter."
+          "text": "Leo put down his spoon. \"Maya, want me to do the funny face I learned at school? The one where I cross my eyes and stick out my tongue?\" He did it, tongue out and eyes crossed. Usually, Maya giggled. Tonight, she just held Glimmer tighter.",
+          "image": "pages/book-03/page_07.jpg"
         },
         {
           "page": 8,
           "kind": "TEXT",
           "scene": "Through the Window — The Moon",
-          "text": "Mom looked out the kitchen window. The sky was turning purple, and in the soft dusk, the first star had appeared — no, it was bigger than a star. It was the moon, silver and round, rising above the acacia trees. \"Maya,\" Mom said gently. \"Come see.\""
+          "text": "Mom looked out the kitchen window. The sky was turning purple, and in the soft dusk, the first star had appeared — no, it was bigger than a star. It was the moon, silver and round, rising above the acacia trees. \"Maya,\" Mom said gently. \"Come see.\"",
+          "image": "pages/book-03/page_08.jpg"
         },
         {
           "page": 9,
           "kind": "ILL",
           "scene": "The Moon Over Savanna Heights",
-          "text": "Mom lifted Maya onto her hip and carried her to the window. The moon hung in the sky, big and bright and silver, casting a soft glow across the whole neighborhood. Leo came and stood beside them."
+          "text": "Mom lifted Maya onto her hip and carried her to the window. The moon hung in the sky, big and bright and silver, casting a soft glow across the whole neighborhood. Leo came and stood beside them.",
+          "image": "pages/book-03/page_09.jpg"
         },
         {
           "page": 10,
           "kind": "TEXT",
           "scene": "The Same Moon",
-          "text": "\"See that moon?\" Mom said, her voice warm and low. \"That same moon is shining right now wherever the person you love is. They can look up and see it too. And when they see it, they’ll think of you, just like you’re thinking of them.\""
+          "text": "\"See that moon?\" Mom said, her voice warm and low. \"That same moon is shining right now wherever the person you love is. They can look up and see it too. And when they see it, they’ll think of you, just like you’re thinking of them.\"",
+          "image": "pages/book-03/page_10.jpg"
         },
         {
           "page": 11,
           "kind": "ILL",
           "scene": "Maya Looks Up — First Smile",
-          "text": "Maya looked up at the big silver moon. Her eyes got wide. She tilted her head, and a tiny smile crept across her face. She held Glimmer up toward the window so Glimmer could see the moon too."
+          "text": "Maya looked up at the big silver moon. Her eyes got wide. She tilted her head, and a tiny smile crept across her face. She held Glimmer up toward the window so Glimmer could see the moon too.",
+          "image": "pages/book-03/page_11.jpg"
         },
         {
           "page": 12,
           "kind": "TEXT",
           "scene": "Leo’s Bright Idea — Ear Twitch",
-          "text": "Leo’s left ear went twitch-twitch. \"I got it! Maya, every night, when you see the moon, you can make a wish for them. And they’ll be making a wish for you under the same moon!\" \"Really?\" Maya whispered. \"Really really,\" Leo said. \"It’s a Starlight Promise.\""
+          "text": "Leo’s left ear went twitch-twitch. \"I got it! Maya, every night, when you see the moon, you can make a wish for them. And they’ll be making a wish for you under the same moon!\" \"Really?\" Maya whispered. \"Really really,\" Leo said. \"It’s a Starlight Promise.\"",
+          "image": "pages/book-03/page_12.jpg"
         },
         {
           "page": 13,
           "kind": "ILL",
           "scene": "The Bedtime Story Recording",
-          "text": "After supper, Pop Pop came by with a small recording device. \"Someone special left something for you, baby girl.\" He pressed play. A warm, familiar voice began reading Maya's favorite bedtime story — the one about the little star who found her place in the sky."
+          "text": "After supper, Pop Pop came by with a small recording device. \"Someone special left something for you, baby girl.\" He pressed play. A warm, familiar voice began reading Maya's favorite bedtime story — the one about the little star who found her place in the sky.",
+          "image": "pages/book-03/page_13.jpg"
         },
         {
           "page": 14,
           "kind": "TEXT",
           "scene": "That Voice Hugs You Right Back",
-          "text": "Maya’s eyes filled with happy tears. She pressed her ear close to the little speaker. Mom knelt beside her. \"They can’t be here right now, sweetie. But that voice? That voice loves you. And when you press play, that voice hugs you right back.\""
+          "text": "Maya’s eyes filled with happy tears. She pressed her ear close to the little speaker. Mom knelt beside her. \"They can’t be here right now, sweetie. But that voice? That voice loves you. And when you press play, that voice hugs you right back.\"",
+          "image": "pages/book-03/page_14.jpg"
         },
         {
           "page": 15,
           "kind": "ILL",
           "scene": "Bedtime — Purple Pajamas and Glimmer",
-          "text": "Maya climbed into bed in her soft purple pajamas. She tucked Glimmer under the covers beside her. Mom pulled the quilt up to her chin. The recording device sat on the nightstand, ready to play."
+          "text": "Maya climbed into bed in her soft purple pajamas. She tucked Glimmer under the covers beside her. Mom pulled the quilt up to her chin. The recording device sat on the nightstand, ready to play.",
+          "image": "pages/book-03/page_15.jpg"
         },
         {
           "page": 16,
           "kind": "TEXT",
           "scene": "Pop Pop’s Moon Lesson",
-          "text": "Pop Pop sat on the edge of the bed. \"You know what the moon is, Maya? It’s God’s night-light. Same one your grandma used to look at. Same one your daddy looks at. Same one that person you love looks at. You’re never alone under that moon.\""
+          "text": "Pop Pop sat on the edge of the bed. \"You know what the moon is, Maya? It’s God’s night-light. Same one your grandma used to look at. Same one your daddy looks at. Same one that person you love looks at. You’re never alone under that moon.\"",
+          "image": "pages/book-03/page_16.jpg"
         },
         {
           "page": 17,
           "kind": "ILL",
           "scene": "Leo at the Doorway",
-          "text": "Leo appeared in the doorway, still in his red hoodie. He held up three fingers. \"Maya. I got three goodnight knock-knocks. Ready?\" Maya nodded and giggled through her tears."
+          "text": "Leo appeared in the doorway, still in his red hoodie. He held up three fingers. \"Maya. I got three goodnight knock-knocks. Ready?\" Maya nodded and giggled through her tears.",
+          "image": "pages/book-03/page_17.jpg"
         },
         {
           "page": 18,
           "kind": "TEXT",
           "scene": "Three Knock-Knock Jokes",
-          "text": "\"Knock knock.\" \"Who’s there?\" Maya whispered. \"Lion.\" \"Lion who?\" \"Lion in bed ’cause I’m sleepy too!\" Maya laughed. Leo did two more — one about an owl, one about a banana that didn’t know when to stop. Then he blew her a kiss. \"Goodnight, Maya. I’ll see you under the same moon.\""
+          "text": "\"Knock knock.\" \"Who’s there?\" Maya whispered. \"Lion.\" \"Lion who?\" \"Lion in bed ’cause I’m sleepy too!\" Maya laughed. Leo did two more — one about an owl, one about a banana that didn’t know when to stop. Then he blew her a kiss. \"Goodnight, Maya. I’ll see you under the same moon.\"",
+          "image": "pages/book-03/page_18.jpg"
         },
         {
           "page": 19,
           "kind": "ILL",
           "scene": "Mom Kisses Maya Goodnight",
-          "text": "Mom leaned down and kissed Maya’s forehead. Leo’s knock-knocks were still making her smile. The moon shone through the curtain, casting a silver stripe across the floor, right up to Maya’s bed."
+          "text": "Mom leaned down and kissed Maya’s forehead. Leo’s knock-knocks were still making her smile. The moon shone through the curtain, casting a silver stripe across the floor, right up to Maya’s bed.",
+          "image": "pages/book-03/page_19.jpg"
         },
         {
           "page": 20,
           "kind": "TEXT",
           "scene": "Pressing Play Under the Quilt",
-          "text": "Maya pulled the quilt over her head and pressed play on the recording. The familiar voice filled the little tent under the covers, reading about the star who found her place. Maya hugged Glimmer tight and closed her eyes."
+          "text": "Maya pulled the quilt over her head and pressed play on the recording. The familiar voice filled the little tent under the covers, reading about the star who found her place. Maya hugged Glimmer tight and closed her eyes.",
+          "image": "pages/book-03/page_20.jpg"
         },
         {
           "page": 21,
           "kind": "ILL",
           "scene": "The Moon Through the Window — Bedroom at Night",
-          "text": "The bedroom glowed silver. The recording played softly. Maya’s breathing slowed. Glimmer’s star shape caught the moonlight and shimmered gently. The voice on the recording kept reading, low and warm, like a hug you could hear."
+          "text": "The bedroom glowed silver. The recording played softly. Maya’s breathing slowed. Glimmer’s star shape caught the moonlight and shimmered gently. The voice on the recording kept reading, low and warm, like a hug you could hear.",
+          "image": "pages/book-03/page_21.jpg"
         },
         {
           "page": 22,
           "kind": "TEXT",
           "scene": "Almost Asleep",
-          "text": "Maya’s eyes fluttered. She was almost there — almost asleep. But before she drifted off, she whispered one thing up at the moon: \"I love you. And I’ll see you when you come back.\" The moon didn’t answer. But it didn’t have to."
+          "text": "Maya’s eyes fluttered. She was almost there — almost asleep. But before she drifted off, she whispered one thing up at the moon: \"I love you. And I’ll see you when you come back.\" The moon didn’t answer. But it didn’t have to.",
+          "image": "pages/book-03/page_22.jpg"
         },
         {
           "page": 23,
           "kind": "ILL",
           "scene": "Mom and Pop Pop at the Door",
-          "text": "Mom and Pop Pop stood at the doorway, watching. Mom’s paw covered her mouth. Pop Pop put his arm around her. The recording played on, soft and steady. Maya was asleep, Glimmer tucked under her chin, one small paw resting on the quilt."
+          "text": "Mom and Pop Pop stood at the doorway, watching. Mom’s paw covered her mouth. Pop Pop put his arm around her. The recording played on, soft and steady. Maya was asleep, Glimmer tucked under her chin, one small paw resting on the quilt.",
+          "image": "pages/book-03/page_23.jpg"
         },
         {
           "page": 24,
           "kind": "TEXT",
           "scene": "Morning Comes",
-          "text": "Sunlight streamed through the curtain. Maya woke up and stretched. The recording had finished sometime in the night. She picked up Glimmer and held her up to the window. \"Good morning, Glimmer. Did you see the moon last night?\""
+          "text": "Sunlight streamed through the curtain. Maya woke up and stretched. The recording had finished sometime in the night. She picked up Glimmer and held her up to the window. \"Good morning, Glimmer. Did you see the moon last night?\"",
+          "image": "pages/book-03/page_24.jpg"
         },
         {
           "page": 25,
           "kind": "ILL",
           "scene": "A Letter on the Kitchen Table",
-          "text": "Maya came downstairs in her yellow dress and purple ear ribbon. On the kitchen table was an envelope with her name on it in big, careful handwriting. Inside was a drawing — a star and a moon holding hands, signed with a heart."
+          "text": "Maya came downstairs in her yellow dress and purple ear ribbon. On the kitchen table was an envelope with her name on it in big, careful handwriting. Inside was a drawing — a star and a moon holding hands, signed with a heart.",
+          "image": "pages/book-03/page_25.jpg"
         },
         {
           "page": 26,
           "kind": "TEXT",
           "scene": "The Drawing Goes on the Fridge",
-          "text": "\"Look, Leo!\" Maya held up the drawing. \"They drew a star holding hands with the moon! That’s me and them!\" Leo came over and looked. \"That’s awesome, Maya. See? They were thinking about you under the same moon, just like I said.\""
+          "text": "\"Look, Leo!\" Maya held up the drawing. \"They drew a star holding hands with the moon! That’s me and them!\" Leo came over and looked. \"That’s awesome, Maya. See? They were thinking about you under the same moon, just like I said.\"",
+          "image": "pages/book-03/page_26.jpg"
         },
         {
           "page": 27,
           "kind": "ILL",
           "scene": "Maya Puts It Up With Magnets",
-          "text": "Maya stood on her tiptoes and stuck the drawing to the fridge with a big purple magnet. She stepped back and smiled. Now every time she passed the fridge, she’d see that star-and-moon drawing and remember what Mom said."
+          "text": "Maya stood on her tiptoes and stuck the drawing to the fridge with a big purple magnet. She stepped back and smiled. Now every time she passed the fridge, she’d see that star-and-moon drawing and remember what Mom said.",
+          "image": "pages/book-03/page_27.jpg"
         },
         {
           "page": 28,
           "kind": "TEXT",
           "scene": "Mom’s Warm Embrace",
-          "text": "Mom came up behind Maya, wrapped her arms around her, and kissed the top of her head. \"You were so brave last night, Maya. It’s okay to miss someone. Missing them just means you love them. And that’s a good thing.\""
+          "text": "Mom came up behind Maya, wrapped her arms around her, and kissed the top of her head. \"You were so brave last night, Maya. It’s okay to miss someone. Missing them just means you love them. And that’s a good thing.\"",
+          "image": "pages/book-03/page_28.jpg"
         },
         {
           "page": 29,
           "kind": "ILL",
           "scene": "Maya and Leo on the Porch — Starlight Promise Sealed",
-          "text": "Maya and Leo sat on the front steps, looking up at the pale morning sky where the moon was still just barely visible. Maya held Glimmer up. \"Glimmer says goodnight moon — but also good morning moon.\""
+          "text": "Maya and Leo sat on the front steps, looking up at the pale morning sky where the moon was still just barely visible. Maya held Glimmer up. \"Glimmer says goodnight moon — but also good morning moon.\"",
+          "image": "pages/book-03/page_29.jpg"
         },
         {
           "page": 30,
           "kind": "TEXT",
           "scene": "Closing — The Promise Lives",
-          "text": "Leo put his arm around his little sister. \"We got you, Maya. Always.\" Maya squeezed Glimmer. \"And I got Glimmer. And the moon. And the voice on the recording. So I’m not alone. Not really.\" \"Never alone,\" Mom said from the doorway. \"That’s the Jordan Pride promise.\""
+          "text": "Leo put his arm around his little sister. \"We got you, Maya. Always.\" Maya squeezed Glimmer. \"And I got Glimmer. And the moon. And the voice on the recording. So I’m not alone. Not really.\" \"Never alone,\" Mom said from the doorway. \"That’s the Jordan Pride promise.\"",
+          "image": "pages/book-03/page_30.jpg"
         },
         {
           "page": 31,
           "kind": "BACK - FAMILY TALK",
           "scene": "Family Talk — 7 Questions for Tonight",
-          "text": "**7 Questions for Tonight — Maya and Glimmer’s Starlight Promise**\n\n1. Maya felt sad when someone she loved was far away. Have you ever missed someone? What helped you feel better?\n2. Mom showed Maya the moon and said it’s the same moon shining wherever her loved one is. Does that idea make you feel close to someone far away?\n3. Leo made up the \"Starlight Promise\" to help Maya. What promise would you make to help someone who’s missing a loved one?\n4. The bedtime story recording made Maya feel hugged. Is there a recording, song, or voice that makes you feel safe?\n5. Pop Pop said the moon is \"God’s night-light.\" Do you have a special thing in nature that makes you feel connected to people you love?\n6. Maya woke up and found a drawing on the table. Why do little surprises from loved ones feel so special?\n7. Mom said \"Missing them just means you love them.\" How can missing someone actually be a good thing?"
+          "text": "**7 Questions for Tonight — Maya and Glimmer’s Starlight Promise**\n\n1. Maya felt sad when someone she loved was far away. Have you ever missed someone? What helped you feel better?\n2. Mom showed Maya the moon and said it’s the same moon shining wherever her loved one is. Does that idea make you feel close to someone far away?\n3. Leo made up the \"Starlight Promise\" to help Maya. What promise would you make to help someone who’s missing a loved one?\n4. The bedtime story recording made Maya feel hugged. Is there a recording, song, or voice that makes you feel safe?\n5. Pop Pop said the moon is \"God’s night-light.\" Do you have a special thing in nature that makes you feel connected to people you love?\n6. Maya woke up and found a drawing on the table. Why do little surprises from loved ones feel so special?\n7. Mom said \"Missing them just means you love them.\" How can missing someone actually be a good thing?",
+          "image": "pages/book-03/page_31.jpg"
         },
         {
           "page": 32,
           "kind": "BACK - FIVE PILLARS",
           "scene": "Our Family Promise — The Five Pillars of the Pride",
-          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more."
+          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more.",
+          "image": "pages/book-03/page_32.jpg"
         }
       ],
       "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
@@ -1188,193 +1220,225 @@
           "page": 1,
           "kind": "FRONT",
           "scene": "Half-Title Still Life — Glimmer the Star Plush on a Windowsill",
-          "text": "Maya and Glimmer’s Starlight Promise"
+          "text": "Maya and Glimmer’s Starlight Promise",
+          "image": "pages/book-03/page_01.jpg"
         },
         {
           "page": 2,
           "kind": "FRONT",
           "scene": "Title Page — Maya Holding Glimmer, Looking at the Moon",
-          "text": "The Jordan Pride - Book 3: Maya and Glimmer’s Starlight Promise\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights"
+          "text": "The Jordan Pride - Book 3: Maya and Glimmer’s Starlight Promise\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights",
+          "image": "pages/book-03/page_02.jpg"
         },
         {
           "page": 3,
           "kind": "ILL",
           "scene": "Supper Time — One Empty Chair",
-          "text": "The supper table was set. Golden light poured through the kitchen window. Mom set down a big bowl of rice and stew. Leo was already in his chair, napkin tucked in. But Maya stood at her seat, looking at the one empty chair across from her."
+          "text": "The supper table was set. Golden light poured through the kitchen window. Mom set down a big bowl of rice and stew. Leo was already in his chair, napkin tucked in. But Maya stood at her seat, looking at the one empty chair across from her.",
+          "image": "pages/book-03/page_03.jpg"
         },
         {
           "page": 4,
           "kind": "TEXT",
           "scene": "The Quiet Tummy",
-          "text": "Maya climbed into her chair and sat very still. She didn’t reach for the stew. She didn’t touch her cornbread. Her tummy felt quiet, like it was waiting for something. Mom sat down beside her and brushed her mane. \"What’s going on in that little head, baby?\""
+          "text": "Maya climbed into her chair and sat very still. She didn’t reach for the stew. She didn’t touch her cornbread. Her tummy felt quiet, like it was waiting for something. Mom sat down beside her and brushed her mane. \"What’s going on in that little head, baby?\"",
+          "image": "pages/book-03/page_04.jpg"
         },
         {
           "page": 5,
           "kind": "ILL",
           "scene": "Maya Points at the Empty Chair",
-          "text": "Maya pointed one small paw at the empty chair across the table. Her lower lip trembled. She pulled Glimmer close and held her tight. The chair was pushed in neat, with nobody behind it."
+          "text": "Maya pointed one small paw at the empty chair across the table. Her lower lip trembled. She pulled Glimmer close and held her tight. The chair was pushed in neat, with nobody behind it.",
+          "image": "pages/book-03/page_05.jpg"
         },
         {
           "page": 6,
           "kind": "TEXT",
           "scene": "Someone Is Away",
-          "text": "\"Somebody’s not here,\" Maya whispered. \"And I miss them.\" Mom’s eyes softened. She knew exactly who Maya meant. She took Maya’s paw and squeezed it. \"I know, baby. I miss them too. But you know what? They’re thinking about you right this very second.\""
+          "text": "\"Somebody’s not here,\" Maya whispered. \"And I miss them.\" Mom’s eyes softened. She knew exactly who Maya meant. She took Maya’s paw and squeezed it. \"I know, baby. I miss them too. But you know what? They’re thinking about you right this very second.\"",
+          "image": "pages/book-03/page_06.jpg"
         },
         {
           "page": 7,
           "kind": "ILL",
           "scene": "Leo Tries to Cheer Maya Up",
-          "text": "Leo put down his spoon. \"Maya, want me to do the funny face I learned at school? The one where I cross my eyes and stick out my tongue?\" He did it, tongue out and eyes crossed. Usually, Maya giggled. Tonight, she just held Glimmer tighter."
+          "text": "Leo put down his spoon. \"Maya, want me to do the funny face I learned at school? The one where I cross my eyes and stick out my tongue?\" He did it, tongue out and eyes crossed. Usually, Maya giggled. Tonight, she just held Glimmer tighter.",
+          "image": "pages/book-03/page_07.jpg"
         },
         {
           "page": 8,
           "kind": "TEXT",
           "scene": "Through the Window — The Moon",
-          "text": "Mom looked out the kitchen window. The sky was turning purple, and in the soft dusk, the first star had appeared — no, it was bigger than a star. It was the moon, silver and round, rising above the acacia trees. \"Maya,\" Mom said gently. \"Come see.\""
+          "text": "Mom looked out the kitchen window. The sky was turning purple, and in the soft dusk, the first star had appeared — no, it was bigger than a star. It was the moon, silver and round, rising above the acacia trees. \"Maya,\" Mom said gently. \"Come see.\"",
+          "image": "pages/book-03/page_08.jpg"
         },
         {
           "page": 9,
           "kind": "ILL",
           "scene": "The Moon Over Savanna Heights",
-          "text": "Mom lifted Maya onto her hip and carried her to the window. The moon hung in the sky, big and bright and silver, casting a soft glow across the whole neighborhood. Leo came and stood beside them."
+          "text": "Mom lifted Maya onto her hip and carried her to the window. The moon hung in the sky, big and bright and silver, casting a soft glow across the whole neighborhood. Leo came and stood beside them.",
+          "image": "pages/book-03/page_09.jpg"
         },
         {
           "page": 10,
           "kind": "TEXT",
           "scene": "The Same Moon",
-          "text": "\"See that moon?\" Mom said, her voice warm and low. \"That same moon is shining right now wherever the person you love is. They can look up and see it too. And when they see it, they’ll think of you, just like you’re thinking of them.\""
+          "text": "\"See that moon?\" Mom said, her voice warm and low. \"That same moon is shining right now wherever the person you love is. They can look up and see it too. And when they see it, they’ll think of you, just like you’re thinking of them.\"",
+          "image": "pages/book-03/page_10.jpg"
         },
         {
           "page": 11,
           "kind": "ILL",
           "scene": "Maya Looks Up — First Smile",
-          "text": "Maya looked up at the big silver moon. Her eyes got wide. She tilted her head, and a tiny smile crept across her face. She held Glimmer up toward the window so Glimmer could see the moon too."
+          "text": "Maya looked up at the big silver moon. Her eyes got wide. She tilted her head, and a tiny smile crept across her face. She held Glimmer up toward the window so Glimmer could see the moon too.",
+          "image": "pages/book-03/page_11.jpg"
         },
         {
           "page": 12,
           "kind": "TEXT",
           "scene": "Leo’s Bright Idea — Ear Twitch",
-          "text": "Leo’s left ear went twitch-twitch. \"I got it! Maya, every night, when you see the moon, you can make a wish for them. And they’ll be making a wish for you under the same moon!\" \"Really?\" Maya whispered. \"Really really,\" Leo said. \"It’s a Starlight Promise.\""
+          "text": "Leo’s left ear went twitch-twitch. \"I got it! Maya, every night, when you see the moon, you can make a wish for them. And they’ll be making a wish for you under the same moon!\" \"Really?\" Maya whispered. \"Really really,\" Leo said. \"It’s a Starlight Promise.\"",
+          "image": "pages/book-03/page_12.jpg"
         },
         {
           "page": 13,
           "kind": "ILL",
           "scene": "The Bedtime Story Recording",
-          "text": "After supper, Pop Pop came by with a small recording device. \"Someone special left something for you, baby girl.\" He pressed play. A warm, familiar voice began reading Maya's favorite bedtime story — the one about the little star who found her place in the sky."
+          "text": "After supper, Pop Pop came by with a small recording device. \"Someone special left something for you, baby girl.\" He pressed play. A warm, familiar voice began reading Maya's favorite bedtime story — the one about the little star who found her place in the sky.",
+          "image": "pages/book-03/page_13.jpg"
         },
         {
           "page": 14,
           "kind": "TEXT",
           "scene": "That Voice Hugs You Right Back",
-          "text": "Maya’s eyes filled with happy tears. She pressed her ear close to the little speaker. Mom knelt beside her. \"They can’t be here right now, sweetie. But that voice? That voice loves you. And when you press play, that voice hugs you right back.\""
+          "text": "Maya’s eyes filled with happy tears. She pressed her ear close to the little speaker. Mom knelt beside her. \"They can’t be here right now, sweetie. But that voice? That voice loves you. And when you press play, that voice hugs you right back.\"",
+          "image": "pages/book-03/page_14.jpg"
         },
         {
           "page": 15,
           "kind": "ILL",
           "scene": "Bedtime — Purple Pajamas and Glimmer",
-          "text": "Maya climbed into bed in her soft purple pajamas. She tucked Glimmer under the covers beside her. Mom pulled the quilt up to her chin. The recording device sat on the nightstand, ready to play."
+          "text": "Maya climbed into bed in her soft purple pajamas. She tucked Glimmer under the covers beside her. Mom pulled the quilt up to her chin. The recording device sat on the nightstand, ready to play.",
+          "image": "pages/book-03/page_15.jpg"
         },
         {
           "page": 16,
           "kind": "TEXT",
           "scene": "Pop Pop’s Moon Lesson",
-          "text": "Pop Pop sat on the edge of the bed. \"You know what the moon is, Maya? It’s God’s night-light. Same one your grandma used to look at. Same one your daddy looks at. Same one that person you love looks at. You’re never alone under that moon.\""
+          "text": "Pop Pop sat on the edge of the bed. \"You know what the moon is, Maya? It’s God’s night-light. Same one your grandma used to look at. Same one your daddy looks at. Same one that person you love looks at. You’re never alone under that moon.\"",
+          "image": "pages/book-03/page_16.jpg"
         },
         {
           "page": 17,
           "kind": "ILL",
           "scene": "Leo at the Doorway",
-          "text": "Leo appeared in the doorway, still in his red hoodie. He held up three fingers. \"Maya. I got three goodnight knock-knocks. Ready?\" Maya nodded and giggled through her tears."
+          "text": "Leo appeared in the doorway, still in his red hoodie. He held up three fingers. \"Maya. I got three goodnight knock-knocks. Ready?\" Maya nodded and giggled through her tears.",
+          "image": "pages/book-03/page_17.jpg"
         },
         {
           "page": 18,
           "kind": "TEXT",
           "scene": "Three Knock-Knock Jokes",
-          "text": "\"Knock knock.\" \"Who’s there?\" Maya whispered. \"Lion.\" \"Lion who?\" \"Lion in bed ’cause I’m sleepy too!\" Maya laughed. Leo did two more — one about an owl, one about a banana that didn’t know when to stop. Then he blew her a kiss. \"Goodnight, Maya. I’ll see you under the same moon.\""
+          "text": "\"Knock knock.\" \"Who’s there?\" Maya whispered. \"Lion.\" \"Lion who?\" \"Lion in bed ’cause I’m sleepy too!\" Maya laughed. Leo did two more — one about an owl, one about a banana that didn’t know when to stop. Then he blew her a kiss. \"Goodnight, Maya. I’ll see you under the same moon.\"",
+          "image": "pages/book-03/page_18.jpg"
         },
         {
           "page": 19,
           "kind": "ILL",
           "scene": "Mom Kisses Maya Goodnight",
-          "text": "Mom leaned down and kissed Maya’s forehead. Leo’s knock-knocks were still making her smile. The moon shone through the curtain, casting a silver stripe across the floor, right up to Maya’s bed."
+          "text": "Mom leaned down and kissed Maya’s forehead. Leo’s knock-knocks were still making her smile. The moon shone through the curtain, casting a silver stripe across the floor, right up to Maya’s bed.",
+          "image": "pages/book-03/page_19.jpg"
         },
         {
           "page": 20,
           "kind": "TEXT",
           "scene": "Pressing Play Under the Quilt",
-          "text": "Maya pulled the quilt over her head and pressed play on the recording. The familiar voice filled the little tent under the covers, reading about the star who found her place. Maya hugged Glimmer tight and closed her eyes."
+          "text": "Maya pulled the quilt over her head and pressed play on the recording. The familiar voice filled the little tent under the covers, reading about the star who found her place. Maya hugged Glimmer tight and closed her eyes.",
+          "image": "pages/book-03/page_20.jpg"
         },
         {
           "page": 21,
           "kind": "ILL",
           "scene": "The Moon Through the Window — Bedroom at Night",
-          "text": "The bedroom glowed silver. The recording played softly. Maya’s breathing slowed. Glimmer’s star shape caught the moonlight and shimmered gently. The voice on the recording kept reading, low and warm, like a hug you could hear."
+          "text": "The bedroom glowed silver. The recording played softly. Maya’s breathing slowed. Glimmer’s star shape caught the moonlight and shimmered gently. The voice on the recording kept reading, low and warm, like a hug you could hear.",
+          "image": "pages/book-03/page_21.jpg"
         },
         {
           "page": 22,
           "kind": "TEXT",
           "scene": "Almost Asleep",
-          "text": "Maya’s eyes fluttered. She was almost there — almost asleep. But before she drifted off, she whispered one thing up at the moon: \"I love you. And I’ll see you when you come back.\" The moon didn’t answer. But it didn’t have to."
+          "text": "Maya’s eyes fluttered. She was almost there — almost asleep. But before she drifted off, she whispered one thing up at the moon: \"I love you. And I’ll see you when you come back.\" The moon didn’t answer. But it didn’t have to.",
+          "image": "pages/book-03/page_22.jpg"
         },
         {
           "page": 23,
           "kind": "ILL",
           "scene": "Mom and Pop Pop at the Door",
-          "text": "Mom and Pop Pop stood at the doorway, watching. Mom’s paw covered her mouth. Pop Pop put his arm around her. The recording played on, soft and steady. Maya was asleep, Glimmer tucked under her chin, one small paw resting on the quilt."
+          "text": "Mom and Pop Pop stood at the doorway, watching. Mom’s paw covered her mouth. Pop Pop put his arm around her. The recording played on, soft and steady. Maya was asleep, Glimmer tucked under her chin, one small paw resting on the quilt.",
+          "image": "pages/book-03/page_23.jpg"
         },
         {
           "page": 24,
           "kind": "TEXT",
           "scene": "Morning Comes",
-          "text": "Sunlight streamed through the curtain. Maya woke up and stretched. The recording had finished sometime in the night. She picked up Glimmer and held her up to the window. \"Good morning, Glimmer. Did you see the moon last night?\""
+          "text": "Sunlight streamed through the curtain. Maya woke up and stretched. The recording had finished sometime in the night. She picked up Glimmer and held her up to the window. \"Good morning, Glimmer. Did you see the moon last night?\"",
+          "image": "pages/book-03/page_24.jpg"
         },
         {
           "page": 25,
           "kind": "ILL",
           "scene": "A Letter on the Kitchen Table",
-          "text": "Maya came downstairs in her yellow dress and purple ear ribbon. On the kitchen table was an envelope with her name on it in big, careful handwriting. Inside was a drawing — a star and a moon holding hands, signed with a heart."
+          "text": "Maya came downstairs in her yellow dress and purple ear ribbon. On the kitchen table was an envelope with her name on it in big, careful handwriting. Inside was a drawing — a star and a moon holding hands, signed with a heart.",
+          "image": "pages/book-03/page_25.jpg"
         },
         {
           "page": 26,
           "kind": "TEXT",
           "scene": "The Drawing Goes on the Fridge",
-          "text": "\"Look, Leo!\" Maya held up the drawing. \"They drew a star holding hands with the moon! That’s me and them!\" Leo came over and looked. \"That’s awesome, Maya. See? They were thinking about you under the same moon, just like I said.\""
+          "text": "\"Look, Leo!\" Maya held up the drawing. \"They drew a star holding hands with the moon! That’s me and them!\" Leo came over and looked. \"That’s awesome, Maya. See? They were thinking about you under the same moon, just like I said.\"",
+          "image": "pages/book-03/page_26.jpg"
         },
         {
           "page": 27,
           "kind": "ILL",
           "scene": "Maya Puts It Up With Magnets",
-          "text": "Maya stood on her tiptoes and stuck the drawing to the fridge with a big purple magnet. She stepped back and smiled. Now every time she passed the fridge, she’d see that star-and-moon drawing and remember what Mom said."
+          "text": "Maya stood on her tiptoes and stuck the drawing to the fridge with a big purple magnet. She stepped back and smiled. Now every time she passed the fridge, she’d see that star-and-moon drawing and remember what Mom said.",
+          "image": "pages/book-03/page_27.jpg"
         },
         {
           "page": 28,
           "kind": "TEXT",
           "scene": "Mom’s Warm Embrace",
-          "text": "Mom came up behind Maya, wrapped her arms around her, and kissed the top of her head. \"You were so brave last night, Maya. It’s okay to miss someone. Missing them just means you love them. And that’s a good thing.\""
+          "text": "Mom came up behind Maya, wrapped her arms around her, and kissed the top of her head. \"You were so brave last night, Maya. It’s okay to miss someone. Missing them just means you love them. And that’s a good thing.\"",
+          "image": "pages/book-03/page_28.jpg"
         },
         {
           "page": 29,
           "kind": "ILL",
           "scene": "Maya and Leo on the Porch — Starlight Promise Sealed",
-          "text": "Maya and Leo sat on the front steps, looking up at the pale morning sky where the moon was still just barely visible. Maya held Glimmer up. \"Glimmer says goodnight moon — but also good morning moon.\""
+          "text": "Maya and Leo sat on the front steps, looking up at the pale morning sky where the moon was still just barely visible. Maya held Glimmer up. \"Glimmer says goodnight moon — but also good morning moon.\"",
+          "image": "pages/book-03/page_29.jpg"
         },
         {
           "page": 30,
           "kind": "TEXT",
           "scene": "Closing — The Promise Lives",
-          "text": "Leo put his arm around his little sister. \"We got you, Maya. Always.\" Maya squeezed Glimmer. \"And I got Glimmer. And the moon. And the voice on the recording. So I’m not alone. Not really.\" \"Never alone,\" Mom said from the doorway. \"That’s the Jordan Pride promise.\""
+          "text": "Leo put his arm around his little sister. \"We got you, Maya. Always.\" Maya squeezed Glimmer. \"And I got Glimmer. And the moon. And the voice on the recording. So I’m not alone. Not really.\" \"Never alone,\" Mom said from the doorway. \"That’s the Jordan Pride promise.\"",
+          "image": "pages/book-03/page_30.jpg"
         },
         {
           "page": 31,
           "kind": "BACK - FAMILY TALK",
           "scene": "Family Talk — 7 Questions for Tonight",
-          "text": "**7 Questions for Tonight — Maya and Glimmer’s Starlight Promise**\n\n1. Maya felt sad when someone she loved was far away. Have you ever missed someone? What helped you feel better?\n2. Mom showed Maya the moon and said it’s the same moon shining wherever her loved one is. Does that idea make you feel close to someone far away?\n3. Leo made up the \"Starlight Promise\" to help Maya. What promise would you make to help someone who’s missing a loved one?\n4. The bedtime story recording made Maya feel hugged. Is there a recording, song, or voice that makes you feel safe?\n5. Pop Pop said the moon is \"God’s night-light.\" Do you have a special thing in nature that makes you feel connected to people you love?\n6. Maya woke up and found a drawing on the table. Why do little surprises from loved ones feel so special?\n7. Mom said \"Missing them just means you love them.\" How can missing someone actually be a good thing?"
+          "text": "**7 Questions for Tonight — Maya and Glimmer’s Starlight Promise**\n\n1. Maya felt sad when someone she loved was far away. Have you ever missed someone? What helped you feel better?\n2. Mom showed Maya the moon and said it’s the same moon shining wherever her loved one is. Does that idea make you feel close to someone far away?\n3. Leo made up the \"Starlight Promise\" to help Maya. What promise would you make to help someone who’s missing a loved one?\n4. The bedtime story recording made Maya feel hugged. Is there a recording, song, or voice that makes you feel safe?\n5. Pop Pop said the moon is \"God’s night-light.\" Do you have a special thing in nature that makes you feel connected to people you love?\n6. Maya woke up and found a drawing on the table. Why do little surprises from loved ones feel so special?\n7. Mom said \"Missing them just means you love them.\" How can missing someone actually be a good thing?",
+          "image": "pages/book-03/page_31.jpg"
         },
         {
           "page": 32,
           "kind": "BACK - FIVE PILLARS",
           "scene": "Our Family Promise — The Five Pillars of the Pride",
-          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more."
+          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more.",
+          "image": "pages/book-03/page_32.jpg"
         }
       ],
       "word_count": 1442
