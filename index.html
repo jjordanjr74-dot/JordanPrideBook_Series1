@@ -272,6 +272,33 @@
   .catalog-sec .sec-head h3 { font-size: clamp(1.75rem, 3.2vw, 2.35rem); color: #2b1d12; margin-bottom: 0.6rem; }
   .catalog-sec .sec-head p { color: #5a3e24; font-size: 1.05rem; }
 
+
+  html, body { overflow-x: hidden; max-width: 100%; }
+  header {
+    background: linear-gradient(135deg, #fff6e0 0%, #f5e2b8 100%) !important;
+    color: #2b1d12 !important;
+    border-bottom: 4px solid #d4a038 !important;
+  }
+  header h1 { color: #2b1d12 !important; }
+  header p.sub { color: #4a2f18 !important; }
+  .btn-outline { border: 2px solid #8c5a2b !important; color: #2b1d12 !important; background: #fffdf8; }
+  .pillars {
+    background: linear-gradient(135deg, #fff6e0 0%, #f5e2b8 100%) !important;
+    color: #2b1d12 !important;
+  }
+  @media (max-width: 620px) {
+    header { padding: 1.75rem 1rem !important; }
+    header .badge { font-size: 0.72rem !important; padding: 0.35rem 0.75rem !important; line-height: 1.35; }
+    header h1 { font-size: 1.65rem !important; line-height: 1.2; }
+    header p.sub { font-size: 0.98rem !important; }
+    .cta-row { flex-direction: column; align-items: stretch; }
+    .btn { width: 100%; text-align: center; padding: 0.85rem 1rem !important; font-size: 0.96rem !important; min-height: 44px; }
+    .hero-grid, .tier-grid, .gallery { grid-template-columns: 1fr !important; gap: 1.25rem !important; }
+    .tier.featured { transform: none !important; }
+    .container { padding: 1.5rem 1rem !important; }
+    .apps-section, .pillars { padding: 1.35rem 1rem !important; }
+  }
+
   </style>
 </head>
 <body>
