@@ -26,7 +26,7 @@ with open(anchor_path, "rb") as f:
     anchor_b64 = base64.b64encode(f.read()).decode("utf-8")
 
 hardened_prompt = (
-    "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, bright cheerful morning sunlight. "
+    "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering, bright cheerful morning sunlight. "
     "Panoramic continuous two-page spread (Pages 4 and 5), clean composition keeping central gutter fold free of character faces and critical action. "
     "On the left page, Leo Jordan (6yo golden boy lion cub, blue denim overalls, orange-and-white horizontally striped t-shirt, blue sneakers, NO hair ribbons) is in mid-air in a big, joyful pounce leap over green garden bushes. "
     "Below him on the green grass, Maya Jordan (3yo girl lion cub, yellow dress, bright purple ear bow ribbon behind her left ear, pink sandals) sitting happily cheering him on holding purple star plushie Glimmer. "
@@ -39,7 +39,7 @@ hardened_prompt = (
 )
 
 instruction = (
-    "Generate a high-resolution, final publication-grade 2D digital storybook illustration with vibrant vector linework and soft cel shading. "
+    "Generate a high-resolution, final publication-grade Cinematic 3D CGI animated feature film still with vibrant vector linework and subsurface scattering and physically based lighting. "
     "STRICT CHARACTER & ATTIRE CONTINUITY: Copy exactly the character visual identity, fur tone, and outfit designs shown in reference image. "
     f"Scene Action: {hardened_prompt}"
 )

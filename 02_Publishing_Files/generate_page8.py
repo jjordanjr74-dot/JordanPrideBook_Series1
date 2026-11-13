@@ -39,7 +39,7 @@ else:
 
 # Super-hardened prompt addressing Spread 8-9 audit failures
 hardened_prompt = (
-    "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, warm morning light. "
+    "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering, warm morning light. "
     "Panoramic continuous two-page spread (Pages 8 and 9), clean composition keeping central gutter fold free of character faces and critical action. "
     "On the left page, Maya Jordan (3yo girl lion cub, yellow dress with crayon pockets, purple ear bow behind left ear, pink sandals) is sitting flat on the soft green lawn grass, clutching her soft purple star plushie Glimmer, looking up at her brother Leo Jordan (6yo golden boy lion cub, overalls, striped shirt) who is standing proudly next to her. Placing a gentle paw on Leo's leg with sisterly comfort. "
     "Pop Pop's hand-carved oak garden marker is a simple round wooden stake post snapped cleanly into two broken pieces, lying flat in the grass between them. It MUST feature the highly distinct, hand-carved barber-pole style spiral twisting vine groove running from top to bottom on the wood surface. There is absolutely no text, no lettering, no signs, and no words written or carved on the wood. "
@@ -50,7 +50,7 @@ hardened_prompt = (
 )
 
 instruction = (
-    "Generate a high-resolution, final publication-grade 2D digital storybook illustration with vibrant vector linework and soft cel shading. "
+    "Generate a high-resolution, final publication-grade Cinematic 3D CGI animated feature film still with vibrant vector linework and subsurface scattering and physically based lighting. "
     "STRICT CHARACTER & ATTIRE CONTINUITY: Copy exactly the character visual identity, fur tone, and outfit designs shown in reference image. "
     f"Scene Action: {hardened_prompt}"
 )

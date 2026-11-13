@@ -80,7 +80,7 @@ def compile_prompt(scene_text, page_num, target_engine="imagen", is_spread=True)
     
     chars = [c for c in bible.keys() if re.search(r"\b" + re.escape(c) + r"\b", sanitized, re.IGNORECASE)]
     
-    style_prefix = "High-quality 2D digital storybook art illustration, vibrant vector linework, soft cel shading, warm golden savanna lighting. "
+    style_prefix = "High-quality 3D CGI animated feature film art illustration, vibrant vector linework, subsurface scattering and physically based lighting, warm golden savanna lighting. "
     
     if is_spread:
         layout = f"Panoramic two-page spread (Pages {page_num}-{page_num+1}), clean composition with empty gutter fold in center. "

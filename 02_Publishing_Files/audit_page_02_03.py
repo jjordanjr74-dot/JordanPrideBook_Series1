@@ -16,11 +16,11 @@ report_file = r"C:\Users\marti\JordanPrideBook_Series1_Final\02_Publishing_Files
 prompts = {
     "Page_02.png": {
         "title": "Page 2: Copyright & ISBN Page",
-        "prompt": "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. Decorative border design for a children's book copyright page. Subtle savanna acacia leaf vines, delicate floral sprigs, and small lion paw print icons framing the outer top and bottom margins. Clean warm cream background #FFFDF5 --ar 8.5:11 --v 6.0"
+        "prompt": "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. Decorative border design for a children's book copyright page. Subtle savanna acacia leaf vines, delicate floral sprigs, and small lion paw print icons framing the outer top and bottom margins. Clean warm cream background #FFFDF5 --ar 8.5:11 --v 6.0"
     },
     "Page_03.png": {
         "title": "Page 3: Dedication Page",
-        "prompt": "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. Small decorative emblem vignette on a flat warm cream background #FFFDF5. Centered illustration of a hand-carved oak lion shield with a warm golden heart emblem carved in the center, resting gently on a soft bed of green savanna grass and blooming red roses. Soft golden backlight, peaceful and inspiring tone, centered framing --ar 1:1 --v 6.0"
+        "prompt": "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. Small decorative emblem vignette on a flat warm cream background #FFFDF5. Centered illustration of a hand-carved oak lion shield with a warm golden heart emblem carved in the center, resting gently on a soft bed of green savanna grass and blooming red roses. Soft golden backlight, peaceful and inspiring tone, centered framing --ar 1:1 --v 6.0"
     }
 }
 

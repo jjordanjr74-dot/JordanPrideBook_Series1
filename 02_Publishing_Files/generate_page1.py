@@ -37,7 +37,7 @@ else:
 
 # Super-hardened prompt applying "The Sibling Height Matrix Exaggeration" and "The Sloped arm pyramid composition"
 hardened_prompt = (
-    "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, warm savanna lighting. Title page vignette. "
+    "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering, warm savanna lighting. Title page vignette. "
     "Centered, beautifully framed character portrait on a flat warm cream background (#FFFDF5). "
     "In the center of the frame stands Pop Pop Jordan (broad-shouldered grandfather lion, silver-and-gold mane, red plaid flannel shirt with rolled sleeves, dark khaki trousers, work boots, brass belt buckle, golden pocket watch chain) sitting on a sturdy rustic wooden bench, smiling warmly with relaxed eyebrows. "
     "Pop Pop Jordan is holding tiny Maya Jordan (3yo cream-and-gold girl lion cub, snout freckles, hazel eyes, sunshine-yellow dress with deep front pockets, bright purple ear bow ribbon behind her left ear, pink sandals) sitting comfortably on his left knee. Maya is clutching her soft purple star plushie Glimmer and waving happily. Pop Pop's large left arm is wrapped gently around Maya's waist to hold her safely on his lap. "
@@ -49,7 +49,7 @@ hardened_prompt = (
 )
 
 instruction = (
-    "Generate a high-resolution, final publication-grade 2D digital storybook illustration with vibrant vector linework and soft cel shading. "
+    "Generate a high-resolution, final publication-grade Cinematic 3D CGI animated feature film still with vibrant vector linework and subsurface scattering and physically based lighting. "
     "STRICT CHARACTER & ATTIRE CONTINUITY: Copy exactly the character visual identity, fur tone, and outfit designs shown in reference image. "
     f"Scene Action: {hardened_prompt}"
 )

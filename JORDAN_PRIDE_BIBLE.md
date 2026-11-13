@@ -35,8 +35,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Sturdy blue denim overalls with a front pocket (toy magnifying glass tucked inside) over an orange-and-white striped short-sleeve shirt, blue canvas sneakers.
 * **Personality Quirks**: Asks "Why?" ten times a minute; wiggles left ear when he gets an idea; collects rocks in his pockets.
 * **Core Value Taught**: **Honesty** — Learning that telling the truth keeps trust intact.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. An energetic 6-year-old anthropomorphic boy lion cub with golden-yellow fur, a tuft of reddish-brown hair, and amber eyes. Wearing blue denim overalls with a magnifying glass in the pocket over an orange-and-white striped shirt, and blue sneakers. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. An energetic 6-year-old anthropomorphic boy lion cub with golden-yellow fur, a tuft of reddish-brown hair, and amber eyes. Wearing blue denim overalls with a magnifying glass in the pocket over an orange-and-white striped shirt, and blue sneakers. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 
@@ -47,8 +47,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Bright sunshine-yellow dress with deep crayon pockets, bright purple ribbon ear bow tied behind her left ear, pink leather sandals. Always clutches her plush star plushie, "Glimmer."
 * **Personality Quirks**: Hum-sings background music; clutches "Glimmer" everywhere; gasps dramatically at butterflies.
 * **Core Value Taught**: **Generosity** — Sharing her favorite things freely without expecting anything in return.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. An adorable 3-year-old anthropomorphic girl lion cub with cream-and-gold fur, snout freckles, and a purple ear ribbon. Wearing a sunshine-yellow dress with crayon pockets, pink sandals, holding a plush star. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. An adorable 3-year-old anthropomorphic girl lion cub with cream-and-gold fur, snout freckles, and a purple ear ribbon. Wearing a sunshine-yellow dress with crayon pockets, pink sandals, holding a plush star. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 
@@ -59,8 +59,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Warm plaid flannel button-down shirt with neatly rolled-up sleeves, dark khaki trousers, sturdy dark-leather work boots, brass belt buckle, gold pocket watch chain.
 * **Personality Quirks**: Deep rumbling laugh; winks when sharing wisdom; collects handmade wooden tools in his workshop.
 * **Core Value Taught**: **Family & Mutual Support** — Family is a safe harbor where everyone pulls together.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. A broad-shouldered anthropomorphic grandfather lion with a silver-and-gold mane and amber eyes. Wearing a plaid flannel shirt with rolled sleeves, khaki trousers, work boots, brass buckle, and pocket watch chain. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. A broad-shouldered anthropomorphic grandfather lion with a silver-and-gold mane and amber eyes. Wearing a plaid flannel shirt with rolled sleeves, khaki trousers, work boots, brass buckle, and pocket watch chain. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 
@@ -71,8 +71,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Worn trucker hat, cozy cable-knit cream cardigan sweater over collared beige shirt, relaxed-fit khaki trousers, soft brown leather loafers.
 * **Personality Quirks**: Naps in rocking chair, wakes up to share truck driving tales; keeps a folded map in pocket.
 * **Core Value Taught**: **Charity** — Giving time, love, and care to those who need it most.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. A distinguished elderly anthropomorphic lion with a graying mane and reading spectacles. Noticeable bend in back when standing. Wearing a cream cable-knit cardigan, beige collared shirt, khaki trousers, and brown loafers. Wears a worn trucker hat. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. A distinguished elderly anthropomorphic lion with a graying mane and reading spectacles. Noticeable bend in back when standing. Wearing a cream cable-knit cardigan, beige collared shirt, khaki trousers, and brown loafers. Wears a worn trucker hat. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 
@@ -83,8 +83,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Wide-brimmed sunhat, vibrant silk scarf tied around her neck, coral short-sleeve tunic blouse, cream linen pants, flat leather sandals, clinking souvenir charm bracelet.
 * **Personality Quirks**: Speaks playful phrases from different languages; sends postcards with hand-drawn doodles; brings mysterious souvenirs.
 * **Core Value Taught**: **Kindness** — Warmth and empathy transcend cultures, places, and differences.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. An elegant anthropomorphic grandmother lioness with sleek golden fur, sunhat, and silk scarf. Wearing a coral tunic, cream linen pants, flat sandals, and charm bracelet. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. An elegant anthropomorphic grandmother lioness with sleek golden fur, sunhat, and silk scarf. Wearing a coral tunic, cream linen pants, flat sandals, and charm bracelet. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 
@@ -95,8 +95,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Comfortable teal tunic blouse, dark charcoal leggings, tan woven flats, delicate silver pendant shaped like a paw print.
 * **Personality Quirks**: Gasps with delight at every small animal or bird; keeps a spotless home organizational board; gives soft hugs.
 * **Core Value Taught**: **Helping Others** — Actively assisting neighbors and caring for nature enriches the community.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. A petite short anthropomorphic female lioness with warm honey-toned fur and brown eyes. Wearing a teal tunic blouse, charcoal leggings, tan flats, and a silver paw-print pendant. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. A petite short anthropomorphic female lioness with warm honey-toned fur and brown eyes. Wearing a teal tunic blouse, charcoal leggings, tan flats, and a silver paw-print pendant. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 
@@ -107,8 +107,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Fitted navy-blue mechanic coveralls (with a small, neat grease smudge on one cheek) worn over a dark t-shirt, classic retro high-top basketball sneakers.
 * **Personality Quirks**: Spins a basketball on his finger while explaining engine mechanics; whistles upbeat tunes; secret handshake for everyone.
 * **Core Value Taught**: **Right vs. Wrong & Integrity** — Fair play, integrity, and doing what is right even when nobody is watching.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. A tall, slim anthropomorphic male lion with a mahogany mane. Wearing navy mechanic coveralls with a grease smudge on his cheek, and high-top basketball sneakers. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. A tall, slim anthropomorphic male lion with a mahogany mane. Wearing navy mechanic coveralls with a grease smudge on his cheek, and high-top basketball sneakers. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 
@@ -119,8 +119,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Bright red short-sleeve athletic hoodie, matching dark-grey sweatpants, digital sports watch, modern cross-training sneakers.
 * **Personality Quirks**: Does jumping jacks while waiting for toaster; challenges family to friendly arm-wrestling; high-fives everyone.
 * **Core Value Taught**: **Strong Helping the Weak** — True strength is using your advantages to lift up others.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. An athletic muscular anthropomorphic male lion with a short dark mane, sharp eyes and a big beautiful toothy smile. Wearing a bright red short-sleeve athletic hoodie, grey sweatpants, sports watch, and cross-training sneakers. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. An athletic muscular anthropomorphic male lion with a short dark mane, sharp eyes and a big beautiful toothy smile. Wearing a bright red short-sleeve athletic hoodie, grey sweatpants, sports watch, and cross-training sneakers. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 
@@ -131,8 +131,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Flowing olive-and-gold kaftan dress, wide-leg linen pants, turquoise stone jewelry, polished leather flats.
 * **Personality Quirks**: Pauses thoughtfully before speaking; brews lavender-and-honey tea; lights scented candles during peaceful morning reflections.
 * **Core Value Taught**: **Good Manners & Politeness** — Respect, courteous speech, and gracious behavior bring harmony.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. A graceful anthropomorphic female lioness with braided head fur in an earth-toned wrap. Wearing an olive-and-gold kaftan dress, linen pants, turquoise jewelry, and leather flats. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. A graceful anthropomorphic female lioness with braided head fur in an earth-toned wrap. Wearing an olive-and-gold kaftan dress, linen pants, turquoise jewelry, and leather flats. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 
@@ -143,8 +143,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Pastel lavender cardigan sweater over a soft white blouse, dark-blue pleated skirt, small grey canvas flats.
 * **Personality Quirks**: Always carries a book under her arm; speaks in a soft melody; bakes fresh carrot muffins.
 * **Core Value Taught**: **Patience & Respect** — Gentle manners, active listening, and consideration for feelings.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. A gentle anthropomorphic white rabbit with pink-lined ears and reading glasses. Wearing a lavender cardigan, white blouse, blue pleated skirt, and grey flats, carrying a book. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. A gentle anthropomorphic white rabbit with pink-lined ears and reading glasses. Wearing a lavender cardigan, white blouse, blue pleated skirt, and grey flats, carrying a book. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 
@@ -155,8 +155,8 @@ The Jordan Pride is a lion family living in a **100% anthropomorphic universe** 
 * **Attire & Wardrobe**: Flour-dusted floral apron over denim button-down shirt, dark navy trousers, comfortable brown boots.
 * **Personality Quirks**: Gives giant bear hugs that lift cubs off the ground; leaves warm cinnamon rolls on the porch; booming merry laugh.
 * **Core Value Taught**: **Hospitality** — Opening your heart and doors to neighbors makes the community feel like family.
-* **2D Anchor Prompt**:
-  > `High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading. A cozy anthropomorphic brown bear with dark chocolate fur and a hair bun. Wearing a flour-dusted floral apron over a denim shirt, dark trousers, and brown boots. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
+* **3D CGI Anchor Prompt**:
+  > `Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering. A cozy anthropomorphic brown bear with dark chocolate fur and a hair bun. Wearing a flour-dusted floral apron over a denim shirt, dark trousers, and brown boots. Character anchor sheet, full body shot, front view, flat white background --ar 1:1`
 
 ---
 

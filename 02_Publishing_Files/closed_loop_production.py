@@ -94,7 +94,7 @@ def build_hardened_prompt(page_num, page_title, scene_text, is_spread=True):
     chars_present = detect_characters(sanitized_scene)
     
     # 1. Verbatim Style Prefix
-    prompt = "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, warm golden savanna lighting. "
+    prompt = "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering, warm golden savanna lighting. "
     
     if is_spread:
         prompt += f"Panoramic two-page spread (Pages {page_num} and {page_num+1}), clean composition keeping central gutter fold free of character faces and critical action. "
@@ -154,7 +154,7 @@ def generate_image(prompt_text, aspect_ratio="17:11"):
     # The original code attempted to fall back to local if JORDAN_PRIDE_MODE=="local", but we force cloud to avoid localhost failures.
     endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{IMAGE_MODEL}:generateContent?key={API_KEY}"
     instruction = (
-        "Generate a high-resolution, final publication-grade 2D digital storybook illustration with vibrant vector linework and soft cel shading. "
+        "Generate a high-resolution, final publication-grade Cinematic 3D CGI animated feature film still with vibrant vector linework and subsurface scattering and physically based lighting. "
         "STRICT NO-TEXT & NO-BUBBLE RULE: You must absolutely NEVER render any text, letters, words, dialog bubbles, speech bubbles, thought bubbles, or comic-book pointers on the image. Keep the background completely clean, natural, and empty of graphical text artifacts. "
         "STRICT CHARACTER & STYLE CONTINUITY: You must match the visual style, fur tones, and character visual designs shown in the attached reference image. "
         f"Prompt instructions: {prompt_text}"
@@ -190,7 +190,7 @@ def generate_image(prompt_text, aspect_ratio="17:11"):
     endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{IMAGE_MODEL}:generateContent?key={API_KEY}"
     
     instruction = (
-        "Generate a high-resolution, final publication-grade 2D digital storybook illustration with vibrant vector linework and soft cel shading. "
+        "Generate a high-resolution, final publication-grade Cinematic 3D CGI animated feature film still with vibrant vector linework and subsurface scattering and physically based lighting. "
         "STRICT NO-TEXT & NO-BUBBLE RULE: You must absolutely NEVER render any text, letters, words, dialog bubbles, speech bubbles, thought bubbles, or comic-book pointers on the image. Keep the background completely clean, natural, and empty of graphical text artifacts. "
         "STRICT CHARACTER & STYLE CONTINUITY: You must match the visual style, fur tones, and character visual designs shown in the attached reference image. "
         f"Prompt instructions: {prompt_text}"

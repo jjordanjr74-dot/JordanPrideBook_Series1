@@ -152,7 +152,7 @@ def auto_harden_prompt(original_prompt, failed_issues):
 # Generate Image with Reference Conditioning
 def generate_conditioned_image(hardened_prompt):
     instruction = (
-        "Generate a high-resolution, final publication-grade 2D digital storybook illustration with vibrant vector linework and soft cel shading. "
+        "Generate a high-resolution, final publication-grade Cinematic 3D CGI animated feature film still with vibrant vector linework and subsurface scattering and physically based lighting. "
         "STRICT CHARACTER & ATTIRE CONTINUITY: Copy exactly the character visual identity, fur tone, and outfit designs shown in reference image. "
         f"Scene Action: {hardened_prompt}"
     )
@@ -255,7 +255,7 @@ targets = [
             "Unrequested sunflowers/leaves are encroaching on the title text area."
         ],
         "hardened_prompt": (
-            "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, warm savanna lighting. "
+            "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering, warm savanna lighting. "
             "Title page vignette. Centered, perfectly symmetrical character portrait on a flat warm cream background (#FFFDF5). "
             "In the absolute center of the frame, Pop Pop Jordan (broad-shouldered grandfather lion, silver-and-gold mane, red plaid flannel shirt with rolled sleeves, dark khaki trousers, work boots, brass belt buckle, golden pocket watch chain) stands tall, proud, and perfectly centered behind both children. "
             "Pop Pop Jordan's large right paw rests gently on Leo's left shoulder, and his large left paw rests gently on Maya's right shoulder. Symmetrical protective posture. "
@@ -274,7 +274,7 @@ targets = [
             "Leo's right hand exhibits minor anatomical rendering distortion, appearing slightly too human-like."
         ],
         "hardened_prompt": (
-            "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, bright cheerful morning sunlight. "
+            "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering, bright cheerful morning sunlight. "
             "Panoramic continuous two-page spread (Pages 4 and 5), clean composition keeping central gutter fold free of character faces and critical action. "
             "In the center of the left page, Leo Jordan (6yo golden boy lion cub, blue denim overalls over orange-and-white striped t-shirt, blue sneakers, NO hair ribbons) is in mid-air in a big, joyful leap over green garden bushes, with thick round cartoon paws (no human hands). "
             "Below him on the grass, tiny Maya Jordan (3yo girl lion cub, yellow dress, purple ear bow, pink sandals) sits clutching purple star plushie Glimmer. "
@@ -294,7 +294,7 @@ targets = [
             "Split-frame panel layout instead of a seamless, continuous panoramic double-page spread."
         ],
         "hardened_prompt": (
-            "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, dramatic warm afternoon lighting. "
+            "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering, dramatic warm afternoon lighting. "
             "Panoramic continuous two-page spread (Pages 6 and 7) with a seamless, single-frame layout (no panels, no split frames, no border dividers), clean composition keeping central gutter fold free of characters. "
             "On the left page, Leo Jordan (6yo golden boy lion cub, blue denim overalls, orange-striped t-shirt, blue sneakers, no ribbons) is scrambling backward on his hands and knees on the grass, wide amber eyes staring in shock. Next to him, Pop Pop's hand-carved oak garden marker is broken in half and lying flat on the grass. "
             "Maya Jordan (3yo girl lion cub, yellow dress with deep front pockets stuffed with crayons, purple ear bow, pink sandals) is rushing to Leo's side with a worried, sympathetic expression, placing a comforting paw on Leo's arm. "
@@ -314,7 +314,7 @@ targets = [
             "Dad is wearing a light blue short-sleeved shirt instead of navy mechanic coveralls."
         ],
         "hardened_prompt": (
-            "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, warm lighting. "
+            "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering, warm lighting. "
             "Panoramic continuous two-page spread (Pages 24 and 25), clean composition keeping central gutter fold free of character faces and critical action. "
             "On the left page, Leo Jordan (6yo golden boy cub in blue overalls) runs joyfully through the sunny garden grass with outstretched arms, surrounded by glowing sparkles. "
             "On the right page, cozy indoor evening scene around a long wooden dining table under a hanging lantern. Exactly five distinct characters sit at the table eating dinner together happily: "

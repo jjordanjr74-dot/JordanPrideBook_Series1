@@ -28,7 +28,7 @@ def load_prompts():
     for line in lines:
         if line.startswith("#### ") or line.startswith("## 🖼️"):
             current_title = line.strip("#").strip()
-        elif line.startswith("`High-quality 2D digital storybook art illustration"):
+        elif line.startswith("`High-quality 3D CGI animated feature film art illustration"):
             current_prompt = line.strip("`").strip()
             pages[idx] = (current_title, current_prompt)
             idx += 1

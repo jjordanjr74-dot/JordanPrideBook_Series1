@@ -59,7 +59,7 @@ def load_prompts():
     for line in lines:
         if line.startswith("#### ") or line.startswith("## 🖼️"):
             current_title = line.strip("#").strip()
-        elif line.startswith("`High-quality 2D digital storybook art illustration"):
+        elif line.startswith("`High-quality 3D CGI animated feature film art illustration"):
             current_prompt = line.strip("`").strip()
             pages[idx] = (current_title, current_prompt)
             idx += 1
@@ -185,7 +185,7 @@ def auto_harden_prompt(original_prompt, failed_issues):
 # Generate Image with Reference Conditioning
 def generate_conditioned_image(hardened_prompt):
     instruction = (
-        "Generate a high-resolution, final publication-grade 2D digital storybook illustration with vibrant vector linework and soft cel shading. "
+        "Generate a high-resolution, final publication-grade Cinematic 3D CGI animated feature film still with vibrant vector linework and subsurface scattering and physically based lighting. "
         "STRICT CHARACTER & ATTIRE CONTINUITY: Copy exactly the character visual identity, fur tone, and outfit designs shown in reference image. "
         f"Scene Action: {hardened_prompt}"
     )

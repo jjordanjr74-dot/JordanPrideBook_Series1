@@ -28,7 +28,7 @@ if os.path.exists(fallback_anchor):
         anchor_b64 = base64.b64encode(f.read()).decode("utf-8")
 
 hardened_prompt = (
-    "High-quality 2D digital storybook art illustration, vibrant vector linework with soft cel shading, warm cozy dining room lighting. "
+    "Cinematic 3D CGI animated feature film still, Pixar/DreamWorks 3D character design with fine fur groom and subsurface scattering, warm cozy dining room lighting. "
     "Panoramic continuous two-page spread (Pages 24 and 25), clean composition keeping central gutter fold free of character faces and critical action. "
     "Scene Action: A warm family dinner inside the Jordan family home. On the left page, Leo Jordan (6yo golden boy lion cub, blue denim overalls over orange-and-white striped short-sleeve shirt, 4-digit furry paws) sits at the dining table holding a spoon with soft cartoon paws. "
     "On the right page, Dad Jordan, Mom Jordan, Pop Pop Jordan, and tiny Maya Jordan (3yo toddler girl cub in yellow dress with purple ear bow) sit together at the wooden dinner table. "
@@ -39,7 +39,7 @@ hardened_prompt = (
 )
 
 instruction = (
-    "Generate a high-resolution, final publication-grade 2D digital storybook illustration with vibrant vector linework and soft cel shading. "
+    "Generate a high-resolution, final publication-grade Cinematic 3D CGI animated feature film still with vibrant vector linework and subsurface scattering and physically based lighting. "
     "STRICT CHARACTER & ATTIRE CONTINUITY: Copy exactly the character visual identity, fur tone, and outfit designs shown in reference image. "
     f"Scene Action: {hardened_prompt}"
 )
