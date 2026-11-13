@@ -161,6 +161,117 @@
       color: var(--bronze);
       font-size: 0.95rem;
     }
+  /* Catalog & Interactive Story Picker */
+  .catalog-sec{padding:68px 0; background:#F7EFE0; border-top:1px solid #e2cfa8;}
+  .filter-bar{display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin-bottom:28px;}
+  .fbtn{
+    font-family:'Trebuchet MS',sans-serif; font-size:13.5px; font-weight:700;
+    padding:10px 18px; min-height:44px; border-radius:100px;
+    border:1.5px solid #e2cfa8; background:#fffdf8; color:#2b1d12;
+    cursor:pointer; transition:.18s ease;
+  }
+  .fbtn:hover{border-color:#e67e22;}
+  .fbtn.active{background:#2b1d12; color:#FBF6EA; border-color:#2b1d12;}
+  .bundle-bar{
+    background:#fffdf8; border:2px solid #e67e22; border-radius:18px;
+    padding:18px 22px; margin-bottom:30px; display:flex; flex-wrap:wrap;
+    align-items:center; justify-content:space-between; gap:16px;
+    box-shadow:0 10px 26px rgba(42,32,21,.07);
+  }
+  .bundle-bar .b-info h4{font-size:19px; color:#2b1d12; margin:0 0 4px;}
+  .bundle-bar .b-info p{margin:0; font-size:14.5px; color:#6b4c30; font-family:'Trebuchet MS',sans-serif;}
+  .bundle-pills{display:flex; flex-wrap:wrap; gap:8px; margin-top:8px;}
+  .bpill{
+    background:#EFE4CE; color:#2b1d12; font-family:'Trebuchet MS',sans-serif;
+    font-size:12.5px; font-weight:700; padding:5px 12px; border-radius:100px;
+  }
+  .catalog-grid{display:grid; grid-template-columns:repeat(3, 1fr); gap:24px;}
+  .bcard{
+    background:#fffdf8; border:1.5px solid #e2cfa8; border-radius:20px;
+    overflow:hidden; display:flex; flex-direction:column; transition:.2s ease;
+    box-shadow:0 6px 18px rgba(42,32,21,.04);
+  }
+  .bcard.picked{border-color:#1e5631; box-shadow:0 0 0 3px rgba(74,107,74,.22);}
+  .bcard-img-wrap{position:relative; aspect-ratio:1/1; background:#E9DEC7; overflow:hidden;}
+  .bcard-img-wrap img{width:100%; height:100%; object-fit:cover; display:block;}
+  .bcard-num{
+    position:absolute; top:12px; left:12px; background:#2b1d12; color:#FBF6EA;
+    font-family:'Trebuchet MS',sans-serif; font-size:11.5px; font-weight:700;
+    letter-spacing:.1em; text-transform:uppercase; padding:5px 11px; border-radius:100px;
+  }
+  .bcard-pillar{
+    position:absolute; bottom:12px; left:12px; background:rgba(251,246,234,.95);
+    color:#2b1d12; font-family:'Trebuchet MS',sans-serif; font-size:11.5px;
+    font-weight:700; padding:5px 11px; border-radius:100px; border:1px solid #e2cfa8;
+  }
+  .bcard-body{padding:20px; display:flex; flex-direction:column; flex:1;}
+  .bcard-badge{
+    font-family:'Trebuchet MS',sans-serif; font-size:11.5px; font-weight:700;
+    color:#8c5a2b; text-transform:uppercase; letter-spacing:.08em; margin-bottom:6px;
+  }
+  .bcard h4{font-size:21px; line-height:1.22; color:#2b1d12; margin:0 0 8px;}
+  .bcard .sub-syn{font-size:14.5px; color:#6b4c30; margin:0 0 12px; line-height:1.48;}
+  .bcard-meta{
+    font-family:'Trebuchet MS',sans-serif; font-size:12.5px; color:#2b1d12;
+    background:#F3E9D4; padding:8px 12px; border-radius:10px; margin-bottom:12px;
+  }
+  .bcard-quote{
+    font-size:13.5px; font-style:italic; color:#5A4631; border-left:3px solid #e67e22;
+    padding-left:10px; margin:0 0 16px; line-height:1.45;
+  }
+  .bcard-actions{margin-top:auto; display:grid; grid-template-columns:1fr 1fr; gap:8px;}
+  .bcard-btn{
+    font-family:'Trebuchet MS',sans-serif; font-size:13px; font-weight:700;
+    padding:10px 12px; min-height:44px; border-radius:10px; text-align:center;
+    cursor:pointer; border:1.5px solid #e2cfa8; background:#FFFDF7; color:#2b1d12;
+    display:inline-flex; align-items:center; justify-content:center; text-decoration:none;
+  }
+  .bcard-btn:hover{border-color:#2b1d12;}
+  .bcard-btn.pri{background:#e67e22; color:#1F160E; border-color:#e67e22;}
+  .bcard-btn.pri:hover{background:#8c5a2b; color:#FFFDF7;}
+  .bcard-btn.pick-toggle.active{background:#1e5631; color:#FBF6EA; border-color:#1e5631;}
+  .bcard-single-link{
+    grid-column:1 / -1; font-family:'Trebuchet MS',sans-serif; font-size:13px; font-weight:700;
+    padding:10px 12px; min-height:44px; border-radius:10px; text-align:center;
+    background:#2b1d12; color:#FBF6EA; text-decoration:none; display:flex;
+    align-items:center; justify-content:center; margin-top:4px;
+  }
+  .bcard-single-link:hover{background:#1e5631;}
+  /* Modal */
+  .gv-modal-backdrop{
+    position:fixed; inset:0; background:rgba(42,32,21,.62); z-index:999;
+    display:none; align-items:center; justify-content:center; padding:18px;
+  }
+  .gv-modal-backdrop.open{display:flex;}
+  .gv-modal{
+    background:#fffdf8; border:2px solid #e2cfa8; border-radius:22px;
+    max-width:680px; width:100%; max-height:88vh; overflow-y:auto; padding:28px;
+    box-shadow:0 24px 60px rgba(0,0,0,.28); color:#2b1d12;
+  }
+  .gv-modal-top{display:flex; justify-content:space-between; align-items:flex-start; gap:14px; margin-bottom:14px;}
+  .gv-modal-close{
+    background:#EFE4CE; border:none; border-radius:100px; min-width:44px; min-height:44px;
+    font-size:18px; font-weight:700; color:#2b1d12; cursor:pointer;
+  }
+  .gv-sample-page{
+    background:#FFFDF7; border:1px solid #e2cfa8; border-radius:14px;
+    padding:14px 16px; margin-bottom:10px;
+  }
+  .gv-sample-page strong{font-family:'Trebuchet MS',sans-serif; font-size:12px; text-transform:uppercase; color:#8c5a2b; letter-spacing:.08em; display:block; margin-bottom:4px;}
+  @media (max-width:960px){
+    .catalog-grid{grid-template-columns:1fr 1fr;}
+  }
+  @media (max-width:620px){
+    .catalog-grid{grid-template-columns:1fr;}
+    .bundle-bar{flex-direction:column; align-items:stretch;}
+  }
+
+  .catalog-sec .wrap { max-width: 1140px; margin: 0 auto; padding: 0 1.25rem; }
+  .catalog-sec .sec-head { text-align: center; max-width: 820px; margin: 0 auto 2rem; }
+  .catalog-sec .sec-head .kicker { font-family: 'Trebuchet MS', sans-serif; font-size: 0.85rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.12em; color: #8c5a2b; margin-bottom: 0.4rem; }
+  .catalog-sec .sec-head h3 { font-size: clamp(1.75rem, 3.2vw, 2.35rem); color: #2b1d12; margin-bottom: 0.6rem; }
+  .catalog-sec .sec-head p { color: #5a3e24; font-size: 1.05rem; }
+
   </style>
 </head>
 <body>
@@ -172,6 +283,7 @@
       <a class="btn btn-gold" href="https://buy.stripe.com/5kQ6oAgxJ7qPfBW6Gt08g0g">Buy Instant Digital Book ($9.99)</a>
       <a class="btn btn-amber" href="https://buy.stripe.com/28E9AMa9l9yX4Xigh308g0h">Order Collector's Paperback ($16.99)</a>
       <a class="btn btn-outline" href="https://buy.stripe.com/bJe6oA5T55iHgG02qd08g0i">Deluxe Hardcover + Apps Bundle ($24.99)</a>
+      <a class="btn btn-gold" href="#catalog">Browse All 12 Stories Catalog →</a>
     </div>
   </header>
 
@@ -221,6 +333,300 @@
       </div>
     </section>
 
+  </main>
+<section class="catalog-sec" id="catalog">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">The Complete 12-Book Savanna Heights Library</div>
+      <h3>Choose the Jordan Pride stories you want to read in <em>your</em> voice</h3>
+      <p>Every 32-page book is built around our Five Family Pillars — peace, honesty, multicultural neighbors walking hand in hand, and unconditional love. Pick any single story ($19.99), build your own <strong>3-Story Bundle ($39.99)</strong>, or unlock the <strong>10-Story Legacy Library ($79.99)</strong>.</p>
+    </div>
+
+    <div class="filter-bar" role="tablist" aria-label="Filter stories by family need or value">
+      <button type="button" class="fbtn active" data-filter="all">All 12 Books</button>
+      <button type="button" class="fbtn" data-filter="military">Deployed Military &amp; Traveling Parents</button>
+      <button type="button" class="fbtn" data-filter="incarcerated">Incarcerated Parents &amp; Second Chances</button>
+      <button type="button" class="fbtn" data-filter="grandparents">Grandparents &amp; Legacy Keepsakes</button>
+      <button type="button" class="fbtn" data-filter="integrity">Honesty &amp; Integrity</button>
+      <button type="button" class="fbtn" data-filter="kindness">Kindness &amp; Manners</button>
+    </div>
+
+    <div class="bundle-bar" id="bundle-bar">
+      <div class="b-info">
+        <h4 id="bundle-headline">Your Custom Story Tray (0 stories selected)</h4>
+        <p id="bundle-subtext">Tap <strong>"+ Add to My Bundle"</strong> on any books below to build your 1-story, 3-story, or 10-story voice-cloned package.</p>
+        <div class="bundle-pills" id="bundle-pills"></div>
+      </div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap;">
+        <a id="bundle-checkout-btn" class="btn btn-primary" href="https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m" target="_blank" rel="noopener">Checkout 3-Story Bundle ($39.99) →</a>
+        <a class="btn btn-ghost" href="https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n" target="_blank" rel="noopener">Get All 10+ Legacy Library ($79.99)</a>
+      </div>
+    </div>
+
+    <div class="catalog-grid" id="catalog-grid">
+      
+      <article class="bcard" data-book-id="book-01" data-book-title="Book 1: The Day Leo Broke Pop Pop's Walking Stick" data-tags="all military incarcerated grandparents integrity">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_01.jpg" alt="The Day Leo Broke Pop Pop's Walking Stick cover illustration" loading="lazy">
+          <span class="bcard-num">Book 1 · 32 Pages</span>
+          <span class="bcard-pillar">Integrity & Courage</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">Flagship · Best for Separated Dads & Grandpas</div>
+          <h4>The Day Leo Broke Pop Pop's Walking Stick</h4>
+          <p class="sub-syn">When six-year-old Leo swings Pop-Pop's carved golden pine walking stick like a pirate sword, it snaps in two. With little Maya holding his paw, Leo finds the courage to confess—and learns in Pop-Pop's workshop that a mended joint can become even stronger right where it broke.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Leo (6), Maya (3), Pop-Pop & Mama Pearl &nbsp;·&nbsp; 9 min read-aloud</div>
+          <blockquote class="bcard-quote">Pop-Pop: "Only weak lions lie. Strong lions tell the truth—even when their knees are shaking."</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-01">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-01">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-01" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            <a class="bcard-single-link" style="background:#5A4631;" href="https://buy.stripe.com/bJe6oA5T55iHgG02qd08g0i" target="_blank" rel="noopener">Order Print Hardcover ($24.99) →</a>
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-02" data-book-title="Book 2: The Great Savanna Treehouse Build" data-tags="all military grandparents hardwork">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_02.jpg" alt="The Great Savanna Treehouse Build cover illustration" loading="lazy">
+          <span class="bcard-num">Book 2 · 32 Pages</span>
+          <span class="bcard-pillar">Hard Work & Self-Discipline</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">32 Master Art Spreads Ready · Builder Favorite</div>
+          <h4>The Great Savanna Treehouse Build</h4>
+          <p class="sub-syn">Leo wants a giant backyard treehouse before sunset, and he wants to skip the blueprints! When his rushed ladder wobbles, Dad, Pop-Pop, and Uncle Tio teach Leo and Maya how real builders plan, level the beams, and turn patience into a fortress the whole neighborhood can share.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Leo, Maya, Pop-Pop, Dad & Uncle Tio &nbsp;·&nbsp; 9 min read-aloud</div>
+          <blockquote class="bcard-quote">Dad: "Paycheck's honest, and so am I. Measure twice, cut once, cub!"</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-02">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-02">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-02" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-03" data-book-title="Book 3: Maya and Glimmer's Starlight Promise" data-tags="all military incarcerated grandparents unity">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_03.jpg" alt="Maya and Glimmer's Starlight Promise cover illustration" loading="lazy">
+          <span class="bcard-num">Book 3 · 32 Pages</span>
+          <span class="bcard-pillar">Family Unity & Unconditional Support</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">#1 Pick for Deployed Military & Incarcerated Parents</div>
+          <h4>Maya and Glimmer's Starlight Promise</h4>
+          <p class="sub-syn">Three-year-old Maya can't fall asleep because someone she loves isn't home to tuck her in. Holding her purple star plush, Glimmer, up to the bedroom window, Maya learns that the exact same moon shining over Savanna Heights is shining through her loved one's window too—carrying their bedtime voice straight to her pillow.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Maya (3), Glimmer, Leo & Mom &nbsp;·&nbsp; 8 min read-aloud</div>
+          <blockquote class="bcard-quote">Maya: "Glimmer and I aren't scared—we're just checking."</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-03">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-03">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-03" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-04" data-book-title="Book 4: Great-Grampa's No-GPS Road Trip" data-tags="all military grandparents courtesy">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_04.jpg" alt="Great-Grampa's No-GPS Road Trip cover illustration" loading="lazy">
+          <span class="bcard-num">Book 4 · 32 Pages</span>
+          <span class="bcard-pillar">Courtesy & Respect for Elders</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">Best for Truckers, CDL Drivers & Grandpas</div>
+          <h4>Great-Grampa's No-GPS Road Trip</h4>
+          <p class="sub-syn">When a summer rainstorm washes out the main trail to the Savanna Heights picnic, Leo worries the whole Saturday is ruined. Great-Grampa tips his trucker hat forward, unfolds a paper map, and shows the cubs how listening to elders, reading landmarks, and keeping your cool turns any detour into an adventure.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Great-Grampa (72), Pop-Pop, Leo & Maya &nbsp;·&nbsp; 9 min read-aloud</div>
+          <blockquote class="bcard-quote">Great-Grampa: "I drove through worse than this, and I had no GPS."</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-04">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-04">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-04" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-05" data-book-title="Book 5: Mama Pearl's Cinnamon Roll Rescue" data-tags="all grandparents kindness">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_05.jpg" alt="Mama Pearl's Cinnamon Roll Rescue cover illustration" loading="lazy">
+          <span class="bcard-num">Book 5 · 32 Pages</span>
+          <span class="bcard-pillar">Active Kindness & Service</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">Warm Kitchen Read-Aloud · Ages 3–7</div>
+          <h4>Mama Pearl's Cinnamon Roll Rescue</h4>
+          <p class="sub-syn">A multicultural family of new neighbors just moved into the house at the end of the cobblestone lane, and their little cub is too shy to come out to play. Mama Pearl ties aprons onto Leo and Maya, teaches them how to knead cinnamon dough from scratch, and shows them how a warm plate and open hands build instant peace and friendship.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Mama Pearl, Leo, Maya & the New Neighbor &nbsp;·&nbsp; 8 min read-aloud</div>
+          <blockquote class="bcard-quote">Mama Pearl: "Eat. Rest. Then we'll fix the world."</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-05">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-05">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-05" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-06" data-book-title="Book 6: TiTi's Big Voice for the Little Park" data-tags="all military incarcerated courtesy">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_06.jpg" alt="TiTi's Big Voice for the Little Park cover illustration" loading="lazy">
+          <span class="bcard-num">Book 6 · 32 Pages</span>
+          <span class="bcard-pillar">Courtesy & Civic Courage</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">Confidence & Manners Builder</div>
+          <h4>TiTi's Big Voice for the Little Park</h4>
+          <p class="sub-syn">When the Savanna Heights town council considers paving over the little pocket park for extra delivery carts, Leo wants to roar and stomp. Auntie TiTi combs his mane, hands him a clipboard, and teaches the kids how to gather signatures, say 'Yes ma'am' and 'Yes sir,' and win the room with respect instead of noise.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Auntie TiTi, Leo, Maya & Savanna Heights Council &nbsp;·&nbsp; 9 min read-aloud</div>
+          <blockquote class="bcard-quote">TiTi: "That mane needs combing, sweetheart. Stand tall, speak clear, love you."</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-06">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-06">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-06" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-07" data-book-title="Book 7: Uncle Tio's Ten-Jumping-Jack Morning" data-tags="all military incarcerated hardwork">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_07.jpg" alt="Uncle Tio's Ten-Jumping-Jack Morning cover illustration" loading="lazy">
+          <span class="bcard-num">Book 7 · 32 Pages</span>
+          <span class="bcard-pillar">Hard Work & Self-Discipline</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">High-Energy Fun · Kids Do the Sounds Back</div>
+          <h4>Uncle Tio's Ten-Jumping-Jack Morning</h4>
+          <p class="sub-syn">Leo wakes up on the wrong side of the quilt, his shoelace knots up, and his frustration is ready to boil over. Best friends Geno and Ali arrive just as Uncle Tio blows his whistle and teaches the whole crew his secret reset: breathe deep, laugh at the tangle, do ten jumping jacks together, and try again fresh.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Uncle Tio, Leo (6), Maya (3), Ali & Geno &nbsp;·&nbsp; 8 min read-aloud</div>
+          <blockquote class="bcard-quote">Tio: "I'm not laughing at you—I'm laughing with you... mostly!"</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-07">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-07">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-07" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-08" data-book-title="Book 8: Miss Bunny's Garden of Second Chances" data-tags="all incarcerated grandparents hardwork integrity">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_08.jpg" alt="Miss Bunny's Garden of Second Chances cover illustration" loading="lazy">
+          <span class="bcard-num">Book 8 · 32 Pages</span>
+          <span class="bcard-pillar">Curiosity & Perseverance</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">Redemption & Growth Favorite</div>
+          <h4>Miss Bunny's Garden of Second Chances</h4>
+          <p class="sub-syn">When Leo's first row of garden seeds doesn't sprout and his puzzle tower tumbles down, he wants to quit so he never looks wrong. Under the shade tree, Miss Bunny shares crisp carrots and shows Leo, Maya, Geno, and Ali that nobody grows without mistakes—and that everyone deserves a second chance to bloom.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Miss Bunny, Leo, Maya, Geno & Ali &nbsp;·&nbsp; 9 min read-aloud</div>
+          <blockquote class="bcard-quote">Miss Bunny: "We share carrots, not answers. Now try again."</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-08">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-08">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-08" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-09" data-book-title="Book 9: Dad's Honest Paycheck & The Lost Wallet" data-tags="all military incarcerated integrity">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_09.jpg" alt="Dad's Honest Paycheck & The Lost Wallet cover illustration" loading="lazy">
+          <span class="bcard-num">Book 9 · 32 Pages</span>
+          <span class="bcard-pillar">Integrity & Doing What's Right</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">Core Father-to-Child Integrity Lesson</div>
+          <h4>Dad's Honest Paycheck & The Lost Wallet</h4>
+          <p class="sub-syn">Walking home after spinning basketballs at the Savanna Heights court, Leo and Geno spot a bulge of crisp bills inside a dropped leather pouch near the bakery. Nobody is looking—and the ice-cream cart is ringing its bell. Dad kneels down and walks the boys through the pride of returning every penny untouched.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Dad, Mom, Leo & Geno &nbsp;·&nbsp; 9 min read-aloud</div>
+          <blockquote class="bcard-quote">Dad: "Paycheck's honest, and so am I."</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-09">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-09">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-09" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-10" data-book-title="Book 10: GiGi's Golden Safety Pin & The Rainy Parade" data-tags="all grandparents unity">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_10.jpg" alt="GiGi's Golden Safety Pin & The Rainy Parade cover illustration" loading="lazy">
+          <span class="bcard-num">Book 10 · 32 Pages</span>
+          <span class="bcard-pillar">Family Unity & Resilience</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">Grandmother & Legacy Keepsake Favorite</div>
+          <h4>GiGi's Golden Safety Pin & The Rainy Parade</h4>
+          <p class="sub-syn">Maya and her best friend Ali worked all morning decorating their wagon banner for the Savanna Heights Peace Parade—until a sudden gust rips the ribbon right before kickoff! Beneath her wide straw sunhat, GiGi reaches into her satchel for her famous golden safety pins and shows the girls how love and ingenuity mend any tear.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> GiGi, Mom, Maya & Ali &nbsp;·&nbsp; 8 min read-aloud</div>
+          <blockquote class="bcard-quote">GiGi: "Bonjour, everybody! If it falls apart, I have a safety pin."</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-10">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-10">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-10" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-11" data-book-title="Book 11: Hold the Gate Open, Leo! (Manners on the Lane)" data-tags="all military grandparents courtesy kindness">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_11.jpg" alt="Hold the Gate Open, Leo! (Manners on the Lane) cover illustration" loading="lazy">
+          <span class="bcard-num">Book 11 · 32 Pages</span>
+          <span class="bcard-pillar">Courtesy & Universal Respect</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">Everyday Manners & Peace Classic</div>
+          <h4>Hold the Gate Open, Leo! (Manners on the Lane)</h4>
+          <p class="sub-syn">It's Saturday market morning on the cobblestone lane! As families from every background stroll hand in hand toward the square, Pop-Pop gives Leo, Maya, Geno, and Ali the 'Golden Gate Challenge'—see how many neighbors' days they can brighten with held doors, eye contact, and genuine good manners.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Leo, Maya, Geno, Ali & Mr. Badger &nbsp;·&nbsp; 8 min read-aloud</div>
+          <blockquote class="bcard-quote">Leo: "After you, ma'am! After you, sir!"</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-11">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-11">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-11" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+      <article class="bcard" data-book-id="book-12" data-book-title="Book 12: Letters & Voice Notes Across the Miles" data-tags="all military incarcerated grandparents unity">
+        <div class="bcard-img-wrap">
+          <img src="covers/book_12.jpg" alt="Letters & Voice Notes Across the Miles cover illustration" loading="lazy">
+          <span class="bcard-num">Book 12 · 32 Pages</span>
+          <span class="bcard-pillar">Family Unity Across Distance</span>
+        </div>
+        <div class="bcard-body">
+          <div class="bcard-badge">Essential Separation & Homecoming Story</div>
+          <h4>Letters & Voice Notes Across the Miles</h4>
+          <p class="sub-syn">When a deeply loved member of the pride has to be away for a season, Leo and Maya draw crayon pictures on kitchen paper while the grown-ups record a bedtime story over the phone line. Together, the family discovers an unbreakable truth: a voice full of love crosses any wall, ocean, or highway in a single heartbeat.</p>
+          <div class="bcard-meta"><strong>Cast:</strong> Full Jordan Pride Family (All 11 Members) &nbsp;·&nbsp; 10 min read-aloud</div>
+          <blockquote class="bcard-quote">Pop-Pop: "Hug first, then we march. Distance is just miles—it can't touch who we are."</blockquote>
+          <div class="bcard-actions">
+            <button type="button" class="bcard-btn preview-btn" data-book-id="book-12">Read Sample Pages</button>
+            <button type="button" class="bcard-btn pri pick-toggle" data-book-id="book-12">+ Add to My Bundle</button>
+            <a class="bcard-single-link" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l?client_reference_id=book-12" target="_blank" rel="noopener">Order In Your Cloned Voice ($19.99) →</a>
+            
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<div class="gv-modal-backdrop" id="gv-modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="gv-modal-title">
+  <div class="gv-modal">
+    <div class="gv-modal-top">
+      <div>
+        <div class="kicker" id="gv-modal-kicker" style="font-family:'Trebuchet MS',sans-serif; font-size:12px; font-weight:700; text-transform:uppercase; color:var(--golden);">Book Preview</div>
+        <h3 id="gv-modal-title" style="font-size:26px; color:var(--deep); margin:4px 0;">Story Preview</h3>
+      </div>
+      <button type="button" class="gv-modal-close" id="gv-modal-close" aria-label="Close preview">✕</button>
+    </div>
+    <p id="gv-modal-hook" style="font-size:15px; color:var(--sage); font-weight:700; margin:0 0 14px;"></p>
+    <div id="gv-modal-pages"></div>
+    <div style="margin-top:18px; display:flex; gap:10px; flex-wrap:wrap;">
+      <a id="gv-modal-buy-single" class="btn btn-primary" href="https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l" target="_blank" rel="noopener">Order This Story in Your Voice ($19.99) →</a>
+      <a id="gv-modal-buy-plush" class="btn btn-ghost" href="https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o" target="_blank" rel="noopener">Add Voice Plush Bundle ($89.99)</a>
+    </div>
+  </div>
+</div>
+  <main class="container">
     <section class="apps-section">
       <h2 style="text-align:center; font-size:2rem; color:var(--ink); margin-bottom:0.6rem;">Play the Live Interactive Jordan Pride Family Apps</h2>
       <p style="text-align:center; max-width:760px; margin:0 auto 1.6rem;">Built for Poojie (Leo), Juju (Maya), and families everywhere — explore Savanna Heights, play the Walking Stick Workshop Mini-Game, or learn real investing and compound growth on the Stock Market Kids Safari!</p>
@@ -257,6 +663,109 @@
   <footer>
     <p>&copy; 2026 The Jordan Pride Production • Created by James Jordan Jr. (Pop Pop) for Carter ("Poojie"), Lani ("Juju"), and the entire Jordan Pride.</p>
   </footer>
+<script>
+  const GV_BOOKS = {"book-01": {"id": "book-01", "number": "Book 1", "title": "The Day Leo Broke Pop Pop's Walking Stick", "subtitle": "Telling the truth—even when your knees are shaking—and fixing what you broke side by side.", "pillar": "integrity", "pillar_label": "Integrity & Courage", "situation_tags": ["all", "military", "incarcerated", "grandparents", "integrity"], "situation_badge": "Flagship · Best for Separated Dads & Grandpas", "featured_cast": "Leo (6), Maya (3), Pop-Pop & Mama Pearl", "pages": 32, "runtime": "9 min read-aloud", "cover": "covers/book_01.jpg", "catchphrase": "Pop-Pop: \"Only weak lions lie. Strong lions tell the truth—even when their knees are shaking.\"", "synopsis": "When six-year-old Leo swings Pop-Pop's carved golden pine walking stick like a pirate sword, it snaps in two. With little Maya holding his paw, Leo finds the courage to confess—and learns in Pop-Pop's workshop that a mended joint can become even stronger right where it broke.", "personalized_hook": "Your cloned voice calls your child by name on Page 1, comforts them during the workshop repair, and closes with the 7 Family Talk bedtime questions.", "sample_pages": [{"page": 3, "scene": "Savanna Heights Wakes Up", "text": "Down the cobblestone lane, the whole neighborhood was waking up. Mr. Badger swept his bakery porch, Otter kids rode scooters past the playground, and warm golden sunshine spilled across Pop Pop's front yard."}, {"page": 8, "scene": "Uh-Oh! The Left Ear Twitch", "text": "Suddenly, Leo's left ear went TWITCH-TWITCH. In Savanna Heights, whenever Leo's left ear wiggled, a wild idea was right behind it. \"Just one tiny pirate swing,\" Leo whispered."}, {"page": 18, "scene": "The Brave Confession", "text": "\"Pop Pop, I took your walking stick without asking,\" Leo said, his voice shaking just once. Pop Pop rested a warm paw on Leo's shoulder. \"Thank you for telling me the truth, cub. That took real courage.\""}, {"page": 24, "scene": "Stronger Where It Broke", "text": "Together they wrapped a strip of soft brown leather tightly around the mended seam. \"Because you owned your mistake and did the work, it's even stronger right where it broke.\""}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o", "stripe_print_hardcover": "https://buy.stripe.com/bJe6oA5T55iHgG02qd08g0i", "stripe_print_paperback": "https://buy.stripe.com/28E9AMa9l9yX4Xigh308g0h"}, "book-02": {"id": "book-02", "number": "Book 2", "title": "The Great Savanna Treehouse Build", "subtitle": "Teamwork, measuring twice, and how every paw in the neighborhood helps raise the roof.", "pillar": "hardwork", "pillar_label": "Hard Work & Self-Discipline", "situation_tags": ["all", "military", "grandparents", "hardwork"], "situation_badge": "32 Master Art Spreads Ready · Builder Favorite", "featured_cast": "Leo, Maya, Pop-Pop, Dad & Uncle Tio", "pages": 32, "runtime": "9 min read-aloud", "cover": "covers/book_02.jpg", "catchphrase": "Dad: \"Paycheck's honest, and so am I. Measure twice, cut once, cub!\"", "synopsis": "Leo wants a giant backyard treehouse before sunset, and he wants to skip the blueprints! When his rushed ladder wobbles, Dad, Pop-Pop, and Uncle Tio teach Leo and Maya how real builders plan, level the beams, and turn patience into a fortress the whole neighborhood can share.", "personalized_hook": "Your cloned voice counts out the measurements with your child and cheers them on as the Savanna Heights banner goes up.", "sample_pages": [{"page": 1, "scene": "Blueprints on the Picnic Table", "text": "Pop-Pop unrolled the wide blue paper across the cedar table while Leo bounced on his sneakers, toolbelt jingling."}, {"page": 12, "scene": "The Wobbly Rung", "text": "\"Hold it right there, Master Builder,\" Dad chuckled, steadying the board. \"Fast nails make crooked walls. Let's check the level together.\""}, {"page": 28, "scene": "Lanterns in the Acacia Branches", "text": "Up in the finished treehouse, warm lanterns glowed like little moons while every cousin and neighbor climbed up for apple cider."}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}, "book-03": {"id": "book-03", "number": "Book 3", "title": "Maya and Glimmer's Starlight Promise", "subtitle": "Looking up at the same moon when someone you love is sleeping far from home.", "pillar": "unity", "pillar_label": "Family Unity & Unconditional Support", "situation_tags": ["all", "military", "incarcerated", "grandparents", "unity"], "situation_badge": "#1 Pick for Deployed Military & Incarcerated Parents", "featured_cast": "Maya (3), Glimmer, Leo & Mom", "pages": 32, "runtime": "8 min read-aloud", "cover": "covers/book_03.jpg", "catchphrase": "Maya: \"Glimmer and I aren't scared—we're just checking.\"", "synopsis": "Three-year-old Maya can't fall asleep because someone she loves isn't home to tuck her in. Holding her purple star plush, Glimmer, up to the bedroom window, Maya learns that the exact same moon shining over Savanna Heights is shining through her loved one's window too—carrying their bedtime voice straight to her pillow.", "personalized_hook": "Specifically written so a parent away on deployment, on the road, or in a correctional facility can say: \"Whenever you hug Glimmer and look at the moon, that's me hugging you back.\"", "sample_pages": [{"page": 4, "scene": "One Empty Chair at Supper", "text": "Maya tucked her purple star into her lap and stared at the porch gate. \"When is bedtime coming back to normal, Leo?\""}, {"page": 16, "scene": "The Same Silver Moon", "text": "Mom pointed past the fireflies to the bright silver moon above the rooftop. \"No matter how many miles are between us, we're looking at the exact same moon right now.\""}, {"page": 29, "scene": "A Voice Under the Quilt", "text": "Maya pressed play, hugged Glimmer to her cheek, and smiled with her eyes closed as the voice she missed most filled the quiet room."}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}, "book-04": {"id": "book-04", "number": "Book 4", "title": "Great-Grampa's No-GPS Road Trip", "subtitle": "Patience, stories from the old highway, and staying calm when the road takes a detour.", "pillar": "courtesy", "pillar_label": "Courtesy & Respect for Elders", "situation_tags": ["all", "military", "grandparents", "courtesy"], "situation_badge": "Best for Truckers, CDL Drivers & Grandpas", "featured_cast": "Great-Grampa (72), Pop-Pop, Leo & Maya", "pages": 32, "runtime": "9 min read-aloud", "cover": "covers/book_04.jpg", "catchphrase": "Great-Grampa: \"I drove through worse than this, and I had no GPS.\"", "synopsis": "When a summer rainstorm washes out the main trail to the Savanna Heights picnic, Leo worries the whole Saturday is ruined. Great-Grampa tips his trucker hat forward, unfolds a paper map, and shows the cubs how listening to elders, reading landmarks, and keeping your cool turns any detour into an adventure.", "personalized_hook": "Perfect for long-haul CDL drivers, traveling parents, and grandfathers who want their kids to love the open road and respect their elders' wisdom.", "sample_pages": [{"page": 5, "scene": "The Paper Map Unfolds", "text": "Leo tapped the tablet screen. \"No signal! We're lost!\" Great-Grampa chuckled from deep in his chest and pulled a crinkled paper map from his pocket."}, {"page": 19, "scene": "Reading the Ridge", "text": "\"Before satellites, cub, we had eyes, manners, and neighbors we could ask nicely,\" Great-Grampa winked."}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}, "book-05": {"id": "book-05", "number": "Book 5", "title": "Mama Pearl's Cinnamon Roll Rescue", "subtitle": "Cooking up kindness for a new neighbor who feels shy and left out.", "pillar": "kindness", "pillar_label": "Active Kindness & Service", "situation_tags": ["all", "grandparents", "kindness"], "situation_badge": "Warm Kitchen Read-Aloud · Ages 3–7", "featured_cast": "Mama Pearl, Leo, Maya & the New Neighbor", "pages": 32, "runtime": "8 min read-aloud", "cover": "covers/book_05.jpg", "catchphrase": "Mama Pearl: \"Eat. Rest. Then we'll fix the world.\"", "synopsis": "A multicultural family of new neighbors just moved into the house at the end of the cobblestone lane, and their little cub is too shy to come out to play. Mama Pearl ties aprons onto Leo and Maya, teaches them how to knead cinnamon dough from scratch, and shows them how a warm plate and open hands build instant peace and friendship.", "personalized_hook": "Warm, comforting kitchen sensory story—ideal for mothers, grandmothers, and aunties reading at bedtime.", "sample_pages": [{"page": 6, "scene": "Flour on Leo's Nose", "text": "\"Kindness isn't just a feeling in your heart, sugar,\" Mama Pearl smiled, dusting flour off Leo's whiskers. \"Kindness is something you carry across the street with both paws.\""}, {"page": 24, "scene": "Walking Hand in Hand", "text": "Down the sunlit lane walked cubs and neighbors of every kind, hand in hand, sharing warm cinnamon rolls under the shade trees."}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}, "book-06": {"id": "book-06", "number": "Book 6", "title": "TiTi's Big Voice for the Little Park", "subtitle": "Speaking up with grace, facts, and good manners to protect the neighborhood playground.", "pillar": "courtesy", "pillar_label": "Courtesy & Civic Courage", "situation_tags": ["all", "military", "incarcerated", "courtesy"], "situation_badge": "Confidence & Manners Builder", "featured_cast": "Auntie TiTi, Leo, Maya & Savanna Heights Council", "pages": 32, "runtime": "9 min read-aloud", "cover": "covers/book_06.jpg", "catchphrase": "TiTi: \"That mane needs combing, sweetheart. Stand tall, speak clear, love you.\"", "synopsis": "When the Savanna Heights town council considers paving over the little pocket park for extra delivery carts, Leo wants to roar and stomp. Auntie TiTi combs his mane, hands him a clipboard, and teaches the kids how to gather signatures, say 'Yes ma'am' and 'Yes sir,' and win the room with respect instead of noise.", "personalized_hook": "Teaches kids that their voice matters when they use manners, preparation, and peaceful leadership.", "sample_pages": [{"page": 9, "scene": "The Clipboard & The Comb", "text": "TiTi smoothed Leo's collar. \"Loud voices make people cover their ears, sweetheart. Prepared voices make people open their hearts.\""}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}, "book-07": {"id": "book-07", "number": "Book 7", "title": "Uncle Tio's Ten-Jumping-Jack Morning", "subtitle": "Turning grumpy mornings and big frustrated feelings into laughs, movement, and self-control.", "pillar": "hardwork", "pillar_label": "Hard Work & Self-Discipline", "situation_tags": ["all", "military", "incarcerated", "hardwork"], "situation_badge": "High-Energy Fun · Kids Do the Sounds Back", "featured_cast": "Uncle Tio, Leo (6), Maya (3), Ali & Geno", "pages": 32, "runtime": "8 min read-aloud", "cover": "covers/book_07.jpg", "catchphrase": "Tio: \"I'm not laughing at you—I'm laughing with you... mostly!\"", "synopsis": "Leo wakes up on the wrong side of the quilt, his shoelace knots up, and his frustration is ready to boil over. Best friends Geno and Ali arrive just as Uncle Tio blows his whistle and teaches the whole crew his secret reset: breathe deep, laugh at the tangle, do ten jumping jacks together, and try again fresh.", "personalized_hook": "Features Leo & Maya with their best friends Geno (6) and Ali (3)—the ultimate upbeat story for dads, uncles, and military parents.", "sample_pages": [{"page": 7, "scene": "The Shoelace Knot", "text": "Leo tugged left, tugged right, and let out a grumpy huff. Across the lawn, Uncle Tio did a cartwheel and landed in a bow."}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}, "book-08": {"id": "book-08", "number": "Book 8", "title": "Miss Bunny's Garden of Second Chances", "subtitle": "Why getting the wrong answer first is how every smart cub learns to grow.", "pillar": "hardwork", "pillar_label": "Curiosity & Perseverance", "situation_tags": ["all", "incarcerated", "grandparents", "hardwork", "integrity"], "situation_badge": "Redemption & Growth Favorite", "featured_cast": "Miss Bunny, Leo, Maya, Geno & Ali", "pages": 32, "runtime": "9 min read-aloud", "cover": "covers/book_08.jpg", "catchphrase": "Miss Bunny: \"We share carrots, not answers. Now try again.\"", "synopsis": "When Leo's first row of garden seeds doesn't sprout and his puzzle tower tumbles down, he wants to quit so he never looks wrong. Under the shade tree, Miss Bunny shares crisp carrots and shows Leo, Maya, Geno, and Ali that nobody grows without mistakes—and that everyone deserves a second chance to bloom.", "personalized_hook": "Deeply meaningful for incarcerated parents or anyone teaching their child that a mistake is never the end of your story.", "sample_pages": [{"page": 14, "scene": "Under the Shade Tree", "text": "\"A seed in the dark isn't failing, Leo,\" Miss Bunny adjusted her spectacles. \"It's just getting its roots ready for the sun.\""}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}, "book-09": {"id": "book-09", "number": "Book 9", "title": "Dad's Honest Paycheck & The Lost Wallet", "subtitle": "Doing the right thing when nobody is watching on the walk home from the court.", "pillar": "integrity", "pillar_label": "Integrity & Doing What's Right", "situation_tags": ["all", "military", "incarcerated", "integrity"], "situation_badge": "Core Father-to-Child Integrity Lesson", "featured_cast": "Dad, Mom, Leo & Geno", "pages": 32, "runtime": "9 min read-aloud", "cover": "covers/book_09.jpg", "catchphrase": "Dad: \"Paycheck's honest, and so am I.\"", "synopsis": "Walking home after spinning basketballs at the Savanna Heights court, Leo and Geno spot a bulge of crisp bills inside a dropped leather pouch near the bakery. Nobody is looking—and the ice-cream cart is ringing its bell. Dad kneels down and walks the boys through the pride of returning every penny untouched.", "personalized_hook": "Lets a father or grandfather speak directly into a child's ear about character, honor, and never taking what isn't yours.", "sample_pages": [{"page": 11, "scene": "By the Bakery Bench", "text": "Dad spun the basketball on one claw and looked down at the wallet. \"Character isn't what you do when the crowd claps, son. It's what you do on an empty sidewalk.\""}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}, "book-10": {"id": "book-10", "number": "Book 10", "title": "GiGi's Golden Safety Pin & The Rainy Parade", "subtitle": "Creativity, calm grace, and holding the family together when plans fall apart.", "pillar": "unity", "pillar_label": "Family Unity & Resilience", "situation_tags": ["all", "grandparents", "unity"], "situation_badge": "Grandmother & Legacy Keepsake Favorite", "featured_cast": "GiGi, Mom, Maya & Ali", "pages": 32, "runtime": "8 min read-aloud", "cover": "covers/book_10.jpg", "catchphrase": "GiGi: \"Bonjour, everybody! If it falls apart, I have a safety pin.\"", "synopsis": "Maya and her best friend Ali worked all morning decorating their wagon banner for the Savanna Heights Peace Parade—until a sudden gust rips the ribbon right before kickoff! Beneath her wide straw sunhat, GiGi reaches into her satchel for her famous golden safety pins and shows the girls how love and ingenuity mend any tear.", "personalized_hook": "A radiant grandmother/mother story that turns family sayings into a permanent heirloom recording.", "sample_pages": [{"page": 15, "scene": "Under the Straw Sunhat", "text": "\"Never cry over a torn ribbon, ma chérie,\" GiGi winked, opening her tin of golden pins. \"A stitch and a smile makes it twice as fancy.\""}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}, "book-11": {"id": "book-11", "number": "Book 11", "title": "Hold the Gate Open, Leo! (Manners on the Lane)", "subtitle": "Please, thank you, holding doors, and walking hand in hand with every neighbor.", "pillar": "courtesy", "pillar_label": "Courtesy & Universal Respect", "situation_tags": ["all", "military", "grandparents", "courtesy", "kindness"], "situation_badge": "Everyday Manners & Peace Classic", "featured_cast": "Leo, Maya, Geno, Ali & Mr. Badger", "pages": 32, "runtime": "8 min read-aloud", "cover": "covers/book_11.jpg", "catchphrase": "Leo: \"After you, ma'am! After you, sir!\"", "synopsis": "It's Saturday market morning on the cobblestone lane! As families from every background stroll hand in hand toward the square, Pop-Pop gives Leo, Maya, Geno, and Ali the 'Golden Gate Challenge'—see how many neighbors' days they can brighten with held doors, eye contact, and genuine good manners.", "personalized_hook": "Reinforces your family's exact standards for 'Yes ma'am, yes sir, please, and thank you' in your own loving voice.", "sample_pages": [{"page": 6, "scene": "The Morning Gate", "text": "Leo held the wooden gate wide open with both paws. \"After you, Maya! After you, Mr. Badger!\" Slowly, the whole street began smiling back."}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}, "book-12": {"id": "book-12", "number": "Book 12", "title": "Letters & Voice Notes Across the Miles", "subtitle": "How love travels through phone lines, envelopes, and bedtime stories until we're together again.", "pillar": "unity", "pillar_label": "Family Unity Across Distance", "situation_tags": ["all", "military", "incarcerated", "grandparents", "unity"], "situation_badge": "Essential Separation & Homecoming Story", "featured_cast": "Full Jordan Pride Family (All 11 Members)", "pages": 32, "runtime": "10 min read-aloud", "cover": "covers/book_12.jpg", "catchphrase": "Pop-Pop: \"Hug first, then we march. Distance is just miles—it can't touch who we are.\"", "synopsis": "When a deeply loved member of the pride has to be away for a season, Leo and Maya draw crayon pictures on kitchen paper while the grown-ups record a bedtime story over the phone line. Together, the family discovers an unbreakable truth: a voice full of love crosses any wall, ocean, or highway in a single heartbeat.", "personalized_hook": "Purpose-built as the anchor story for incarcerated parents, deployed service members, and long-distance grandparents.", "sample_pages": [{"page": 8, "scene": "Crayons on the Kitchen Table", "text": "Leo drew a big golden sun and two paws holding tight. \"Will my picture really reach all the way there, Mom?\" \"Every single line of it, sweetheart.\""}, {"page": 27, "scene": "The Phone Line Glows", "text": "When the call connected, fifteen minutes felt like a whole afternoon on the porch together. And when it was time for lights-out, the story kept right on playing."}, {"page": 30, "scene": "Until We Hug in Person", "text": "\"Close your eyes now, little cub. My voice is right here by your pillow tonight, tomorrow night, and every night until I'm holding you in my arms.\""}], "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l", "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m", "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n", "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"}};
+  const pickedBooks = new Set(["book-01", "book-03", "book-12"]);
+
+  function renderBundleTray() {
+    const pillsEl = document.getElementById('bundle-pills');
+    const headEl = document.getElementById('bundle-headline');
+    const subEl = document.getElementById('bundle-subtext');
+    const btnEl = document.getElementById('bundle-checkout-btn');
+    if (!pillsEl) return;
+    pillsEl.innerHTML = '';
+    const ids = Array.from(pickedBooks);
+    ids.forEach(function(id) {
+      const b = GV_BOOKS[id];
+      if (!b) return;
+      const span = document.createElement('span');
+      span.className = 'bpill';
+      span.textContent = b.number + ': ' + b.title;
+      pillsEl.appendChild(span);
+    });
+    document.querySelectorAll('.bcard').forEach(function(card) {
+      const id = card.getAttribute('data-book-id');
+      const btn = card.querySelector('.pick-toggle');
+      if (pickedBooks.has(id)) {
+        card.classList.add('picked');
+        if (btn) { btn.classList.add('active'); btn.textContent = '✓ In Your Bundle'; }
+      } else {
+        card.classList.remove('picked');
+        if (btn) { btn.classList.remove('active'); btn.textContent = '+ Add to My Bundle'; }
+      }
+    });
+    const refParam = ids.length ? ('?client_reference_id=' + encodeURIComponent(ids.join('_'))) : '';
+    if (ids.length <= 1) {
+      headEl.textContent = 'Your Custom Story Tray (' + ids.length + ' story selected)';
+      subEl.textContent = 'Add 2 more stories to unlock the $39.99 3-Story Bundle (saves $20), or order your single story now.';
+      btnEl.textContent = 'Order Single Story ($19.99) →';
+      btnEl.href = 'https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l' + refParam;
+    } else if (ids.length <= 3) {
+      headEl.textContent = 'Your 3-Story Bundle Tray (' + ids.length + ' of 3 selected)';
+      subEl.textContent = 'Ready! Your selected titles are tagged to your checkout so our audio team clones these exact books.';
+      btnEl.textContent = 'Checkout 3-Story Bundle ($39.99) →';
+      btnEl.href = 'https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m' + refParam;
+    } else {
+      headEl.textContent = 'Your Legacy Library Tray (' + ids.length + ' stories selected)';
+      subEl.textContent = '4+ stories selected — unlocked The Legacy Library ($79.99 for 10 stories + keepsake album, save $120).';
+      btnEl.textContent = 'Checkout Legacy Library ($79.99) →';
+      btnEl.href = 'https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n' + refParam;
+    }
+  }
+
+  document.querySelectorAll('.pick-toggle').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      const id = btn.getAttribute('data-book-id');
+      if (pickedBooks.has(id)) pickedBooks.delete(id);
+      else pickedBooks.add(id);
+      renderBundleTray();
+    });
+  });
+
+  document.querySelectorAll('.fbtn').forEach(function(fbtn) {
+    fbtn.addEventListener('click', function() {
+      document.querySelectorAll('.fbtn').forEach(function(b) { b.classList.remove('active'); });
+      fbtn.classList.add('active');
+      const tag = fbtn.getAttribute('data-filter');
+      document.querySelectorAll('.bcard').forEach(function(card) {
+        const tags = (card.getAttribute('data-tags') || '').split(' ');
+        card.style.display = (tag === 'all' || tags.indexOf(tag) !== -1) ? 'flex' : 'none';
+      });
+    });
+  });
+
+  const modalBackdrop = document.getElementById('gv-modal-backdrop');
+  const modalClose = document.getElementById('gv-modal-close');
+  document.querySelectorAll('.preview-btn').forEach(function(pbtn) {
+    pbtn.addEventListener('click', function() {
+      const b = GV_BOOKS[pbtn.getAttribute('data-book-id')];
+      if (!b) return;
+      document.getElementById('gv-modal-kicker').textContent = b.number + ' · ' + b.pillar_label + ' · ' + b.pages + ' Pages';
+      document.getElementById('gv-modal-title').textContent = b.title;
+      document.getElementById('gv-modal-hook').textContent = 'How Your Voice Fits In: ' + b.personalized_hook;
+      const pagesWrap = document.getElementById('gv-modal-pages');
+      pagesWrap.innerHTML = '';
+      (b.sample_pages || []).forEach(function(sp) {
+        const div = document.createElement('div');
+        div.className = 'gv-sample-page';
+        const st = document.createElement('strong');
+        st.textContent = 'Page ' + sp.page + ' — ' + sp.scene;
+        const p = document.createElement('p');
+        p.style.margin = '0';
+        p.textContent = sp.text;
+        div.appendChild(st);
+        div.appendChild(p);
+        pagesWrap.appendChild(div);
+      });
+      document.getElementById('gv-modal-buy-single').href = b.stripe_single_voice + '?client_reference_id=' + b.id;
+      modalBackdrop.classList.add('open');
+    });
+  });
+  if (modalClose) modalClose.addEventListener('click', function() { modalBackdrop.classList.remove('open'); });
+  if (modalBackdrop) modalBackdrop.addEventListener('click', function(e) { if (e.target === modalBackdrop) modalBackdrop.classList.remove('open'); });
+
+  renderBundleTray();
+</script>
   <script src="./assets/funnel-beacon.js" defer></script>
 </body>
 </html>

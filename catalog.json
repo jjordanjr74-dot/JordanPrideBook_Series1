@@ -1,0 +1,462 @@
+{
+  "series": "The Jordan Pride — GrandVoice Bedtime Library",
+  "count": 12,
+  "books": [
+    {
+      "id": "book-01",
+      "number": "Book 1",
+      "title": "The Day Leo Broke Pop Pop's Walking Stick",
+      "subtitle": "Telling the truth—even when your knees are shaking—and fixing what you broke side by side.",
+      "pillar": "integrity",
+      "pillar_label": "Integrity & Courage",
+      "situation_tags": [
+        "all",
+        "military",
+        "incarcerated",
+        "grandparents",
+        "integrity"
+      ],
+      "situation_badge": "Flagship · Best for Separated Dads & Grandpas",
+      "featured_cast": "Leo (6), Maya (3), Pop-Pop & Mama Pearl",
+      "pages": 32,
+      "runtime": "9 min read-aloud",
+      "cover": "covers/book_01.jpg",
+      "catchphrase": "Pop-Pop: \"Only weak lions lie. Strong lions tell the truth—even when their knees are shaking.\"",
+      "synopsis": "When six-year-old Leo swings Pop-Pop's carved golden pine walking stick like a pirate sword, it snaps in two. With little Maya holding his paw, Leo finds the courage to confess—and learns in Pop-Pop's workshop that a mended joint can become even stronger right where it broke.",
+      "personalized_hook": "Your cloned voice calls your child by name on Page 1, comforts them during the workshop repair, and closes with the 7 Family Talk bedtime questions.",
+      "sample_pages": [
+        {
+          "page": 3,
+          "scene": "Savanna Heights Wakes Up",
+          "text": "Down the cobblestone lane, the whole neighborhood was waking up. Mr. Badger swept his bakery porch, Otter kids rode scooters past the playground, and warm golden sunshine spilled across Pop Pop's front yard."
+        },
+        {
+          "page": 8,
+          "scene": "Uh-Oh! The Left Ear Twitch",
+          "text": "Suddenly, Leo's left ear went TWITCH-TWITCH. In Savanna Heights, whenever Leo's left ear wiggled, a wild idea was right behind it. \"Just one tiny pirate swing,\" Leo whispered."
+        },
+        {
+          "page": 18,
+          "scene": "The Brave Confession",
+          "text": "\"Pop Pop, I took your walking stick without asking,\" Leo said, his voice shaking just once. Pop Pop rested a warm paw on Leo's shoulder. \"Thank you for telling me the truth, cub. That took real courage.\""
+        },
+        {
+          "page": 24,
+          "scene": "Stronger Where It Broke",
+          "text": "Together they wrapped a strip of soft brown leather tightly around the mended seam. \"Because you owned your mistake and did the work, it's even stronger right where it broke.\""
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o",
+      "stripe_print_hardcover": "https://buy.stripe.com/bJe6oA5T55iHgG02qd08g0i",
+      "stripe_print_paperback": "https://buy.stripe.com/28E9AMa9l9yX4Xigh308g0h"
+    },
+    {
+      "id": "book-02",
+      "number": "Book 2",
+      "title": "The Great Savanna Treehouse Build",
+      "subtitle": "Teamwork, measuring twice, and how every paw in the neighborhood helps raise the roof.",
+      "pillar": "hardwork",
+      "pillar_label": "Hard Work & Self-Discipline",
+      "situation_tags": [
+        "all",
+        "military",
+        "grandparents",
+        "hardwork"
+      ],
+      "situation_badge": "32 Master Art Spreads Ready · Builder Favorite",
+      "featured_cast": "Leo, Maya, Pop-Pop, Dad & Uncle Tio",
+      "pages": 32,
+      "runtime": "9 min read-aloud",
+      "cover": "covers/book_02.jpg",
+      "catchphrase": "Dad: \"Paycheck's honest, and so am I. Measure twice, cut once, cub!\"",
+      "synopsis": "Leo wants a giant backyard treehouse before sunset, and he wants to skip the blueprints! When his rushed ladder wobbles, Dad, Pop-Pop, and Uncle Tio teach Leo and Maya how real builders plan, level the beams, and turn patience into a fortress the whole neighborhood can share.",
+      "personalized_hook": "Your cloned voice counts out the measurements with your child and cheers them on as the Savanna Heights banner goes up.",
+      "sample_pages": [
+        {
+          "page": 1,
+          "scene": "Blueprints on the Picnic Table",
+          "text": "Pop-Pop unrolled the wide blue paper across the cedar table while Leo bounced on his sneakers, toolbelt jingling."
+        },
+        {
+          "page": 12,
+          "scene": "The Wobbly Rung",
+          "text": "\"Hold it right there, Master Builder,\" Dad chuckled, steadying the board. \"Fast nails make crooked walls. Let's check the level together.\""
+        },
+        {
+          "page": 28,
+          "scene": "Lanterns in the Acacia Branches",
+          "text": "Up in the finished treehouse, warm lanterns glowed like little moons while every cousin and neighbor climbed up for apple cider."
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    },
+    {
+      "id": "book-03",
+      "number": "Book 3",
+      "title": "Maya and Glimmer's Starlight Promise",
+      "subtitle": "Looking up at the same moon when someone you love is sleeping far from home.",
+      "pillar": "unity",
+      "pillar_label": "Family Unity & Unconditional Support",
+      "situation_tags": [
+        "all",
+        "military",
+        "incarcerated",
+        "grandparents",
+        "unity"
+      ],
+      "situation_badge": "#1 Pick for Deployed Military & Incarcerated Parents",
+      "featured_cast": "Maya (3), Glimmer, Leo & Mom",
+      "pages": 32,
+      "runtime": "8 min read-aloud",
+      "cover": "covers/book_03.jpg",
+      "catchphrase": "Maya: \"Glimmer and I aren't scared—we're just checking.\"",
+      "synopsis": "Three-year-old Maya can't fall asleep because someone she loves isn't home to tuck her in. Holding her purple star plush, Glimmer, up to the bedroom window, Maya learns that the exact same moon shining over Savanna Heights is shining through her loved one's window too—carrying their bedtime voice straight to her pillow.",
+      "personalized_hook": "Specifically written so a parent away on deployment, on the road, or in a correctional facility can say: \"Whenever you hug Glimmer and look at the moon, that's me hugging you back.\"",
+      "sample_pages": [
+        {
+          "page": 4,
+          "scene": "One Empty Chair at Supper",
+          "text": "Maya tucked her purple star into her lap and stared at the porch gate. \"When is bedtime coming back to normal, Leo?\""
+        },
+        {
+          "page": 16,
+          "scene": "The Same Silver Moon",
+          "text": "Mom pointed past the fireflies to the bright silver moon above the rooftop. \"No matter how many miles are between us, we're looking at the exact same moon right now.\""
+        },
+        {
+          "page": 29,
+          "scene": "A Voice Under the Quilt",
+          "text": "Maya pressed play, hugged Glimmer to her cheek, and smiled with her eyes closed as the voice she missed most filled the quiet room."
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    },
+    {
+      "id": "book-04",
+      "number": "Book 4",
+      "title": "Great-Grampa's No-GPS Road Trip",
+      "subtitle": "Patience, stories from the old highway, and staying calm when the road takes a detour.",
+      "pillar": "courtesy",
+      "pillar_label": "Courtesy & Respect for Elders",
+      "situation_tags": [
+        "all",
+        "military",
+        "grandparents",
+        "courtesy"
+      ],
+      "situation_badge": "Best for Truckers, CDL Drivers & Grandpas",
+      "featured_cast": "Great-Grampa (72), Pop-Pop, Leo & Maya",
+      "pages": 32,
+      "runtime": "9 min read-aloud",
+      "cover": "covers/book_04.jpg",
+      "catchphrase": "Great-Grampa: \"I drove through worse than this, and I had no GPS.\"",
+      "synopsis": "When a summer rainstorm washes out the main trail to the Savanna Heights picnic, Leo worries the whole Saturday is ruined. Great-Grampa tips his trucker hat forward, unfolds a paper map, and shows the cubs how listening to elders, reading landmarks, and keeping your cool turns any detour into an adventure.",
+      "personalized_hook": "Perfect for long-haul CDL drivers, traveling parents, and grandfathers who want their kids to love the open road and respect their elders' wisdom.",
+      "sample_pages": [
+        {
+          "page": 5,
+          "scene": "The Paper Map Unfolds",
+          "text": "Leo tapped the tablet screen. \"No signal! We're lost!\" Great-Grampa chuckled from deep in his chest and pulled a crinkled paper map from his pocket."
+        },
+        {
+          "page": 19,
+          "scene": "Reading the Ridge",
+          "text": "\"Before satellites, cub, we had eyes, manners, and neighbors we could ask nicely,\" Great-Grampa winked."
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    },
+    {
+      "id": "book-05",
+      "number": "Book 5",
+      "title": "Mama Pearl's Cinnamon Roll Rescue",
+      "subtitle": "Cooking up kindness for a new neighbor who feels shy and left out.",
+      "pillar": "kindness",
+      "pillar_label": "Active Kindness & Service",
+      "situation_tags": [
+        "all",
+        "grandparents",
+        "kindness"
+      ],
+      "situation_badge": "Warm Kitchen Read-Aloud · Ages 3–7",
+      "featured_cast": "Mama Pearl, Leo, Maya & the New Neighbor",
+      "pages": 32,
+      "runtime": "8 min read-aloud",
+      "cover": "covers/book_05.jpg",
+      "catchphrase": "Mama Pearl: \"Eat. Rest. Then we'll fix the world.\"",
+      "synopsis": "A multicultural family of new neighbors just moved into the house at the end of the cobblestone lane, and their little cub is too shy to come out to play. Mama Pearl ties aprons onto Leo and Maya, teaches them how to knead cinnamon dough from scratch, and shows them how a warm plate and open hands build instant peace and friendship.",
+      "personalized_hook": "Warm, comforting kitchen sensory story—ideal for mothers, grandmothers, and aunties reading at bedtime.",
+      "sample_pages": [
+        {
+          "page": 6,
+          "scene": "Flour on Leo's Nose",
+          "text": "\"Kindness isn't just a feeling in your heart, sugar,\" Mama Pearl smiled, dusting flour off Leo's whiskers. \"Kindness is something you carry across the street with both paws.\""
+        },
+        {
+          "page": 24,
+          "scene": "Walking Hand in Hand",
+          "text": "Down the sunlit lane walked cubs and neighbors of every kind, hand in hand, sharing warm cinnamon rolls under the shade trees."
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    },
+    {
+      "id": "book-06",
+      "number": "Book 6",
+      "title": "TiTi's Big Voice for the Little Park",
+      "subtitle": "Speaking up with grace, facts, and good manners to protect the neighborhood playground.",
+      "pillar": "courtesy",
+      "pillar_label": "Courtesy & Civic Courage",
+      "situation_tags": [
+        "all",
+        "military",
+        "incarcerated",
+        "courtesy"
+      ],
+      "situation_badge": "Confidence & Manners Builder",
+      "featured_cast": "Auntie TiTi, Leo, Maya & Savanna Heights Council",
+      "pages": 32,
+      "runtime": "9 min read-aloud",
+      "cover": "covers/book_06.jpg",
+      "catchphrase": "TiTi: \"That mane needs combing, sweetheart. Stand tall, speak clear, love you.\"",
+      "synopsis": "When the Savanna Heights town council considers paving over the little pocket park for extra delivery carts, Leo wants to roar and stomp. Auntie TiTi combs his mane, hands him a clipboard, and teaches the kids how to gather signatures, say 'Yes ma'am' and 'Yes sir,' and win the room with respect instead of noise.",
+      "personalized_hook": "Teaches kids that their voice matters when they use manners, preparation, and peaceful leadership.",
+      "sample_pages": [
+        {
+          "page": 9,
+          "scene": "The Clipboard & The Comb",
+          "text": "TiTi smoothed Leo's collar. \"Loud voices make people cover their ears, sweetheart. Prepared voices make people open their hearts.\""
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    },
+    {
+      "id": "book-07",
+      "number": "Book 7",
+      "title": "Uncle Tio's Ten-Jumping-Jack Morning",
+      "subtitle": "Turning grumpy mornings and big frustrated feelings into laughs, movement, and self-control.",
+      "pillar": "hardwork",
+      "pillar_label": "Hard Work & Self-Discipline",
+      "situation_tags": [
+        "all",
+        "military",
+        "incarcerated",
+        "hardwork"
+      ],
+      "situation_badge": "High-Energy Fun · Kids Do the Sounds Back",
+      "featured_cast": "Uncle Tio, Leo (6), Maya (3), Ali & Geno",
+      "pages": 32,
+      "runtime": "8 min read-aloud",
+      "cover": "covers/book_07.jpg",
+      "catchphrase": "Tio: \"I'm not laughing at you—I'm laughing with you... mostly!\"",
+      "synopsis": "Leo wakes up on the wrong side of the quilt, his shoelace knots up, and his frustration is ready to boil over. Best friends Geno and Ali arrive just as Uncle Tio blows his whistle and teaches the whole crew his secret reset: breathe deep, laugh at the tangle, do ten jumping jacks together, and try again fresh.",
+      "personalized_hook": "Features Leo & Maya with their best friends Geno (6) and Ali (3)—the ultimate upbeat story for dads, uncles, and military parents.",
+      "sample_pages": [
+        {
+          "page": 7,
+          "scene": "The Shoelace Knot",
+          "text": "Leo tugged left, tugged right, and let out a grumpy huff. Across the lawn, Uncle Tio did a cartwheel and landed in a bow."
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    },
+    {
+      "id": "book-08",
+      "number": "Book 8",
+      "title": "Miss Bunny's Garden of Second Chances",
+      "subtitle": "Why getting the wrong answer first is how every smart cub learns to grow.",
+      "pillar": "hardwork",
+      "pillar_label": "Curiosity & Perseverance",
+      "situation_tags": [
+        "all",
+        "incarcerated",
+        "grandparents",
+        "hardwork",
+        "integrity"
+      ],
+      "situation_badge": "Redemption & Growth Favorite",
+      "featured_cast": "Miss Bunny, Leo, Maya, Geno & Ali",
+      "pages": 32,
+      "runtime": "9 min read-aloud",
+      "cover": "covers/book_08.jpg",
+      "catchphrase": "Miss Bunny: \"We share carrots, not answers. Now try again.\"",
+      "synopsis": "When Leo's first row of garden seeds doesn't sprout and his puzzle tower tumbles down, he wants to quit so he never looks wrong. Under the shade tree, Miss Bunny shares crisp carrots and shows Leo, Maya, Geno, and Ali that nobody grows without mistakes—and that everyone deserves a second chance to bloom.",
+      "personalized_hook": "Deeply meaningful for incarcerated parents or anyone teaching their child that a mistake is never the end of your story.",
+      "sample_pages": [
+        {
+          "page": 14,
+          "scene": "Under the Shade Tree",
+          "text": "\"A seed in the dark isn't failing, Leo,\" Miss Bunny adjusted her spectacles. \"It's just getting its roots ready for the sun.\""
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    },
+    {
+      "id": "book-09",
+      "number": "Book 9",
+      "title": "Dad's Honest Paycheck & The Lost Wallet",
+      "subtitle": "Doing the right thing when nobody is watching on the walk home from the court.",
+      "pillar": "integrity",
+      "pillar_label": "Integrity & Doing What's Right",
+      "situation_tags": [
+        "all",
+        "military",
+        "incarcerated",
+        "integrity"
+      ],
+      "situation_badge": "Core Father-to-Child Integrity Lesson",
+      "featured_cast": "Dad, Mom, Leo & Geno",
+      "pages": 32,
+      "runtime": "9 min read-aloud",
+      "cover": "covers/book_09.jpg",
+      "catchphrase": "Dad: \"Paycheck's honest, and so am I.\"",
+      "synopsis": "Walking home after spinning basketballs at the Savanna Heights court, Leo and Geno spot a bulge of crisp bills inside a dropped leather pouch near the bakery. Nobody is looking—and the ice-cream cart is ringing its bell. Dad kneels down and walks the boys through the pride of returning every penny untouched.",
+      "personalized_hook": "Lets a father or grandfather speak directly into a child's ear about character, honor, and never taking what isn't yours.",
+      "sample_pages": [
+        {
+          "page": 11,
+          "scene": "By the Bakery Bench",
+          "text": "Dad spun the basketball on one claw and looked down at the wallet. \"Character isn't what you do when the crowd claps, son. It's what you do on an empty sidewalk.\""
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    },
+    {
+      "id": "book-10",
+      "number": "Book 10",
+      "title": "GiGi's Golden Safety Pin & The Rainy Parade",
+      "subtitle": "Creativity, calm grace, and holding the family together when plans fall apart.",
+      "pillar": "unity",
+      "pillar_label": "Family Unity & Resilience",
+      "situation_tags": [
+        "all",
+        "grandparents",
+        "unity"
+      ],
+      "situation_badge": "Grandmother & Legacy Keepsake Favorite",
+      "featured_cast": "GiGi, Mom, Maya & Ali",
+      "pages": 32,
+      "runtime": "8 min read-aloud",
+      "cover": "covers/book_10.jpg",
+      "catchphrase": "GiGi: \"Bonjour, everybody! If it falls apart, I have a safety pin.\"",
+      "synopsis": "Maya and her best friend Ali worked all morning decorating their wagon banner for the Savanna Heights Peace Parade—until a sudden gust rips the ribbon right before kickoff! Beneath her wide straw sunhat, GiGi reaches into her satchel for her famous golden safety pins and shows the girls how love and ingenuity mend any tear.",
+      "personalized_hook": "A radiant grandmother/mother story that turns family sayings into a permanent heirloom recording.",
+      "sample_pages": [
+        {
+          "page": 15,
+          "scene": "Under the Straw Sunhat",
+          "text": "\"Never cry over a torn ribbon, ma chérie,\" GiGi winked, opening her tin of golden pins. \"A stitch and a smile makes it twice as fancy.\""
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    },
+    {
+      "id": "book-11",
+      "number": "Book 11",
+      "title": "Hold the Gate Open, Leo! (Manners on the Lane)",
+      "subtitle": "Please, thank you, holding doors, and walking hand in hand with every neighbor.",
+      "pillar": "courtesy",
+      "pillar_label": "Courtesy & Universal Respect",
+      "situation_tags": [
+        "all",
+        "military",
+        "grandparents",
+        "courtesy",
+        "kindness"
+      ],
+      "situation_badge": "Everyday Manners & Peace Classic",
+      "featured_cast": "Leo, Maya, Geno, Ali & Mr. Badger",
+      "pages": 32,
+      "runtime": "8 min read-aloud",
+      "cover": "covers/book_11.jpg",
+      "catchphrase": "Leo: \"After you, ma'am! After you, sir!\"",
+      "synopsis": "It's Saturday market morning on the cobblestone lane! As families from every background stroll hand in hand toward the square, Pop-Pop gives Leo, Maya, Geno, and Ali the 'Golden Gate Challenge'—see how many neighbors' days they can brighten with held doors, eye contact, and genuine good manners.",
+      "personalized_hook": "Reinforces your family's exact standards for 'Yes ma'am, yes sir, please, and thank you' in your own loving voice.",
+      "sample_pages": [
+        {
+          "page": 6,
+          "scene": "The Morning Gate",
+          "text": "Leo held the wooden gate wide open with both paws. \"After you, Maya! After you, Mr. Badger!\" Slowly, the whole street began smiling back."
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    },
+    {
+      "id": "book-12",
+      "number": "Book 12",
+      "title": "Letters & Voice Notes Across the Miles",
+      "subtitle": "How love travels through phone lines, envelopes, and bedtime stories until we're together again.",
+      "pillar": "unity",
+      "pillar_label": "Family Unity Across Distance",
+      "situation_tags": [
+        "all",
+        "military",
+        "incarcerated",
+        "grandparents",
+        "unity"
+      ],
+      "situation_badge": "Essential Separation & Homecoming Story",
+      "featured_cast": "Full Jordan Pride Family (All 11 Members)",
+      "pages": 32,
+      "runtime": "10 min read-aloud",
+      "cover": "covers/book_12.jpg",
+      "catchphrase": "Pop-Pop: \"Hug first, then we march. Distance is just miles—it can't touch who we are.\"",
+      "synopsis": "When a deeply loved member of the pride has to be away for a season, Leo and Maya draw crayon pictures on kitchen paper while the grown-ups record a bedtime story over the phone line. Together, the family discovers an unbreakable truth: a voice full of love crosses any wall, ocean, or highway in a single heartbeat.",
+      "personalized_hook": "Purpose-built as the anchor story for incarcerated parents, deployed service members, and long-distance grandparents.",
+      "sample_pages": [
+        {
+          "page": 8,
+          "scene": "Crayons on the Kitchen Table",
+          "text": "Leo drew a big golden sun and two paws holding tight. \"Will my picture really reach all the way there, Mom?\" \"Every single line of it, sweetheart.\""
+        },
+        {
+          "page": 27,
+          "scene": "The Phone Line Glows",
+          "text": "When the call connected, fifteen minutes felt like a whole afternoon on the porch together. And when it was time for lights-out, the story kept right on playing."
+        },
+        {
+          "page": 30,
+          "scene": "Until We Hug in Person",
+          "text": "\"Close your eyes now, little cub. My voice is right here by your pillow tonight, tomorrow night, and every night until I'm holding you in my arms.\""
+        }
+      ],
+      "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
+      "stripe_bundle_3": "https://buy.stripe.com/3cIaEQftFeTh3TefcZ08g1m",
+      "stripe_library_10": "https://buy.stripe.com/6oUcMYdlxbH5gG06Gt08g1n",
+      "stripe_plush": "https://buy.stripe.com/6oU5kw6X96mLgG0e8V08g1o"
+    }
+  ]
+}
