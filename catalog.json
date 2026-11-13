@@ -510,193 +510,225 @@
           "page": 1,
           "kind": "FRONT",
           "scene": "Half-Title Still Life — Blueprint Roll and a Wooden Hammer",
-          "text": "The Great Savanna Treehouse Build"
+          "text": "The Great Savanna Treehouse Build",
+          "image": "pages/book-02/page_01.jpg"
         },
         {
           "page": 2,
           "kind": "FRONT",
           "scene": "Title Page — Two Cubs Peeking Out with Blueprints",
-          "text": "The Jordan Pride - Book 2: The Great Savanna Treehouse Build\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights"
+          "text": "The Jordan Pride - Book 2: The Great Savanna Treehouse Build\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights",
+          "image": "pages/book-02/page_02.jpg"
         },
         {
           "page": 3,
           "kind": "ILL",
           "scene": "The Big Acacia Tree — Saturday Morning",
-          "text": "Sunlight spilled through the big acacia tree in the backyard. A pile of wooden boards, a rusty hammer, and a coil of rope sat in the grass. Leo stood with his paws on his hips, one ear already starting to twitch."
+          "text": "Sunlight spilled through the big acacia tree in the backyard. A pile of wooden boards, a rusty hammer, and a coil of rope sat in the grass. Leo stood with his paws on his hips, one ear already starting to twitch.",
+          "image": "pages/book-02/page_03.jpg"
         },
         {
           "page": 4,
           "kind": "TEXT",
           "scene": "Leo's Big Announcement",
-          "text": "\"I’m gonna build the biggest treehouse in all of Savanna Heights!\" Leo announced. \"Before sunset!\" Dad looked up from his coffee. \"Whoa there, cowboy. That’s a big job. Let’s draw up some plans first.\" Leo’s ear twitch-twitched. \"Plans take too long, sir! I got this!\""
+          "text": "\"I’m gonna build the biggest treehouse in all of Savanna Heights!\" Leo announced. \"Before sunset!\" Dad looked up from his coffee. \"Whoa there, cowboy. That’s a big job. Let’s draw up some plans first.\" Leo’s ear twitch-twitched. \"Plans take too long, sir! I got this!\"",
+          "image": "pages/book-02/page_04.jpg"
         },
         {
           "page": 5,
           "kind": "ILL",
           "scene": "Sneaking Away — Leo Starts Hammering",
-          "text": "Leo grabbed the hammer and a handful of nails. He dragged a board to the tree and started banging away. Maya sat on the grass nearby, hugging Glimmer, watching him with worried eyes."
+          "text": "Leo grabbed the hammer and a handful of nails. He dragged a board to the tree and started banging away. Maya sat on the grass nearby, hugging Glimmer, watching him with worried eyes.",
+          "image": "pages/book-02/page_05.jpg"
         },
         {
           "page": 6,
           "kind": "TEXT",
           "scene": "Maya’s Gentle Warning",
-          "text": "\"Leo,\" Maya said softly, squeezing Glimmer. \"Pop Pop said measure twice. Remember?\" \"I measured with my eyes!\" Leo said, lining up another board. \"See? Perfect fit.\" It wasn’t perfect. Not even close. But Leo was already reaching for the next nail."
+          "text": "\"Leo,\" Maya said softly, squeezing Glimmer. \"Pop Pop said measure twice. Remember?\" \"I measured with my eyes!\" Leo said, lining up another board. \"See? Perfect fit.\" It wasn’t perfect. Not even close. But Leo was already reaching for the next nail.",
+          "image": "pages/book-02/page_06.jpg"
         },
         {
           "page": 7,
           "kind": "ILL",
           "scene": "The Wobbly Ladder",
-          "text": "Leo propped a wobbly ladder against the tree trunk and climbed up, hammer in paw. The ladder groaned. A nail popped loose. The rung beneath his foot tilted sideways, and Leo's eyes went wide."
+          "text": "Leo propped a wobbly ladder against the tree trunk and climbed up, hammer in paw. The ladder groaned. A nail popped loose. The rung beneath his foot tilted sideways, and Leo's eyes went wide.",
+          "image": "pages/book-02/page_07.jpg"
         },
         {
           "page": 8,
           "kind": "TEXT",
           "scene": "Pop Pop Catches the Ladder",
-          "text": "A strong hand grabbed the ladder and held it steady. \"Easy there, builder boy,\" said Pop Pop, his wire-rimmed glasses catching the sun. \"That ladder’s got no love in it. Come down here.\" Leo climbed down, his ears drooping. Pop Pop put a paw on his shoulder. \"Let’s build it right.\""
+          "text": "A strong hand grabbed the ladder and held it steady. \"Easy there, builder boy,\" said Pop Pop, his wire-rimmed glasses catching the sun. \"That ladder’s got no love in it. Come down here.\" Leo climbed down, his ears drooping. Pop Pop put a paw on his shoulder. \"Let’s build it right.\"",
+          "image": "pages/book-02/page_08.jpg"
         },
         {
           "page": 9,
           "kind": "ILL",
           "scene": "The Workbench — Blueprints Unrolled",
-          "text": "Dad, Pop Pop, and Uncle Tio gathered around the old workbench. A roll of blueprints spread across the wood. Leo stood on a crate to see. Maya peeked under Pop Pop's arm, still hugging Glimmer."
+          "text": "Dad, Pop Pop, and Uncle Tio gathered around the old workbench. A roll of blueprints spread across the wood. Leo stood on a crate to see. Maya peeked under Pop Pop's arm, still hugging Glimmer.",
+          "image": "pages/book-02/page_09.jpg"
         },
         {
           "page": 10,
           "kind": "TEXT",
           "scene": "Measure Twice, Cut Once",
-          "text": "Pop Pop handed Leo a measuring tape. \"See these numbers? They ain’t guesses. They’re promises.\" Dad spun his basketball on one claw, then caught it. \"Paycheck’s honest, and so am I. Measure twice, cut once, cub!\" Uncle Tio blew his whistle. \"Alright, team! Let’s square up!\""
+          "text": "Pop Pop handed Leo a measuring tape. \"See these numbers? They ain’t guesses. They’re promises.\" Dad spun his basketball on one claw, then caught it. \"Paycheck’s honest, and so am I. Measure twice, cut once, cub!\" Uncle Tio blew his whistle. \"Alright, team! Let’s square up!\"",
+          "image": "pages/book-02/page_10.jpg"
         },
         {
           "page": 11,
           "kind": "ILL",
           "scene": "Measuring Together — Paw Over Paw",
-          "text": "Leo held one end of the tape measure against a fresh board. Pop Pop held the other, showing him how to read the marks. Maya held the pencil, ready to draw the line. Uncle Tio checked the level."
+          "text": "Leo held one end of the tape measure against a fresh board. Pop Pop held the other, showing him how to read the marks. Maya held the pencil, ready to draw the line. Uncle Tio checked the level.",
+          "image": "pages/book-02/page_11.jpg"
         },
         {
           "page": 12,
           "kind": "TEXT",
           "scene": "The First Right Cut",
-          "text": "\"Three and a quarter inches,\" Leo read carefully. \"Check,\" said Pop Pop. Leo drew a line across the board. Dad showed him how to saw straight. When the piece fell clean, Leo held it up. \"It fits!\" \"Told you,\" Pop Pop smiled. \"Slow is smooth, smooth is fast.\""
+          "text": "\"Three and a quarter inches,\" Leo read carefully. \"Check,\" said Pop Pop. Leo drew a line across the board. Dad showed him how to saw straight. When the piece fell clean, Leo held it up. \"It fits!\" \"Told you,\" Pop Pop smiled. \"Slow is smooth, smooth is fast.\"",
+          "image": "pages/book-02/page_12.jpg"
         },
         {
           "page": 13,
           "kind": "ILL",
           "scene": "Hoisting the Platform",
-          "text": "Dad and Pop Pop hoisted the first platform into the acacia branches. Leo held the rope, pulling with all his might. Uncle Tio guided the boards from below, whistling a work tune. Maya handed up nails one at a time."
+          "text": "Dad and Pop Pop hoisted the first platform into the acacia branches. Leo held the rope, pulling with all his might. Uncle Tio guided the boards from below, whistling a work tune. Maya handed up nails one at a time.",
+          "image": "pages/book-02/page_13.jpg"
         },
         {
           "page": 14,
           "kind": "TEXT",
           "scene": "Hard Work Takes Time",
-          "text": "\"How long till sunset?\" Leo asked, panting. \"Hard work ain’t always fast work,\" Pop Pop said, setting a board into place. \"But it’s good work. And good work lasts.\" Leo looked at what they'd built so far — a solid platform, straight and level. It wasn’t fast. But it was right."
+          "text": "\"How long till sunset?\" Leo asked, panting. \"Hard work ain’t always fast work,\" Pop Pop said, setting a board into place. \"But it’s good work. And good work lasts.\" Leo looked at what they'd built so far — a solid platform, straight and level. It wasn’t fast. But it was right.",
+          "image": "pages/book-02/page_14.jpg"
         },
         {
           "page": 15,
           "kind": "ILL",
           "scene": "Walls and Railings Go Up",
-          "text": "The walls rose one board at a time. Dad hammered in rhythm with Uncle Tio's jumping jacks. The railings went up — Pop Pop checked each one with his level. Maya held the blueprint and called out measurements like a foreman."
+          "text": "The walls rose one board at a time. Dad hammered in rhythm with Uncle Tio's jumping jacks. The railings went up — Pop Pop checked each one with his level. Maya held the blueprint and called out measurements like a foreman.",
+          "image": "pages/book-02/page_15.jpg"
         },
         {
           "page": 16,
           "kind": "TEXT",
           "scene": "Uncle Tio’s Rope Knots",
-          "text": "\"Alright, team! Time for rope!\" Uncle Tio grabbed the coil. \"I’m gonna teach you a trick knot. My coach taught me this one.\" He showed Leo how to loop and pull. Leo tried it himself. The first one slipped. The second one held. \"That’s it!\" Tio laughed. \"I’m not laughing at you — I’m laughing with you! Mostly!\""
+          "text": "\"Alright, team! Time for rope!\" Uncle Tio grabbed the coil. \"I’m gonna teach you a trick knot. My coach taught me this one.\" He showed Leo how to loop and pull. Leo tried it himself. The first one slipped. The second one held. \"That’s it!\" Tio laughed. \"I’m not laughing at you — I’m laughing with you! Mostly!\"",
+          "image": "pages/book-02/page_16.jpg"
         },
         {
           "page": 17,
           "kind": "ILL",
           "scene": "Stringing the Lanterns — Dusk Falls",
-          "text": "The sun sank low, painting the sky orange and pink. Leo climbed the solid ladder — no wobble this time — carrying a string of warm lanterns. Maya followed with Glimmer tucked under one arm, carrying a lantern of her own."
+          "text": "The sun sank low, painting the sky orange and pink. Leo climbed the solid ladder — no wobble this time — carrying a string of warm lanterns. Maya followed with Glimmer tucked under one arm, carrying a lantern of her own.",
+          "image": "pages/book-02/page_17.jpg"
         },
         {
           "page": 18,
           "kind": "TEXT",
           "scene": "The Last Lantern",
-          "text": "Leo tied the last lantern to a branch, stepped back, and admired their work. The treehouse had walls, a roof, railings, and glowing lanterns all around. He knocked on a post with his knuckles. Solid. \"There,\" he whispered. \"That’s how you build something that lasts.\""
+          "text": "Leo tied the last lantern to a branch, stepped back, and admired their work. The treehouse had walls, a roof, railings, and glowing lanterns all around. He knocked on a post with his knuckles. Solid. \"There,\" he whispered. \"That’s how you build something that lasts.\"",
+          "image": "pages/book-02/page_18.jpg"
         },
         {
           "page": 19,
           "kind": "ILL",
           "scene": "The Finished Treehouse at Twilight",
-          "text": "The treehouse glowed like a little home in the branches. Lantern light spilled warm and golden across the leaves. The ladder stood straight and true. A little sign near the door read “Jordan Pride Treehouse” in Pop Pop’s handwriting."
+          "text": "The treehouse glowed like a little home in the branches. Lantern light spilled warm and golden across the leaves. The ladder stood straight and true. A little sign near the door read “Jordan Pride Treehouse” in Pop Pop’s handwriting.",
+          "image": "pages/book-02/page_19.jpg"
         },
         {
           "page": 20,
           "kind": "TEXT",
           "scene": "Leo’s Proud Climb",
-          "text": "Leo climbed the ladder one more time, slow and steady. Each rung felt firm beneath his paws. At the top, he turned and looked down at his family. \"She’s solid, Pop Pop!\" he called. Pop Pop grinned. \"I know, cub. I watched you build her.\""
+          "text": "Leo climbed the ladder one more time, slow and steady. Each rung felt firm beneath his paws. At the top, he turned and looked down at his family. \"She’s solid, Pop Pop!\" he called. Pop Pop grinned. \"I know, cub. I watched you build her.\"",
+          "image": "pages/book-02/page_20.jpg"
         },
         {
           "page": 21,
           "kind": "ILL",
           "scene": "Apple Cider in the Treehouse",
-          "text": "Mom climbed up with a tray of warm apple cider cups. The whole family settled into the treehouse — Pop Pop in the corner chair, Dad leaning on the railing, Uncle Tio cross-legged, Leo and Maya in the middle. Lantern light danced on their faces."
+          "text": "Mom climbed up with a tray of warm apple cider cups. The whole family settled into the treehouse — Pop Pop in the corner chair, Dad leaning on the railing, Uncle Tio cross-legged, Leo and Maya in the middle. Lantern light danced on their faces.",
+          "image": "pages/book-02/page_21.jpg"
         },
         {
           "page": 22,
           "kind": "TEXT",
           "scene": "Pop Pop’s Teaching Moment",
-          "text": "Pop Pop sipped his cider and looked at Leo over his glasses. \"You learned something today, didn’t you, cub?\" Leo nodded. \"Blueprints ain’t just paper, sir. They’re the plan. And the plan is what keeps the ladder from wobbling.\" \"That’s right,\" Pop Pop said. \"Pride ain’t about being fast. It’s about doing it right.\""
+          "text": "Pop Pop sipped his cider and looked at Leo over his glasses. \"You learned something today, didn’t you, cub?\" Leo nodded. \"Blueprints ain’t just paper, sir. They’re the plan. And the plan is what keeps the ladder from wobbling.\" \"That’s right,\" Pop Pop said. \"Pride ain’t about being fast. It’s about doing it right.\"",
+          "image": "pages/book-02/page_22.jpg"
         },
         {
           "page": 23,
           "kind": "ILL",
           "scene": "Neighbors Arrive With Cups",
-          "text": "Mr. Badger came up the ladder with a cup of his own. The Otter kids scrambled up behind him, chattering with excitement. Soon the treehouse was full of neighbors, all admiring the sturdy build and warm lantern glow."
+          "text": "Mr. Badger came up the ladder with a cup of his own. The Otter kids scrambled up behind him, chattering with excitement. Soon the treehouse was full of neighbors, all admiring the sturdy build and warm lantern glow.",
+          "image": "pages/book-02/page_23.jpg"
         },
         {
           "page": 24,
           "kind": "TEXT",
           "scene": "The Neighborhood Gathering Spot",
-          "text": "\"Who built this?\" Mr. Badger asked, looking around. \"Leo did,\" Maya said proudly. \"He measured every single board.\" Leo’s ears perked up. \"Well, Pop Pop and Dad and Uncle Tio helped. And Maya handed me the nails. It was a team job.\" \"A Jordan Pride job,\" Pop Pop added with a wink."
+          "text": "\"Who built this?\" Mr. Badger asked, looking around. \"Leo did,\" Maya said proudly. \"He measured every single board.\" Leo’s ears perked up. \"Well, Pop Pop and Dad and Uncle Tio helped. And Maya handed me the nails. It was a team job.\" \"A Jordan Pride job,\" Pop Pop added with a wink.",
+          "image": "pages/book-02/page_24.jpg"
         },
         {
           "page": 25,
           "kind": "ILL",
           "scene": "Leo and Maya at the Railing — Night Sky",
-          "text": "The stars came out, one by one, scattered across the dark blue sky. Leo and Maya stood at the railing, looking out over Savanna Heights. The lanterns swayed gently in the warm breeze. Glimmer glowed softly in Maya’s arms."
+          "text": "The stars came out, one by one, scattered across the dark blue sky. Leo and Maya stood at the railing, looking out over Savanna Heights. The lanterns swayed gently in the warm breeze. Glimmer glowed softly in Maya’s arms.",
+          "image": "pages/book-02/page_25.jpg"
         },
         {
           "page": 26,
           "kind": "TEXT",
           "scene": "Leo’s Apology",
-          "text": "\"I’m sorry I tried to rush,\" Leo said quietly. \"I should’ve listened about the blueprints.\" Pop Pop came up beside him and rested a paw on his shoulder. \"Pride ain’t about being perfect, cub. It’s about doing it right. And you did it right. That’s what matters.\" Leo looked up at the stars and smiled."
+          "text": "\"I’m sorry I tried to rush,\" Leo said quietly. \"I should’ve listened about the blueprints.\" Pop Pop came up beside him and rested a paw on his shoulder. \"Pride ain’t about being perfect, cub. It’s about doing it right. And you did it right. That’s what matters.\" Leo looked up at the stars and smiled.",
+          "image": "pages/book-02/page_26.jpg"
         },
         {
           "page": 27,
           "kind": "ILL",
           "scene": "Pop Pop and Dad Side by Side",
-          "text": "Pop Pop and Dad leaned on the railing, side by side, looking out at the moonlit savanna. The lantern light caught the gray in Pop Pop's mane and the shine in Dad's eyes. Two generations, proud of the same thing."
+          "text": "Pop Pop and Dad leaned on the railing, side by side, looking out at the moonlit savanna. The lantern light caught the gray in Pop Pop's mane and the shine in Dad's eyes. Two generations, proud of the same thing.",
+          "image": "pages/book-02/page_27.jpg"
         },
         {
           "page": 28,
           "kind": "TEXT",
           "scene": "Maya’s Words of Comfort",
-          "text": "Maya tugged Leo’s sleeve. \"You did good, Leo. Really good. I knew you could do it.\" Leo scooped her up in a big hug. \"Thanks, Maya. You’re a good foreman.\" \"What’s a foreman?\" Maya asked. \"The boss who hands out nails and tells everybody what to do,\" Leo laughed."
+          "text": "Maya tugged Leo’s sleeve. \"You did good, Leo. Really good. I knew you could do it.\" Leo scooped her up in a big hug. \"Thanks, Maya. You’re a good foreman.\" \"What’s a foreman?\" Maya asked. \"The boss who hands out nails and tells everybody what to do,\" Leo laughed.",
+          "image": "pages/book-02/page_28.jpg"
         },
         {
           "page": 29,
           "kind": "ILL",
           "scene": "The Treehouse in Full Moonlight",
-          "text": "The treehouse stood proud in the acacia tree, lanterns still glowing, casting warm light across the yard. Savanna Heights stretched below, quiet and peaceful. A gentle breeze rustled the leaves around the sturdy little house in the branches."
+          "text": "The treehouse stood proud in the acacia tree, lanterns still glowing, casting warm light across the yard. Savanna Heights stretched below, quiet and peaceful. A gentle breeze rustled the leaves around the sturdy little house in the branches.",
+          "image": "pages/book-02/page_29.jpg"
         },
         {
           "page": 30,
           "kind": "TEXT",
           "scene": "Closing — The Jordan Pride Way",
-          "text": "Leo climbed down one last time and looked up at what they'd built. A treehouse that would last for years. Full of memories not even made yet. Dad put his paw around Leo’s shoulder. \"Measure twice, cut once, cub.\" Leo smiled. \"Yes sir. That’s how the Jordan Pride builds.\""
+          "text": "Leo climbed down one last time and looked up at what they'd built. A treehouse that would last for years. Full of memories not even made yet. Dad put his paw around Leo’s shoulder. \"Measure twice, cut once, cub.\" Leo smiled. \"Yes sir. That’s how the Jordan Pride builds.\"",
+          "image": "pages/book-02/page_30.jpg"
         },
         {
           "page": 31,
           "kind": "BACK - FAMILY TALK",
           "scene": "Family Talk — 7 Questions for Tonight",
-          "text": "**7 Questions for Tonight — The Great Savanna Treehouse Build**\n\n1. Leo wanted to skip the blueprints and build fast. Have you ever tried to rush something important? What happened?\n2. Pop Pop said, \"Measure twice, cut once.\" What does that mean in your own words?\n3. Maya reminded Leo about the blueprints even though she’s little. Why is it important to speak up when you see something wrong?\n4. Uncle Tio taught Leo a rope trick knot. What is something a grown-up taught you by showing you how?\n5. The treehouse became a place for the whole neighborhood. How does it feel when something you worked hard on makes other people happy?\n6. Leo apologized for rushing. Why is saying sorry an important part of being a good builder — and a good family member?\n7. Pop Pop said, \"Pride ain’t about being fast. It’s about doing it right.\" What is something you want to do right this week?"
+          "text": "**7 Questions for Tonight — The Great Savanna Treehouse Build**\n\n1. Leo wanted to skip the blueprints and build fast. Have you ever tried to rush something important? What happened?\n2. Pop Pop said, \"Measure twice, cut once.\" What does that mean in your own words?\n3. Maya reminded Leo about the blueprints even though she’s little. Why is it important to speak up when you see something wrong?\n4. Uncle Tio taught Leo a rope trick knot. What is something a grown-up taught you by showing you how?\n5. The treehouse became a place for the whole neighborhood. How does it feel when something you worked hard on makes other people happy?\n6. Leo apologized for rushing. Why is saying sorry an important part of being a good builder — and a good family member?\n7. Pop Pop said, \"Pride ain’t about being fast. It’s about doing it right.\" What is something you want to do right this week?",
+          "image": "pages/book-02/page_31.jpg"
         },
         {
           "page": 32,
           "kind": "BACK - FIVE PILLARS",
           "scene": "Our Family Promise — The Five Pillars of the Pride",
-          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more."
+          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more.",
+          "image": "pages/book-02/page_32.jpg"
         }
       ],
       "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
@@ -708,193 +740,225 @@
           "page": 1,
           "kind": "FRONT",
           "scene": "Half-Title Still Life — Blueprint Roll and a Wooden Hammer",
-          "text": "The Great Savanna Treehouse Build"
+          "text": "The Great Savanna Treehouse Build",
+          "image": "pages/book-02/page_01.jpg"
         },
         {
           "page": 2,
           "kind": "FRONT",
           "scene": "Title Page — Two Cubs Peeking Out with Blueprints",
-          "text": "The Jordan Pride - Book 2: The Great Savanna Treehouse Build\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights"
+          "text": "The Jordan Pride - Book 2: The Great Savanna Treehouse Build\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights",
+          "image": "pages/book-02/page_02.jpg"
         },
         {
           "page": 3,
           "kind": "ILL",
           "scene": "The Big Acacia Tree — Saturday Morning",
-          "text": "Sunlight spilled through the big acacia tree in the backyard. A pile of wooden boards, a rusty hammer, and a coil of rope sat in the grass. Leo stood with his paws on his hips, one ear already starting to twitch."
+          "text": "Sunlight spilled through the big acacia tree in the backyard. A pile of wooden boards, a rusty hammer, and a coil of rope sat in the grass. Leo stood with his paws on his hips, one ear already starting to twitch.",
+          "image": "pages/book-02/page_03.jpg"
         },
         {
           "page": 4,
           "kind": "TEXT",
           "scene": "Leo's Big Announcement",
-          "text": "\"I’m gonna build the biggest treehouse in all of Savanna Heights!\" Leo announced. \"Before sunset!\" Dad looked up from his coffee. \"Whoa there, cowboy. That’s a big job. Let’s draw up some plans first.\" Leo’s ear twitch-twitched. \"Plans take too long, sir! I got this!\""
+          "text": "\"I’m gonna build the biggest treehouse in all of Savanna Heights!\" Leo announced. \"Before sunset!\" Dad looked up from his coffee. \"Whoa there, cowboy. That’s a big job. Let’s draw up some plans first.\" Leo’s ear twitch-twitched. \"Plans take too long, sir! I got this!\"",
+          "image": "pages/book-02/page_04.jpg"
         },
         {
           "page": 5,
           "kind": "ILL",
           "scene": "Sneaking Away — Leo Starts Hammering",
-          "text": "Leo grabbed the hammer and a handful of nails. He dragged a board to the tree and started banging away. Maya sat on the grass nearby, hugging Glimmer, watching him with worried eyes."
+          "text": "Leo grabbed the hammer and a handful of nails. He dragged a board to the tree and started banging away. Maya sat on the grass nearby, hugging Glimmer, watching him with worried eyes.",
+          "image": "pages/book-02/page_05.jpg"
         },
         {
           "page": 6,
           "kind": "TEXT",
           "scene": "Maya’s Gentle Warning",
-          "text": "\"Leo,\" Maya said softly, squeezing Glimmer. \"Pop Pop said measure twice. Remember?\" \"I measured with my eyes!\" Leo said, lining up another board. \"See? Perfect fit.\" It wasn’t perfect. Not even close. But Leo was already reaching for the next nail."
+          "text": "\"Leo,\" Maya said softly, squeezing Glimmer. \"Pop Pop said measure twice. Remember?\" \"I measured with my eyes!\" Leo said, lining up another board. \"See? Perfect fit.\" It wasn’t perfect. Not even close. But Leo was already reaching for the next nail.",
+          "image": "pages/book-02/page_06.jpg"
         },
         {
           "page": 7,
           "kind": "ILL",
           "scene": "The Wobbly Ladder",
-          "text": "Leo propped a wobbly ladder against the tree trunk and climbed up, hammer in paw. The ladder groaned. A nail popped loose. The rung beneath his foot tilted sideways, and Leo's eyes went wide."
+          "text": "Leo propped a wobbly ladder against the tree trunk and climbed up, hammer in paw. The ladder groaned. A nail popped loose. The rung beneath his foot tilted sideways, and Leo's eyes went wide.",
+          "image": "pages/book-02/page_07.jpg"
         },
         {
           "page": 8,
           "kind": "TEXT",
           "scene": "Pop Pop Catches the Ladder",
-          "text": "A strong hand grabbed the ladder and held it steady. \"Easy there, builder boy,\" said Pop Pop, his wire-rimmed glasses catching the sun. \"That ladder’s got no love in it. Come down here.\" Leo climbed down, his ears drooping. Pop Pop put a paw on his shoulder. \"Let’s build it right.\""
+          "text": "A strong hand grabbed the ladder and held it steady. \"Easy there, builder boy,\" said Pop Pop, his wire-rimmed glasses catching the sun. \"That ladder’s got no love in it. Come down here.\" Leo climbed down, his ears drooping. Pop Pop put a paw on his shoulder. \"Let’s build it right.\"",
+          "image": "pages/book-02/page_08.jpg"
         },
         {
           "page": 9,
           "kind": "ILL",
           "scene": "The Workbench — Blueprints Unrolled",
-          "text": "Dad, Pop Pop, and Uncle Tio gathered around the old workbench. A roll of blueprints spread across the wood. Leo stood on a crate to see. Maya peeked under Pop Pop's arm, still hugging Glimmer."
+          "text": "Dad, Pop Pop, and Uncle Tio gathered around the old workbench. A roll of blueprints spread across the wood. Leo stood on a crate to see. Maya peeked under Pop Pop's arm, still hugging Glimmer.",
+          "image": "pages/book-02/page_09.jpg"
         },
         {
           "page": 10,
           "kind": "TEXT",
           "scene": "Measure Twice, Cut Once",
-          "text": "Pop Pop handed Leo a measuring tape. \"See these numbers? They ain’t guesses. They’re promises.\" Dad spun his basketball on one claw, then caught it. \"Paycheck’s honest, and so am I. Measure twice, cut once, cub!\" Uncle Tio blew his whistle. \"Alright, team! Let’s square up!\""
+          "text": "Pop Pop handed Leo a measuring tape. \"See these numbers? They ain’t guesses. They’re promises.\" Dad spun his basketball on one claw, then caught it. \"Paycheck’s honest, and so am I. Measure twice, cut once, cub!\" Uncle Tio blew his whistle. \"Alright, team! Let’s square up!\"",
+          "image": "pages/book-02/page_10.jpg"
         },
         {
           "page": 11,
           "kind": "ILL",
           "scene": "Measuring Together — Paw Over Paw",
-          "text": "Leo held one end of the tape measure against a fresh board. Pop Pop held the other, showing him how to read the marks. Maya held the pencil, ready to draw the line. Uncle Tio checked the level."
+          "text": "Leo held one end of the tape measure against a fresh board. Pop Pop held the other, showing him how to read the marks. Maya held the pencil, ready to draw the line. Uncle Tio checked the level.",
+          "image": "pages/book-02/page_11.jpg"
         },
         {
           "page": 12,
           "kind": "TEXT",
           "scene": "The First Right Cut",
-          "text": "\"Three and a quarter inches,\" Leo read carefully. \"Check,\" said Pop Pop. Leo drew a line across the board. Dad showed him how to saw straight. When the piece fell clean, Leo held it up. \"It fits!\" \"Told you,\" Pop Pop smiled. \"Slow is smooth, smooth is fast.\""
+          "text": "\"Three and a quarter inches,\" Leo read carefully. \"Check,\" said Pop Pop. Leo drew a line across the board. Dad showed him how to saw straight. When the piece fell clean, Leo held it up. \"It fits!\" \"Told you,\" Pop Pop smiled. \"Slow is smooth, smooth is fast.\"",
+          "image": "pages/book-02/page_12.jpg"
         },
         {
           "page": 13,
           "kind": "ILL",
           "scene": "Hoisting the Platform",
-          "text": "Dad and Pop Pop hoisted the first platform into the acacia branches. Leo held the rope, pulling with all his might. Uncle Tio guided the boards from below, whistling a work tune. Maya handed up nails one at a time."
+          "text": "Dad and Pop Pop hoisted the first platform into the acacia branches. Leo held the rope, pulling with all his might. Uncle Tio guided the boards from below, whistling a work tune. Maya handed up nails one at a time.",
+          "image": "pages/book-02/page_13.jpg"
         },
         {
           "page": 14,
           "kind": "TEXT",
           "scene": "Hard Work Takes Time",
-          "text": "\"How long till sunset?\" Leo asked, panting. \"Hard work ain’t always fast work,\" Pop Pop said, setting a board into place. \"But it’s good work. And good work lasts.\" Leo looked at what they'd built so far — a solid platform, straight and level. It wasn’t fast. But it was right."
+          "text": "\"How long till sunset?\" Leo asked, panting. \"Hard work ain’t always fast work,\" Pop Pop said, setting a board into place. \"But it’s good work. And good work lasts.\" Leo looked at what they'd built so far — a solid platform, straight and level. It wasn’t fast. But it was right.",
+          "image": "pages/book-02/page_14.jpg"
         },
         {
           "page": 15,
           "kind": "ILL",
           "scene": "Walls and Railings Go Up",
-          "text": "The walls rose one board at a time. Dad hammered in rhythm with Uncle Tio's jumping jacks. The railings went up — Pop Pop checked each one with his level. Maya held the blueprint and called out measurements like a foreman."
+          "text": "The walls rose one board at a time. Dad hammered in rhythm with Uncle Tio's jumping jacks. The railings went up — Pop Pop checked each one with his level. Maya held the blueprint and called out measurements like a foreman.",
+          "image": "pages/book-02/page_15.jpg"
         },
         {
           "page": 16,
           "kind": "TEXT",
           "scene": "Uncle Tio’s Rope Knots",
-          "text": "\"Alright, team! Time for rope!\" Uncle Tio grabbed the coil. \"I’m gonna teach you a trick knot. My coach taught me this one.\" He showed Leo how to loop and pull. Leo tried it himself. The first one slipped. The second one held. \"That’s it!\" Tio laughed. \"I’m not laughing at you — I’m laughing with you! Mostly!\""
+          "text": "\"Alright, team! Time for rope!\" Uncle Tio grabbed the coil. \"I’m gonna teach you a trick knot. My coach taught me this one.\" He showed Leo how to loop and pull. Leo tried it himself. The first one slipped. The second one held. \"That’s it!\" Tio laughed. \"I’m not laughing at you — I’m laughing with you! Mostly!\"",
+          "image": "pages/book-02/page_16.jpg"
         },
         {
           "page": 17,
           "kind": "ILL",
           "scene": "Stringing the Lanterns — Dusk Falls",
-          "text": "The sun sank low, painting the sky orange and pink. Leo climbed the solid ladder — no wobble this time — carrying a string of warm lanterns. Maya followed with Glimmer tucked under one arm, carrying a lantern of her own."
+          "text": "The sun sank low, painting the sky orange and pink. Leo climbed the solid ladder — no wobble this time — carrying a string of warm lanterns. Maya followed with Glimmer tucked under one arm, carrying a lantern of her own.",
+          "image": "pages/book-02/page_17.jpg"
         },
         {
           "page": 18,
           "kind": "TEXT",
           "scene": "The Last Lantern",
-          "text": "Leo tied the last lantern to a branch, stepped back, and admired their work. The treehouse had walls, a roof, railings, and glowing lanterns all around. He knocked on a post with his knuckles. Solid. \"There,\" he whispered. \"That’s how you build something that lasts.\""
+          "text": "Leo tied the last lantern to a branch, stepped back, and admired their work. The treehouse had walls, a roof, railings, and glowing lanterns all around. He knocked on a post with his knuckles. Solid. \"There,\" he whispered. \"That’s how you build something that lasts.\"",
+          "image": "pages/book-02/page_18.jpg"
         },
         {
           "page": 19,
           "kind": "ILL",
           "scene": "The Finished Treehouse at Twilight",
-          "text": "The treehouse glowed like a little home in the branches. Lantern light spilled warm and golden across the leaves. The ladder stood straight and true. A little sign near the door read “Jordan Pride Treehouse” in Pop Pop’s handwriting."
+          "text": "The treehouse glowed like a little home in the branches. Lantern light spilled warm and golden across the leaves. The ladder stood straight and true. A little sign near the door read “Jordan Pride Treehouse” in Pop Pop’s handwriting.",
+          "image": "pages/book-02/page_19.jpg"
         },
         {
           "page": 20,
           "kind": "TEXT",
           "scene": "Leo’s Proud Climb",
-          "text": "Leo climbed the ladder one more time, slow and steady. Each rung felt firm beneath his paws. At the top, he turned and looked down at his family. \"She’s solid, Pop Pop!\" he called. Pop Pop grinned. \"I know, cub. I watched you build her.\""
+          "text": "Leo climbed the ladder one more time, slow and steady. Each rung felt firm beneath his paws. At the top, he turned and looked down at his family. \"She’s solid, Pop Pop!\" he called. Pop Pop grinned. \"I know, cub. I watched you build her.\"",
+          "image": "pages/book-02/page_20.jpg"
         },
         {
           "page": 21,
           "kind": "ILL",
           "scene": "Apple Cider in the Treehouse",
-          "text": "Mom climbed up with a tray of warm apple cider cups. The whole family settled into the treehouse — Pop Pop in the corner chair, Dad leaning on the railing, Uncle Tio cross-legged, Leo and Maya in the middle. Lantern light danced on their faces."
+          "text": "Mom climbed up with a tray of warm apple cider cups. The whole family settled into the treehouse — Pop Pop in the corner chair, Dad leaning on the railing, Uncle Tio cross-legged, Leo and Maya in the middle. Lantern light danced on their faces.",
+          "image": "pages/book-02/page_21.jpg"
         },
         {
           "page": 22,
           "kind": "TEXT",
           "scene": "Pop Pop’s Teaching Moment",
-          "text": "Pop Pop sipped his cider and looked at Leo over his glasses. \"You learned something today, didn’t you, cub?\" Leo nodded. \"Blueprints ain’t just paper, sir. They’re the plan. And the plan is what keeps the ladder from wobbling.\" \"That’s right,\" Pop Pop said. \"Pride ain’t about being fast. It’s about doing it right.\""
+          "text": "Pop Pop sipped his cider and looked at Leo over his glasses. \"You learned something today, didn’t you, cub?\" Leo nodded. \"Blueprints ain’t just paper, sir. They’re the plan. And the plan is what keeps the ladder from wobbling.\" \"That’s right,\" Pop Pop said. \"Pride ain’t about being fast. It’s about doing it right.\"",
+          "image": "pages/book-02/page_22.jpg"
         },
         {
           "page": 23,
           "kind": "ILL",
           "scene": "Neighbors Arrive With Cups",
-          "text": "Mr. Badger came up the ladder with a cup of his own. The Otter kids scrambled up behind him, chattering with excitement. Soon the treehouse was full of neighbors, all admiring the sturdy build and warm lantern glow."
+          "text": "Mr. Badger came up the ladder with a cup of his own. The Otter kids scrambled up behind him, chattering with excitement. Soon the treehouse was full of neighbors, all admiring the sturdy build and warm lantern glow.",
+          "image": "pages/book-02/page_23.jpg"
         },
         {
           "page": 24,
           "kind": "TEXT",
           "scene": "The Neighborhood Gathering Spot",
-          "text": "\"Who built this?\" Mr. Badger asked, looking around. \"Leo did,\" Maya said proudly. \"He measured every single board.\" Leo’s ears perked up. \"Well, Pop Pop and Dad and Uncle Tio helped. And Maya handed me the nails. It was a team job.\" \"A Jordan Pride job,\" Pop Pop added with a wink."
+          "text": "\"Who built this?\" Mr. Badger asked, looking around. \"Leo did,\" Maya said proudly. \"He measured every single board.\" Leo’s ears perked up. \"Well, Pop Pop and Dad and Uncle Tio helped. And Maya handed me the nails. It was a team job.\" \"A Jordan Pride job,\" Pop Pop added with a wink.",
+          "image": "pages/book-02/page_24.jpg"
         },
         {
           "page": 25,
           "kind": "ILL",
           "scene": "Leo and Maya at the Railing — Night Sky",
-          "text": "The stars came out, one by one, scattered across the dark blue sky. Leo and Maya stood at the railing, looking out over Savanna Heights. The lanterns swayed gently in the warm breeze. Glimmer glowed softly in Maya’s arms."
+          "text": "The stars came out, one by one, scattered across the dark blue sky. Leo and Maya stood at the railing, looking out over Savanna Heights. The lanterns swayed gently in the warm breeze. Glimmer glowed softly in Maya’s arms.",
+          "image": "pages/book-02/page_25.jpg"
         },
         {
           "page": 26,
           "kind": "TEXT",
           "scene": "Leo’s Apology",
-          "text": "\"I’m sorry I tried to rush,\" Leo said quietly. \"I should’ve listened about the blueprints.\" Pop Pop came up beside him and rested a paw on his shoulder. \"Pride ain’t about being perfect, cub. It’s about doing it right. And you did it right. That’s what matters.\" Leo looked up at the stars and smiled."
+          "text": "\"I’m sorry I tried to rush,\" Leo said quietly. \"I should’ve listened about the blueprints.\" Pop Pop came up beside him and rested a paw on his shoulder. \"Pride ain’t about being perfect, cub. It’s about doing it right. And you did it right. That’s what matters.\" Leo looked up at the stars and smiled.",
+          "image": "pages/book-02/page_26.jpg"
         },
         {
           "page": 27,
           "kind": "ILL",
           "scene": "Pop Pop and Dad Side by Side",
-          "text": "Pop Pop and Dad leaned on the railing, side by side, looking out at the moonlit savanna. The lantern light caught the gray in Pop Pop's mane and the shine in Dad's eyes. Two generations, proud of the same thing."
+          "text": "Pop Pop and Dad leaned on the railing, side by side, looking out at the moonlit savanna. The lantern light caught the gray in Pop Pop's mane and the shine in Dad's eyes. Two generations, proud of the same thing.",
+          "image": "pages/book-02/page_27.jpg"
         },
         {
           "page": 28,
           "kind": "TEXT",
           "scene": "Maya’s Words of Comfort",
-          "text": "Maya tugged Leo’s sleeve. \"You did good, Leo. Really good. I knew you could do it.\" Leo scooped her up in a big hug. \"Thanks, Maya. You’re a good foreman.\" \"What’s a foreman?\" Maya asked. \"The boss who hands out nails and tells everybody what to do,\" Leo laughed."
+          "text": "Maya tugged Leo’s sleeve. \"You did good, Leo. Really good. I knew you could do it.\" Leo scooped her up in a big hug. \"Thanks, Maya. You’re a good foreman.\" \"What’s a foreman?\" Maya asked. \"The boss who hands out nails and tells everybody what to do,\" Leo laughed.",
+          "image": "pages/book-02/page_28.jpg"
         },
         {
           "page": 29,
           "kind": "ILL",
           "scene": "The Treehouse in Full Moonlight",
-          "text": "The treehouse stood proud in the acacia tree, lanterns still glowing, casting warm light across the yard. Savanna Heights stretched below, quiet and peaceful. A gentle breeze rustled the leaves around the sturdy little house in the branches."
+          "text": "The treehouse stood proud in the acacia tree, lanterns still glowing, casting warm light across the yard. Savanna Heights stretched below, quiet and peaceful. A gentle breeze rustled the leaves around the sturdy little house in the branches.",
+          "image": "pages/book-02/page_29.jpg"
         },
         {
           "page": 30,
           "kind": "TEXT",
           "scene": "Closing — The Jordan Pride Way",
-          "text": "Leo climbed down one last time and looked up at what they'd built. A treehouse that would last for years. Full of memories not even made yet. Dad put his paw around Leo’s shoulder. \"Measure twice, cut once, cub.\" Leo smiled. \"Yes sir. That’s how the Jordan Pride builds.\""
+          "text": "Leo climbed down one last time and looked up at what they'd built. A treehouse that would last for years. Full of memories not even made yet. Dad put his paw around Leo’s shoulder. \"Measure twice, cut once, cub.\" Leo smiled. \"Yes sir. That’s how the Jordan Pride builds.\"",
+          "image": "pages/book-02/page_30.jpg"
         },
         {
           "page": 31,
           "kind": "BACK - FAMILY TALK",
           "scene": "Family Talk — 7 Questions for Tonight",
-          "text": "**7 Questions for Tonight — The Great Savanna Treehouse Build**\n\n1. Leo wanted to skip the blueprints and build fast. Have you ever tried to rush something important? What happened?\n2. Pop Pop said, \"Measure twice, cut once.\" What does that mean in your own words?\n3. Maya reminded Leo about the blueprints even though she’s little. Why is it important to speak up when you see something wrong?\n4. Uncle Tio taught Leo a rope trick knot. What is something a grown-up taught you by showing you how?\n5. The treehouse became a place for the whole neighborhood. How does it feel when something you worked hard on makes other people happy?\n6. Leo apologized for rushing. Why is saying sorry an important part of being a good builder — and a good family member?\n7. Pop Pop said, \"Pride ain’t about being fast. It’s about doing it right.\" What is something you want to do right this week?"
+          "text": "**7 Questions for Tonight — The Great Savanna Treehouse Build**\n\n1. Leo wanted to skip the blueprints and build fast. Have you ever tried to rush something important? What happened?\n2. Pop Pop said, \"Measure twice, cut once.\" What does that mean in your own words?\n3. Maya reminded Leo about the blueprints even though she’s little. Why is it important to speak up when you see something wrong?\n4. Uncle Tio taught Leo a rope trick knot. What is something a grown-up taught you by showing you how?\n5. The treehouse became a place for the whole neighborhood. How does it feel when something you worked hard on makes other people happy?\n6. Leo apologized for rushing. Why is saying sorry an important part of being a good builder — and a good family member?\n7. Pop Pop said, \"Pride ain’t about being fast. It’s about doing it right.\" What is something you want to do right this week?",
+          "image": "pages/book-02/page_31.jpg"
         },
         {
           "page": 32,
           "kind": "BACK - FIVE PILLARS",
           "scene": "Our Family Promise — The Five Pillars of the Pride",
-          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more."
+          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more.",
+          "image": "pages/book-02/page_32.jpg"
         }
       ],
       "word_count": 1498
