@@ -1257,6 +1257,14 @@ In our pride, we take care of each other."}], "word_count": 2241}};
       (b.sample_pages || []).forEach(function(sp) {
         const div = document.createElement('div');
         div.className = 'gv-sample-page';
+        if (sp.image) {
+          const img = document.createElement('img');
+          img.src = sp.image;
+          img.alt = 'Page ' + sp.page + ' — ' + sp.scene;
+          img.loading = 'lazy';
+          img.style.cssText = 'width:100%;border-radius:10px;margin-bottom:10px;border:1px solid #E5D5B5;display:block;';
+          div.appendChild(img);
+        }
         const st = document.createElement('strong');
         st.textContent = 'Page ' + sp.page + ' — ' + sp.scene;
         const p = document.createElement('p');

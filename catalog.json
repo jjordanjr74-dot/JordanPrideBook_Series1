@@ -29,193 +29,225 @@
           "page": 1,
           "kind": "FRONT",
           "scene": "Half-Title Still Life — Morning on the Porch Steps",
-          "text": "The Jordan Pride — Book 1: The Day Leo Broke Pop Pop's Walking Stick (Half-Title & Dedication)"
+          "text": "The Jordan Pride — Book 1: The Day Leo Broke Pop Pop's Walking Stick (Half-Title & Dedication)",
+          "image": "./pages/book-01/page_01.jpg"
         },
         {
           "page": 2,
           "kind": "FRONT",
           "scene": "Title Page — Two Cubs Peeking Out",
-          "text": "Welcome to Savanna Heights — The Day Leo Broke Pop Pop's Walking Stick (Title Page)"
+          "text": "Welcome to Savanna Heights — The Day Leo Broke Pop Pop's Walking Stick (Title Page)",
+          "image": "./pages/book-01/page_02.jpg"
         },
         {
           "page": 3,
           "kind": "ILL",
           "scene": "Savanna Heights Wakes Up — Community Overview",
-          "text": "Down the cobblestone lane, the whole neighborhood was waking up.\nMr. Badger swept his bakery porch, Otter kids rode scooters past the playground,\nand warm golden sunshine spilled across Pop Pop's front yard."
+          "text": "Down the cobblestone lane, the whole neighborhood was waking up.\nMr. Badger swept his bakery porch, Otter kids rode scooters past the playground,\nand warm golden sunshine spilled across Pop Pop's front yard.",
+          "image": "./pages/book-01/page_03.jpg"
         },
         {
           "page": 4,
           "kind": "TEXT",
           "scene": "Saturday Morning Arrival at Pop Pop's Gate",
-          "text": "Mama Pearl marched through the garden carrying a tray of steaming cinnamon rolls.\nMiss Bunny stacked picture books under the shade tree while Tio counted jumping jacks—\"One! Two! Three!\"\nLeo held the wooden gate wide open. \"After you, Maya!\"\n\"Tank you, Leo!\" Maya giggled, hugging her purple star, Glimmer."
+          "text": "Mama Pearl marched through the garden carrying a tray of steaming cinnamon rolls.\nMiss Bunny stacked picture books under the shade tree while Tio counted jumping jacks—\"One! Two! Three!\"\nLeo held the wooden gate wide open. \"After you, Maya!\"\n\"Tank you, Leo!\" Maya giggled, hugging her purple star, Glimmer.",
+          "image": "./pages/book-01/page_04.jpg"
         },
         {
           "page": 5,
           "kind": "ILL",
           "scene": "The Whole Family Rolls In",
-          "text": "One by one, the rest of the family came up the garden walk.\nMom pointed at a ruby hummingbird while Dad spun a basketball on one claw.\n\"Bonjour, everybody!\" called GiGi beneath her big straw sunhat,\nwhile Great-Grampa snoozed happily in his porch rocker, his trucker hat tipped over his nose."
+          "text": "One by one, the rest of the family came up the garden walk.\nMom pointed at a ruby hummingbird while Dad spun a basketball on one claw.\n\"Bonjour, everybody!\" called GiGi beneath her big straw sunhat,\nwhile Great-Grampa snoozed happily in his porch rocker, his trucker hat tipped over his nose.",
+          "image": "./pages/book-01/page_05.jpg"
         },
         {
           "page": 6,
           "kind": "TEXT",
           "scene": "Good Manners at the Front Door",
-          "text": "TiTi arrived carrying a tray of warm lavender tea.\nLeo sprinted up the steps and pulled the heavy screen door open.\n\"Good morning, TiTi! Let me get that for you, ma'am.\"\n\"Why, thank you, Leo,\" TiTi smiled. \"What a thoughtful gentleman you are.\""
+          "text": "TiTi arrived carrying a tray of warm lavender tea.\nLeo sprinted up the steps and pulled the heavy screen door open.\n\"Good morning, TiTi! Let me get that for you, ma'am.\"\n\"Why, thank you, Leo,\" TiTi smiled. \"What a thoughtful gentleman you are.\"",
+          "image": "./pages/book-01/page_06.jpg"
         },
         {
           "page": 7,
           "kind": "ILL",
           "scene": "The Treasure on the Porch Wall",
-          "text": "Out on the quiet side of the porch hung Pop Pop's favorite treasure—\nhis hand-carved golden pine walking stick, polished smooth from a hundred savanna trails.\nLeo tipped his head back and stared up at the carved lion handle."
+          "text": "Out on the quiet side of the porch hung Pop Pop's favorite treasure—\nhis hand-carved golden pine walking stick, polished smooth from a hundred savanna trails.\nLeo tipped his head back and stared up at the carved lion handle.",
+          "image": "./pages/book-01/page_07.jpg"
         },
         {
           "page": 8,
           "kind": "TEXT",
           "scene": "Uh-Oh! The Left Ear Twitch",
-          "text": "Suddenly, Leo's left ear went TWITCH-TWITCH.\nIn Savanna Heights, whenever Leo's left ear wiggled, a wild idea was right behind it.\n\"Just one tiny pirate swing,\" Leo whispered.\nMaya hugged Glimmer tight. \"No, Leo! Pop Pop said look with our eyes, not our paws!\""
+          "text": "Suddenly, Leo's left ear went TWITCH-TWITCH.\nIn Savanna Heights, whenever Leo's left ear wiggled, a wild idea was right behind it.\n\"Just one tiny pirate swing,\" Leo whispered.\nMaya hugged Glimmer tight. \"No, Leo! Pop Pop said look with our eyes, not our paws!\"",
+          "image": "./pages/book-01/page_08.jpg"
         },
         {
           "page": 9,
           "kind": "ILL",
           "scene": "Captain Leo's Big Pirate Swing",
-          "text": "But Leo's left ear kept wiggling.\nHe lifted the heavy walking stick off its wooden hooks.\n\"Fear not, Matey Maya!\" Leo roared, leaping across the porch boards.\n\"Captain Leo will save the ship! SWISH! SWOOSH!\""
+          "text": "But Leo's left ear kept wiggling.\nHe lifted the heavy walking stick off its wooden hooks.\n\"Fear not, Matey Maya!\" Leo roared, leaping across the porch boards.\n\"Captain Leo will save the ship! SWISH! SWOOSH!\"",
+          "image": "./pages/book-01/page_09.jpg"
         },
         {
           "page": 10,
           "kind": "TEXT",
           "scene": "CRACK! Two Pieces on the Floor",
-          "text": "WHACK! The stick struck the heavy oak porch post.\nCRACK!\nTwo splintered pieces of golden pine tumbled across the floorboards.\nMaya gasped, covering her mouth. Leo froze from his whiskers to his sneakers,\nand his tummy dropped all the way down into his shoes."
+          "text": "WHACK! The stick struck the heavy oak porch post.\nCRACK!\nTwo splintered pieces of golden pine tumbled across the floorboards.\nMaya gasped, covering her mouth. Leo froze from his whiskers to his sneakers,\nand his tummy dropped all the way down into his shoes.",
+          "image": "./pages/book-01/page_10.jpg"
         },
         {
           "page": 11,
           "kind": "ILL",
           "scene": "The Worst Hiding Spot in Savanna Heights",
-          "text": "Footsteps thumped around the corner of the house.\nLeo panicked. He scooped up both broken pieces and shoved them behind a tiny clay flowerpot.\nThe pot was six inches wide. The stick was four feet long.\nBoth ends poked out like a lion tail wearing tiny trousers."
+          "text": "Footsteps thumped around the corner of the house.\nLeo panicked. He scooped up both broken pieces and shoved them behind a tiny clay flowerpot.\nThe pot was six inches wide. The stick was four feet long.\nBoth ends poked out like a lion tail wearing tiny trousers.",
+          "image": "./pages/book-01/page_11.jpg"
         },
         {
           "page": 12,
           "kind": "TEXT",
           "scene": "Turning Down a Cinnamon Roll?!",
-          "text": "Leo hurried into the yard and tried to whistle like nothing happened.\nTio was up to jumping jack number eleven. Leo counted them twice and got lost at seven.\n\"Warm cinnamon roll, sugar?\" Mama Pearl asked, holding out the frosting-drizzled tray.\n\"No, thank you, ma'am,\" Leo squeaked. Mama Pearl blinked. Leo NEVER said no to a cinnamon roll."
+          "text": "Leo hurried into the yard and tried to whistle like nothing happened.\nTio was up to jumping jack number eleven. Leo counted them twice and got lost at seven.\n\"Warm cinnamon roll, sugar?\" Mama Pearl asked, holding out the frosting-drizzled tray.\n\"No, thank you, ma'am,\" Leo squeaked. Mama Pearl blinked. Leo NEVER said no to a cinnamon roll.",
+          "image": "./pages/book-01/page_12.jpg"
         },
         {
           "page": 13,
           "kind": "ILL",
           "scene": "Under the Acacia Tree — Maya Shares Glimmer",
-          "text": "Leo ducked under the low branches of the great acacia tree and hugged his knees.\nLittle Maya padded over and plopped down beside him in the cool grass.\nWithout a word, she placed her favorite purple star, Glimmer, right into Leo's lap."
+          "text": "Leo ducked under the low branches of the great acacia tree and hugged his knees.\nLittle Maya padded over and plopped down beside him in the cool grass.\nWithout a word, she placed her favorite purple star, Glimmer, right into Leo's lap.",
+          "image": "./pages/book-01/page_13.jpg"
         },
         {
           "page": 14,
           "kind": "TEXT",
           "scene": "The Truth Is Like a Sneeze!",
-          "text": "\"I won't tell anybody,\" Maya whispered—and then she told Glimmer the time, the weather, and half a song.\nShe tapped Leo's knee. \"Your tummy feels all twisty, huh?\"\n\"How did you know?\" Leo mumbled.\n\"Pop Pop says the truth is like a sneeze,\" Maya beamed. \"You hold it in... and then ACHOO! Out it pops!\""
+          "text": "\"I won't tell anybody,\" Maya whispered—and then she told Glimmer the time, the weather, and half a song.\nShe tapped Leo's knee. \"Your tummy feels all twisty, huh?\"\n\"How did you know?\" Leo mumbled.\n\"Pop Pop says the truth is like a sneeze,\" Maya beamed. \"You hold it in... and then ACHOO! Out it pops!\"",
+          "image": "./pages/book-01/page_14.jpg"
         },
         {
           "page": 15,
           "kind": "ILL",
           "scene": "Picking Up the Pieces",
-          "text": "On the porch, Great-Grampa mumbled in his sleep, \"Somebody's sitting on pins and needles.\"\nLeo let out a long breath. His three-year-old sister was right.\nHe walked back to the tiny flowerpot, picked up both broken halves,\nand Maya slid her small warm paw right into his."
+          "text": "On the porch, Great-Grampa mumbled in his sleep, \"Somebody's sitting on pins and needles.\"\nLeo let out a long breath. His three-year-old sister was right.\nHe walked back to the tiny flowerpot, picked up both broken halves,\nand Maya slid her small warm paw right into his.",
+          "image": "./pages/book-01/page_15.jpg"
         },
         {
           "page": 16,
           "kind": "TEXT",
           "scene": "The Long Walk Across the Yard",
-          "text": "Side by side, the two cubs walked across the sunny lawn.\nLeo's legs felt as heavy as wet sand, but Maya squeezed his paw and kept walking.\n\"Everything okay, sweetie?\" Mom asked softly.\nOne by one, the chatter around the yard grew quiet as Pop Pop turned around."
+          "text": "Side by side, the two cubs walked across the sunny lawn.\nLeo's legs felt as heavy as wet sand, but Maya squeezed his paw and kept walking.\n\"Everything okay, sweetie?\" Mom asked softly.\nOne by one, the chatter around the yard grew quiet as Pop Pop turned around.",
+          "image": "./pages/book-01/page_16.jpg"
         },
         {
           "page": 17,
           "kind": "ILL",
           "scene": "Eye to Eye with Pop Pop",
-          "text": "Pop Pop looked down at the two broken pieces in Leo's paws.\nHe didn't yell. He didn't frown.\nInstead, Pop Pop knelt right down on the garden path until his wire-rimmed glasses\nwere level with Leo's wide amber eyes."
+          "text": "Pop Pop looked down at the two broken pieces in Leo's paws.\nHe didn't yell. He didn't frown.\nInstead, Pop Pop knelt right down on the garden path until his wire-rimmed glasses\nwere level with Leo's wide amber eyes.",
+          "image": "./pages/book-01/page_17.jpg"
         },
         {
           "page": 18,
           "kind": "TEXT",
           "scene": "The Brave Confession",
-          "text": "Leo stood as tall as a six-year-old cub could stand.\n\"Pop Pop, I took your walking stick without asking,\" Leo said, his voice shaking just once.\n\"I swung it like a pirate sword and broke it. I'm really sorry, sir.\"\nPop Pop rested a warm paw on Leo's shoulder. \"Thank you for telling me the truth, cub. That took real courage.\""
+          "text": "Leo stood as tall as a six-year-old cub could stand.\n\"Pop Pop, I took your walking stick without asking,\" Leo said, his voice shaking just once.\n\"I swung it like a pirate sword and broke it. I'm really sorry, sir.\"\nPop Pop rested a warm paw on Leo's shoulder. \"Thank you for telling me the truth, cub. That took real courage.\"",
+          "image": "./pages/book-01/page_18.jpg"
         },
         {
           "page": 19,
           "kind": "ILL",
           "scene": "Pop Pop's Golden Rule",
-          "text": "Pop Pop stood up and looked gently around the gathered family.\n\"Remember this always,\" Pop Pop said in his deep, warm voice.\n\"Only weak lions lie. Strong lions tell the truth—even when their knees are shaking.\""
+          "text": "Pop Pop stood up and looked gently around the gathered family.\n\"Remember this always,\" Pop Pop said in his deep, warm voice.\n\"Only weak lions lie. Strong lions tell the truth—even when their knees are shaking.\"",
+          "image": "./pages/book-01/page_19.jpg"
         },
         {
           "page": 20,
           "kind": "TEXT",
           "scene": "Broken Sticks vs. Broken Trust",
-          "text": "Pop Pop held the two halves of golden pine together.\n\"Broken things can be fixed in an afternoon, Leo. Broken trust takes a whole lot longer.\"\nFrom his rocking chair, Great-Grampa gave a gummy grin. \"Whoo! He's been saying that since I had teeth!\"\nEveryone laughed, and the tight knot in Leo's tummy finally melted away."
+          "text": "Pop Pop held the two halves of golden pine together.\n\"Broken things can be fixed in an afternoon, Leo. Broken trust takes a whole lot longer.\"\nFrom his rocking chair, Great-Grampa gave a gummy grin. \"Whoo! He's been saying that since I had teeth!\"\nEveryone laughed, and the tight knot in Leo's tummy finally melted away.",
+          "image": "./pages/book-01/page_20.jpg"
         },
         {
           "page": 21,
           "kind": "ILL",
           "scene": "Heading to the Workshop",
-          "text": "\"Now,\" Pop Pop winked, \"saying sorry is step one. Step two is making it right!\"\nHe took Leo's paw and led him down the stone path toward the woodworking shop.\nLeo trotted ahead to pull the heavy workshop door open. \"After you, sir!\""
+          "text": "\"Now,\" Pop Pop winked, \"saying sorry is step one. Step two is making it right!\"\nHe took Leo's paw and led him down the stone path toward the woodworking shop.\nLeo trotted ahead to pull the heavy workshop door open. \"After you, sir!\"",
+          "image": "./pages/book-01/page_21.jpg"
         },
         {
           "page": 22,
           "kind": "TEXT",
           "scene": "Pop Pop's MacGyver Trick & Mama Pearl's DIY",
-          "text": "Inside, the shop smelled like cedar shavings and warm linseed oil.\n\"Time for a little MacGyver magic,\" Pop Pop grinned. \"Look at what you have, imagine what it can become, and test it!\"\nHe fitted a sturdy brass dowel pin into the center of both broken ends,\nwhile Mama Pearl showed Leo how to brush on wood glue and tighten a twine clamp."
+          "text": "Inside, the shop smelled like cedar shavings and warm linseed oil.\n\"Time for a little MacGyver magic,\" Pop Pop grinned. \"Look at what you have, imagine what it can become, and test it!\"\nHe fitted a sturdy brass dowel pin into the center of both broken ends,\nwhile Mama Pearl showed Leo how to brush on wood glue and tighten a twine clamp.",
+          "image": "./pages/book-01/page_22.jpg"
         },
         {
           "page": 23,
           "kind": "ILL",
           "scene": "Sanding Side by Side",
-          "text": "Once the glue set, Pop Pop handed Leo a sheet of fine sandpaper.\nSCRITCH-SCRATCH, SCRITCH-SCRATCH!\nGolden sawdust danced in the sunbeams as Leo sanded the joint smooth,\nwith the tip of his pink tongue poking out the side of his mouth in concentration."
+          "text": "Once the glue set, Pop Pop handed Leo a sheet of fine sandpaper.\nSCRITCH-SCRATCH, SCRITCH-SCRATCH!\nGolden sawdust danced in the sunbeams as Leo sanded the joint smooth,\nwith the tip of his pink tongue poking out the side of his mouth in concentration.",
+          "image": "./pages/book-01/page_23.jpg"
         },
         {
           "page": 24,
           "kind": "TEXT",
           "scene": "The Leather Grip",
-          "text": "Pop Pop watched Leo work, his golden eyes crinkling with a proud smile.\nTogether they wrapped a strip of soft brown leather tightly around the mended seam.\n\"Look at that joint, Leo,\" Pop Pop said softly.\n\"Because you owned your mistake and did the work, it's even stronger right where it broke.\""
+          "text": "Pop Pop watched Leo work, his golden eyes crinkling with a proud smile.\nTogether they wrapped a strip of soft brown leather tightly around the mended seam.\n\"Look at that joint, Leo,\" Pop Pop said softly.\n\"Because you owned your mistake and did the work, it's even stronger right where it broke.\"",
+          "image": "./pages/book-01/page_24.jpg"
         },
         {
           "page": 25,
           "kind": "ILL",
           "scene": "Back Out to the Yard!",
-          "text": "The workshop door swung open, and Leo stepped out carrying the mended walking stick.\nA thin golden ring gleamed next to the new leather grip like a badge of honor.\nAcross the lawn, the whole family burst into cheers and applause!"
+          "text": "The workshop door swung open, and Leo stepped out carrying the mended walking stick.\nA thin golden ring gleamed next to the new leather grip like a badge of honor.\nAcross the lawn, the whole family burst into cheers and applause!",
+          "image": "./pages/book-01/page_25.jpg"
         },
         {
           "page": 26,
           "kind": "TEXT",
           "scene": "Maya's Biggest Hug",
-          "text": "Maya bolted across the grass so fast her purple ear-bow fluttered.\nShe flung both arms around Leo's neck, squishing Glimmer right between their chests.\n\"You fixed it, Leo!\" Maya cheered. \"And your tummy doesn't even hurt anymore!\""
+          "text": "Maya bolted across the grass so fast her purple ear-bow fluttered.\nShe flung both arms around Leo's neck, squishing Glimmer right between their chests.\n\"You fixed it, Leo!\" Maya cheered. \"And your tummy doesn't even hurt anymore!\"",
+          "image": "./pages/book-01/page_26.jpg"
         },
         {
           "page": 27,
           "kind": "ILL",
           "scene": "Fireflies Over Savanna Heights",
-          "text": "As sunset painted the Savanna Heights rooftops violet and gold,\nhundreds of glowing fireflies drifted up from the riverbank.\nNeighbors waved goodnight from the cobblestone lane while the family gathered on the wide front porch."
+          "text": "As sunset painted the Savanna Heights rooftops violet and gold,\nhundreds of glowing fireflies drifted up from the riverbank.\nNeighbors waved goodnight from the cobblestone lane while the family gathered on the wide front porch.",
+          "image": "./pages/book-01/page_27.jpg"
         },
         {
           "page": 28,
           "kind": "TEXT",
           "scene": "Three Things That Hold Us Together",
-          "text": "Pop Pop rested the mended walking stick across his knees.\n\"Honesty, love, and loyalty,\" Pop Pop said softly, looking at each face around the circle.\n\"Those three things will carry you down any trail.\"\nLeo leaned against Pop Pop's arm, Maya leaned on Leo, and Great-Grampa whispered, \"Every single time.\""
+          "text": "Pop Pop rested the mended walking stick across his knees.\n\"Honesty, love, and loyalty,\" Pop Pop said softly, looking at each face around the circle.\n\"Those three things will carry you down any trail.\"\nLeo leaned against Pop Pop's arm, Maya leaned on Leo, and Great-Grampa whispered, \"Every single time.\"",
+          "image": "./pages/book-01/page_28.jpg"
         },
         {
           "page": 29,
           "kind": "ILL",
           "scene": "Bedtime by the Window",
-          "text": "That night, Mom tucked Leo and Maya under their cozy patchwork quilts.\nMoonlight silvered the bedroom window, and Pop Pop's mended stick stood beside the dresser,\nready for Sunday morning's walk."
+          "text": "That night, Mom tucked Leo and Maya under their cozy patchwork quilts.\nMoonlight silvered the bedroom window, and Pop Pop's mended stick stood beside the dresser,\nready for Sunday morning's walk.",
+          "image": "./pages/book-01/page_29.jpg"
         },
         {
           "page": 30,
           "kind": "TEXT",
           "scene": "The Bravest Lion I Know",
-          "text": "\"Mom?\" Leo whispered. \"Telling the truth was the scariest thing I did all day... but afterward, my heart felt light.\"\nMom kissed his forehead. \"That's how you know you did the right thing, sweetheart.\"\nFrom the next bed, Maya yawned around Glimmer. \"Goodnight, Leo. You're the bravest lion I know.\""
+          "text": "\"Mom?\" Leo whispered. \"Telling the truth was the scariest thing I did all day... but afterward, my heart felt light.\"\nMom kissed his forehead. \"That's how you know you did the right thing, sweetheart.\"\nFrom the next bed, Maya yawned around Glimmer. \"Goodnight, Leo. You're the bravest lion I know.\"",
+          "image": "./pages/book-01/page_30.jpg"
         },
         {
           "page": 31,
           "kind": "BACK - FAMILY TALK",
           "scene": "Family Talk — 7 Questions for Tonight",
-          "text": "Family Talk: 7 Questions for Tonight"
+          "text": "Family Talk: 7 Questions for Tonight",
+          "image": "./pages/book-01/page_31.jpg"
         },
         {
           "page": 32,
           "kind": "BACK - FIVE PILLARS",
           "scene": "Our Family Promise",
-          "text": "The Five Pillars of the Pride\n1. Integrity & the Courage to Do What's Right\n2. Family Unity & Unconditional Support\n3. Hard Work & Self-Discipline\n4. Courtesy & Universal Respect\n5. Active Kindness & Service\nIn our pride, we take care of each other."
+          "text": "The Five Pillars of the Pride\n1. Integrity & the Courage to Do What's Right\n2. Family Unity & Unconditional Support\n3. Hard Work & Self-Discipline\n4. Courtesy & Universal Respect\n5. Active Kindness & Service\nIn our pride, we take care of each other.",
+          "image": "./pages/book-01/page_32.jpg"
         }
       ],
       "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
@@ -229,193 +261,225 @@
           "page": 1,
           "kind": "FRONT",
           "scene": "Half-Title Still Life — Morning on the Porch Steps",
-          "text": "The Jordan Pride — Book 1: The Day Leo Broke Pop Pop's Walking Stick (Half-Title & Dedication)"
+          "text": "The Jordan Pride — Book 1: The Day Leo Broke Pop Pop's Walking Stick (Half-Title & Dedication)",
+          "image": "./pages/book-01/page_01.jpg"
         },
         {
           "page": 2,
           "kind": "FRONT",
           "scene": "Title Page — Two Cubs Peeking Out",
-          "text": "Welcome to Savanna Heights — The Day Leo Broke Pop Pop's Walking Stick (Title Page)"
+          "text": "Welcome to Savanna Heights — The Day Leo Broke Pop Pop's Walking Stick (Title Page)",
+          "image": "./pages/book-01/page_02.jpg"
         },
         {
           "page": 3,
           "kind": "ILL",
           "scene": "Savanna Heights Wakes Up — Community Overview",
-          "text": "Down the cobblestone lane, the whole neighborhood was waking up.\nMr. Badger swept his bakery porch, Otter kids rode scooters past the playground,\nand warm golden sunshine spilled across Pop Pop's front yard."
+          "text": "Down the cobblestone lane, the whole neighborhood was waking up.\nMr. Badger swept his bakery porch, Otter kids rode scooters past the playground,\nand warm golden sunshine spilled across Pop Pop's front yard.",
+          "image": "./pages/book-01/page_03.jpg"
         },
         {
           "page": 4,
           "kind": "TEXT",
           "scene": "Saturday Morning Arrival at Pop Pop's Gate",
-          "text": "Mama Pearl marched through the garden carrying a tray of steaming cinnamon rolls.\nMiss Bunny stacked picture books under the shade tree while Tio counted jumping jacks—\"One! Two! Three!\"\nLeo held the wooden gate wide open. \"After you, Maya!\"\n\"Tank you, Leo!\" Maya giggled, hugging her purple star, Glimmer."
+          "text": "Mama Pearl marched through the garden carrying a tray of steaming cinnamon rolls.\nMiss Bunny stacked picture books under the shade tree while Tio counted jumping jacks—\"One! Two! Three!\"\nLeo held the wooden gate wide open. \"After you, Maya!\"\n\"Tank you, Leo!\" Maya giggled, hugging her purple star, Glimmer.",
+          "image": "./pages/book-01/page_04.jpg"
         },
         {
           "page": 5,
           "kind": "ILL",
           "scene": "The Whole Family Rolls In",
-          "text": "One by one, the rest of the family came up the garden walk.\nMom pointed at a ruby hummingbird while Dad spun a basketball on one claw.\n\"Bonjour, everybody!\" called GiGi beneath her big straw sunhat,\nwhile Great-Grampa snoozed happily in his porch rocker, his trucker hat tipped over his nose."
+          "text": "One by one, the rest of the family came up the garden walk.\nMom pointed at a ruby hummingbird while Dad spun a basketball on one claw.\n\"Bonjour, everybody!\" called GiGi beneath her big straw sunhat,\nwhile Great-Grampa snoozed happily in his porch rocker, his trucker hat tipped over his nose.",
+          "image": "./pages/book-01/page_05.jpg"
         },
         {
           "page": 6,
           "kind": "TEXT",
           "scene": "Good Manners at the Front Door",
-          "text": "TiTi arrived carrying a tray of warm lavender tea.\nLeo sprinted up the steps and pulled the heavy screen door open.\n\"Good morning, TiTi! Let me get that for you, ma'am.\"\n\"Why, thank you, Leo,\" TiTi smiled. \"What a thoughtful gentleman you are.\""
+          "text": "TiTi arrived carrying a tray of warm lavender tea.\nLeo sprinted up the steps and pulled the heavy screen door open.\n\"Good morning, TiTi! Let me get that for you, ma'am.\"\n\"Why, thank you, Leo,\" TiTi smiled. \"What a thoughtful gentleman you are.\"",
+          "image": "./pages/book-01/page_06.jpg"
         },
         {
           "page": 7,
           "kind": "ILL",
           "scene": "The Treasure on the Porch Wall",
-          "text": "Out on the quiet side of the porch hung Pop Pop's favorite treasure—\nhis hand-carved golden pine walking stick, polished smooth from a hundred savanna trails.\nLeo tipped his head back and stared up at the carved lion handle."
+          "text": "Out on the quiet side of the porch hung Pop Pop's favorite treasure—\nhis hand-carved golden pine walking stick, polished smooth from a hundred savanna trails.\nLeo tipped his head back and stared up at the carved lion handle.",
+          "image": "./pages/book-01/page_07.jpg"
         },
         {
           "page": 8,
           "kind": "TEXT",
           "scene": "Uh-Oh! The Left Ear Twitch",
-          "text": "Suddenly, Leo's left ear went TWITCH-TWITCH.\nIn Savanna Heights, whenever Leo's left ear wiggled, a wild idea was right behind it.\n\"Just one tiny pirate swing,\" Leo whispered.\nMaya hugged Glimmer tight. \"No, Leo! Pop Pop said look with our eyes, not our paws!\""
+          "text": "Suddenly, Leo's left ear went TWITCH-TWITCH.\nIn Savanna Heights, whenever Leo's left ear wiggled, a wild idea was right behind it.\n\"Just one tiny pirate swing,\" Leo whispered.\nMaya hugged Glimmer tight. \"No, Leo! Pop Pop said look with our eyes, not our paws!\"",
+          "image": "./pages/book-01/page_08.jpg"
         },
         {
           "page": 9,
           "kind": "ILL",
           "scene": "Captain Leo's Big Pirate Swing",
-          "text": "But Leo's left ear kept wiggling.\nHe lifted the heavy walking stick off its wooden hooks.\n\"Fear not, Matey Maya!\" Leo roared, leaping across the porch boards.\n\"Captain Leo will save the ship! SWISH! SWOOSH!\""
+          "text": "But Leo's left ear kept wiggling.\nHe lifted the heavy walking stick off its wooden hooks.\n\"Fear not, Matey Maya!\" Leo roared, leaping across the porch boards.\n\"Captain Leo will save the ship! SWISH! SWOOSH!\"",
+          "image": "./pages/book-01/page_09.jpg"
         },
         {
           "page": 10,
           "kind": "TEXT",
           "scene": "CRACK! Two Pieces on the Floor",
-          "text": "WHACK! The stick struck the heavy oak porch post.\nCRACK!\nTwo splintered pieces of golden pine tumbled across the floorboards.\nMaya gasped, covering her mouth. Leo froze from his whiskers to his sneakers,\nand his tummy dropped all the way down into his shoes."
+          "text": "WHACK! The stick struck the heavy oak porch post.\nCRACK!\nTwo splintered pieces of golden pine tumbled across the floorboards.\nMaya gasped, covering her mouth. Leo froze from his whiskers to his sneakers,\nand his tummy dropped all the way down into his shoes.",
+          "image": "./pages/book-01/page_10.jpg"
         },
         {
           "page": 11,
           "kind": "ILL",
           "scene": "The Worst Hiding Spot in Savanna Heights",
-          "text": "Footsteps thumped around the corner of the house.\nLeo panicked. He scooped up both broken pieces and shoved them behind a tiny clay flowerpot.\nThe pot was six inches wide. The stick was four feet long.\nBoth ends poked out like a lion tail wearing tiny trousers."
+          "text": "Footsteps thumped around the corner of the house.\nLeo panicked. He scooped up both broken pieces and shoved them behind a tiny clay flowerpot.\nThe pot was six inches wide. The stick was four feet long.\nBoth ends poked out like a lion tail wearing tiny trousers.",
+          "image": "./pages/book-01/page_11.jpg"
         },
         {
           "page": 12,
           "kind": "TEXT",
           "scene": "Turning Down a Cinnamon Roll?!",
-          "text": "Leo hurried into the yard and tried to whistle like nothing happened.\nTio was up to jumping jack number eleven. Leo counted them twice and got lost at seven.\n\"Warm cinnamon roll, sugar?\" Mama Pearl asked, holding out the frosting-drizzled tray.\n\"No, thank you, ma'am,\" Leo squeaked. Mama Pearl blinked. Leo NEVER said no to a cinnamon roll."
+          "text": "Leo hurried into the yard and tried to whistle like nothing happened.\nTio was up to jumping jack number eleven. Leo counted them twice and got lost at seven.\n\"Warm cinnamon roll, sugar?\" Mama Pearl asked, holding out the frosting-drizzled tray.\n\"No, thank you, ma'am,\" Leo squeaked. Mama Pearl blinked. Leo NEVER said no to a cinnamon roll.",
+          "image": "./pages/book-01/page_12.jpg"
         },
         {
           "page": 13,
           "kind": "ILL",
           "scene": "Under the Acacia Tree — Maya Shares Glimmer",
-          "text": "Leo ducked under the low branches of the great acacia tree and hugged his knees.\nLittle Maya padded over and plopped down beside him in the cool grass.\nWithout a word, she placed her favorite purple star, Glimmer, right into Leo's lap."
+          "text": "Leo ducked under the low branches of the great acacia tree and hugged his knees.\nLittle Maya padded over and plopped down beside him in the cool grass.\nWithout a word, she placed her favorite purple star, Glimmer, right into Leo's lap.",
+          "image": "./pages/book-01/page_13.jpg"
         },
         {
           "page": 14,
           "kind": "TEXT",
           "scene": "The Truth Is Like a Sneeze!",
-          "text": "\"I won't tell anybody,\" Maya whispered—and then she told Glimmer the time, the weather, and half a song.\nShe tapped Leo's knee. \"Your tummy feels all twisty, huh?\"\n\"How did you know?\" Leo mumbled.\n\"Pop Pop says the truth is like a sneeze,\" Maya beamed. \"You hold it in... and then ACHOO! Out it pops!\""
+          "text": "\"I won't tell anybody,\" Maya whispered—and then she told Glimmer the time, the weather, and half a song.\nShe tapped Leo's knee. \"Your tummy feels all twisty, huh?\"\n\"How did you know?\" Leo mumbled.\n\"Pop Pop says the truth is like a sneeze,\" Maya beamed. \"You hold it in... and then ACHOO! Out it pops!\"",
+          "image": "./pages/book-01/page_14.jpg"
         },
         {
           "page": 15,
           "kind": "ILL",
           "scene": "Picking Up the Pieces",
-          "text": "On the porch, Great-Grampa mumbled in his sleep, \"Somebody's sitting on pins and needles.\"\nLeo let out a long breath. His three-year-old sister was right.\nHe walked back to the tiny flowerpot, picked up both broken halves,\nand Maya slid her small warm paw right into his."
+          "text": "On the porch, Great-Grampa mumbled in his sleep, \"Somebody's sitting on pins and needles.\"\nLeo let out a long breath. His three-year-old sister was right.\nHe walked back to the tiny flowerpot, picked up both broken halves,\nand Maya slid her small warm paw right into his.",
+          "image": "./pages/book-01/page_15.jpg"
         },
         {
           "page": 16,
           "kind": "TEXT",
           "scene": "The Long Walk Across the Yard",
-          "text": "Side by side, the two cubs walked across the sunny lawn.\nLeo's legs felt as heavy as wet sand, but Maya squeezed his paw and kept walking.\n\"Everything okay, sweetie?\" Mom asked softly.\nOne by one, the chatter around the yard grew quiet as Pop Pop turned around."
+          "text": "Side by side, the two cubs walked across the sunny lawn.\nLeo's legs felt as heavy as wet sand, but Maya squeezed his paw and kept walking.\n\"Everything okay, sweetie?\" Mom asked softly.\nOne by one, the chatter around the yard grew quiet as Pop Pop turned around.",
+          "image": "./pages/book-01/page_16.jpg"
         },
         {
           "page": 17,
           "kind": "ILL",
           "scene": "Eye to Eye with Pop Pop",
-          "text": "Pop Pop looked down at the two broken pieces in Leo's paws.\nHe didn't yell. He didn't frown.\nInstead, Pop Pop knelt right down on the garden path until his wire-rimmed glasses\nwere level with Leo's wide amber eyes."
+          "text": "Pop Pop looked down at the two broken pieces in Leo's paws.\nHe didn't yell. He didn't frown.\nInstead, Pop Pop knelt right down on the garden path until his wire-rimmed glasses\nwere level with Leo's wide amber eyes.",
+          "image": "./pages/book-01/page_17.jpg"
         },
         {
           "page": 18,
           "kind": "TEXT",
           "scene": "The Brave Confession",
-          "text": "Leo stood as tall as a six-year-old cub could stand.\n\"Pop Pop, I took your walking stick without asking,\" Leo said, his voice shaking just once.\n\"I swung it like a pirate sword and broke it. I'm really sorry, sir.\"\nPop Pop rested a warm paw on Leo's shoulder. \"Thank you for telling me the truth, cub. That took real courage.\""
+          "text": "Leo stood as tall as a six-year-old cub could stand.\n\"Pop Pop, I took your walking stick without asking,\" Leo said, his voice shaking just once.\n\"I swung it like a pirate sword and broke it. I'm really sorry, sir.\"\nPop Pop rested a warm paw on Leo's shoulder. \"Thank you for telling me the truth, cub. That took real courage.\"",
+          "image": "./pages/book-01/page_18.jpg"
         },
         {
           "page": 19,
           "kind": "ILL",
           "scene": "Pop Pop's Golden Rule",
-          "text": "Pop Pop stood up and looked gently around the gathered family.\n\"Remember this always,\" Pop Pop said in his deep, warm voice.\n\"Only weak lions lie. Strong lions tell the truth—even when their knees are shaking.\""
+          "text": "Pop Pop stood up and looked gently around the gathered family.\n\"Remember this always,\" Pop Pop said in his deep, warm voice.\n\"Only weak lions lie. Strong lions tell the truth—even when their knees are shaking.\"",
+          "image": "./pages/book-01/page_19.jpg"
         },
         {
           "page": 20,
           "kind": "TEXT",
           "scene": "Broken Sticks vs. Broken Trust",
-          "text": "Pop Pop held the two halves of golden pine together.\n\"Broken things can be fixed in an afternoon, Leo. Broken trust takes a whole lot longer.\"\nFrom his rocking chair, Great-Grampa gave a gummy grin. \"Whoo! He's been saying that since I had teeth!\"\nEveryone laughed, and the tight knot in Leo's tummy finally melted away."
+          "text": "Pop Pop held the two halves of golden pine together.\n\"Broken things can be fixed in an afternoon, Leo. Broken trust takes a whole lot longer.\"\nFrom his rocking chair, Great-Grampa gave a gummy grin. \"Whoo! He's been saying that since I had teeth!\"\nEveryone laughed, and the tight knot in Leo's tummy finally melted away.",
+          "image": "./pages/book-01/page_20.jpg"
         },
         {
           "page": 21,
           "kind": "ILL",
           "scene": "Heading to the Workshop",
-          "text": "\"Now,\" Pop Pop winked, \"saying sorry is step one. Step two is making it right!\"\nHe took Leo's paw and led him down the stone path toward the woodworking shop.\nLeo trotted ahead to pull the heavy workshop door open. \"After you, sir!\""
+          "text": "\"Now,\" Pop Pop winked, \"saying sorry is step one. Step two is making it right!\"\nHe took Leo's paw and led him down the stone path toward the woodworking shop.\nLeo trotted ahead to pull the heavy workshop door open. \"After you, sir!\"",
+          "image": "./pages/book-01/page_21.jpg"
         },
         {
           "page": 22,
           "kind": "TEXT",
           "scene": "Pop Pop's MacGyver Trick & Mama Pearl's DIY",
-          "text": "Inside, the shop smelled like cedar shavings and warm linseed oil.\n\"Time for a little MacGyver magic,\" Pop Pop grinned. \"Look at what you have, imagine what it can become, and test it!\"\nHe fitted a sturdy brass dowel pin into the center of both broken ends,\nwhile Mama Pearl showed Leo how to brush on wood glue and tighten a twine clamp."
+          "text": "Inside, the shop smelled like cedar shavings and warm linseed oil.\n\"Time for a little MacGyver magic,\" Pop Pop grinned. \"Look at what you have, imagine what it can become, and test it!\"\nHe fitted a sturdy brass dowel pin into the center of both broken ends,\nwhile Mama Pearl showed Leo how to brush on wood glue and tighten a twine clamp.",
+          "image": "./pages/book-01/page_22.jpg"
         },
         {
           "page": 23,
           "kind": "ILL",
           "scene": "Sanding Side by Side",
-          "text": "Once the glue set, Pop Pop handed Leo a sheet of fine sandpaper.\nSCRITCH-SCRATCH, SCRITCH-SCRATCH!\nGolden sawdust danced in the sunbeams as Leo sanded the joint smooth,\nwith the tip of his pink tongue poking out the side of his mouth in concentration."
+          "text": "Once the glue set, Pop Pop handed Leo a sheet of fine sandpaper.\nSCRITCH-SCRATCH, SCRITCH-SCRATCH!\nGolden sawdust danced in the sunbeams as Leo sanded the joint smooth,\nwith the tip of his pink tongue poking out the side of his mouth in concentration.",
+          "image": "./pages/book-01/page_23.jpg"
         },
         {
           "page": 24,
           "kind": "TEXT",
           "scene": "The Leather Grip",
-          "text": "Pop Pop watched Leo work, his golden eyes crinkling with a proud smile.\nTogether they wrapped a strip of soft brown leather tightly around the mended seam.\n\"Look at that joint, Leo,\" Pop Pop said softly.\n\"Because you owned your mistake and did the work, it's even stronger right where it broke.\""
+          "text": "Pop Pop watched Leo work, his golden eyes crinkling with a proud smile.\nTogether they wrapped a strip of soft brown leather tightly around the mended seam.\n\"Look at that joint, Leo,\" Pop Pop said softly.\n\"Because you owned your mistake and did the work, it's even stronger right where it broke.\"",
+          "image": "./pages/book-01/page_24.jpg"
         },
         {
           "page": 25,
           "kind": "ILL",
           "scene": "Back Out to the Yard!",
-          "text": "The workshop door swung open, and Leo stepped out carrying the mended walking stick.\nA thin golden ring gleamed next to the new leather grip like a badge of honor.\nAcross the lawn, the whole family burst into cheers and applause!"
+          "text": "The workshop door swung open, and Leo stepped out carrying the mended walking stick.\nA thin golden ring gleamed next to the new leather grip like a badge of honor.\nAcross the lawn, the whole family burst into cheers and applause!",
+          "image": "./pages/book-01/page_25.jpg"
         },
         {
           "page": 26,
           "kind": "TEXT",
           "scene": "Maya's Biggest Hug",
-          "text": "Maya bolted across the grass so fast her purple ear-bow fluttered.\nShe flung both arms around Leo's neck, squishing Glimmer right between their chests.\n\"You fixed it, Leo!\" Maya cheered. \"And your tummy doesn't even hurt anymore!\""
+          "text": "Maya bolted across the grass so fast her purple ear-bow fluttered.\nShe flung both arms around Leo's neck, squishing Glimmer right between their chests.\n\"You fixed it, Leo!\" Maya cheered. \"And your tummy doesn't even hurt anymore!\"",
+          "image": "./pages/book-01/page_26.jpg"
         },
         {
           "page": 27,
           "kind": "ILL",
           "scene": "Fireflies Over Savanna Heights",
-          "text": "As sunset painted the Savanna Heights rooftops violet and gold,\nhundreds of glowing fireflies drifted up from the riverbank.\nNeighbors waved goodnight from the cobblestone lane while the family gathered on the wide front porch."
+          "text": "As sunset painted the Savanna Heights rooftops violet and gold,\nhundreds of glowing fireflies drifted up from the riverbank.\nNeighbors waved goodnight from the cobblestone lane while the family gathered on the wide front porch.",
+          "image": "./pages/book-01/page_27.jpg"
         },
         {
           "page": 28,
           "kind": "TEXT",
           "scene": "Three Things That Hold Us Together",
-          "text": "Pop Pop rested the mended walking stick across his knees.\n\"Honesty, love, and loyalty,\" Pop Pop said softly, looking at each face around the circle.\n\"Those three things will carry you down any trail.\"\nLeo leaned against Pop Pop's arm, Maya leaned on Leo, and Great-Grampa whispered, \"Every single time.\""
+          "text": "Pop Pop rested the mended walking stick across his knees.\n\"Honesty, love, and loyalty,\" Pop Pop said softly, looking at each face around the circle.\n\"Those three things will carry you down any trail.\"\nLeo leaned against Pop Pop's arm, Maya leaned on Leo, and Great-Grampa whispered, \"Every single time.\"",
+          "image": "./pages/book-01/page_28.jpg"
         },
         {
           "page": 29,
           "kind": "ILL",
           "scene": "Bedtime by the Window",
-          "text": "That night, Mom tucked Leo and Maya under their cozy patchwork quilts.\nMoonlight silvered the bedroom window, and Pop Pop's mended stick stood beside the dresser,\nready for Sunday morning's walk."
+          "text": "That night, Mom tucked Leo and Maya under their cozy patchwork quilts.\nMoonlight silvered the bedroom window, and Pop Pop's mended stick stood beside the dresser,\nready for Sunday morning's walk.",
+          "image": "./pages/book-01/page_29.jpg"
         },
         {
           "page": 30,
           "kind": "TEXT",
           "scene": "The Bravest Lion I Know",
-          "text": "\"Mom?\" Leo whispered. \"Telling the truth was the scariest thing I did all day... but afterward, my heart felt light.\"\nMom kissed his forehead. \"That's how you know you did the right thing, sweetheart.\"\nFrom the next bed, Maya yawned around Glimmer. \"Goodnight, Leo. You're the bravest lion I know.\""
+          "text": "\"Mom?\" Leo whispered. \"Telling the truth was the scariest thing I did all day... but afterward, my heart felt light.\"\nMom kissed his forehead. \"That's how you know you did the right thing, sweetheart.\"\nFrom the next bed, Maya yawned around Glimmer. \"Goodnight, Leo. You're the bravest lion I know.\"",
+          "image": "./pages/book-01/page_30.jpg"
         },
         {
           "page": 31,
           "kind": "BACK - FAMILY TALK",
           "scene": "Family Talk — 7 Questions for Tonight",
-          "text": "Family Talk: 7 Questions for Tonight"
+          "text": "Family Talk: 7 Questions for Tonight",
+          "image": "./pages/book-01/page_31.jpg"
         },
         {
           "page": 32,
           "kind": "BACK - FIVE PILLARS",
           "scene": "Our Family Promise",
-          "text": "The Five Pillars of the Pride\n1. Integrity & the Courage to Do What's Right\n2. Family Unity & Unconditional Support\n3. Hard Work & Self-Discipline\n4. Courtesy & Universal Respect\n5. Active Kindness & Service\nIn our pride, we take care of each other."
+          "text": "The Five Pillars of the Pride\n1. Integrity & the Courage to Do What's Right\n2. Family Unity & Unconditional Support\n3. Hard Work & Self-Discipline\n4. Courtesy & Universal Respect\n5. Active Kindness & Service\nIn our pride, we take care of each other.",
+          "image": "./pages/book-01/page_32.jpg"
         }
       ],
       "word_count": 1355
