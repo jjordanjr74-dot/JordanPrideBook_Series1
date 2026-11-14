@@ -1469,193 +1469,225 @@
           "page": 1,
           "kind": "FRONT",
           "scene": "Half-Title Still Life — A Crinkled Paper Map and a Trucker Hat",
-          "text": "Great-Grampa’s No-GPS Road Trip"
+          "text": "Great-Grampa’s No-GPS Road Trip",
+          "image": "pages/book-04/page_01.jpg"
         },
         {
           "page": 2,
           "kind": "FRONT",
           "scene": "Title Page — Great-Grampa in His Trucker Hat, Unfolding a Map",
-          "text": "The Jordan Pride - Book 4: Great-Grampa’s No-GPS Road Trip\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights"
+          "text": "The Jordan Pride - Book 4: Great-Grampa’s No-GPS Road Trip\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights",
+          "image": "pages/book-04/page_02.jpg"
         },
         {
           "page": 3,
           "kind": "ILL",
           "scene": "Savanna Heights — Saturday Morning — Packing the Truck",
-          "text": "The pickup truck was packed with a cooler, a blanket, and a wicker picnic basket. Pop Pop loaded the last bag. Leo and Maya climbed into the back seat, buckled up, bouncing with excitement for the Ridge Picnic."
+          "text": "The pickup truck was packed with a cooler, a blanket, and a wicker picnic basket. Pop Pop loaded the last bag. Leo and Maya climbed into the back seat, buckled up, bouncing with excitement for the Ridge Picnic.",
+          "image": "pages/book-04/page_03.jpg"
         },
         {
           "page": 4,
           "kind": "TEXT",
           "scene": "Great-Grampa at the Wheel",
-          "text": "Great-Grampa climbed into the driver’s seat, one claw gripping the door frame. His trucker hat sat square on his head. He adjusted the rearview mirror and grinned at the cubs in the back. \"Y’all ready for an adventure?\""
+          "text": "Great-Grampa climbed into the driver’s seat, one claw gripping the door frame. His trucker hat sat square on his head. He adjusted the rearview mirror and grinned at the cubs in the back. \"Y’all ready for an adventure?\"",
+          "image": "pages/book-04/page_04.jpg"
         },
         {
           "page": 5,
           "kind": "ILL",
           "scene": "The Truck Rolling Through Savanna Heights",
-          "text": "The truck rolled down the cobblestone lane. Leo watched the familiar houses slide by — Mr. Badger’s bakery porch, the Otter kids playing in their yard, Miss Bunny reading under her shade tree. Everything was warm and golden."
+          "text": "The truck rolled down the cobblestone lane. Leo watched the familiar houses slide by — Mr. Badger’s bakery porch, the Otter kids playing in their yard, Miss Bunny reading under her shade tree. Everything was warm and golden.",
+          "image": "pages/book-04/page_05.jpg"
         },
         {
           "page": 6,
           "kind": "TEXT",
           "scene": "Great-Grampa’s Stories Begin",
-          "text": "\"When I was a young cub driving cross-country, we didn’t have no fancy talking box,\" Great-Grampa said, one paw loose on the wheel. \"Had a paper map and a good sense of direction. That’s all you need, long as you keep your eyes open.\""
+          "text": "\"When I was a young cub driving cross-country, we didn’t have no fancy talking box,\" Great-Grampa said, one paw loose on the wheel. \"Had a paper map and a good sense of direction. That’s all you need, long as you keep your eyes open.\"",
+          "image": "pages/book-04/page_06.jpg"
         },
         {
           "page": 7,
           "kind": "ILL",
           "scene": "The Scenic Mountain Road",
-          "text": "The road curved up into the hills. Acacia trees gave way to pines and rocky outcrops. The sky was big and blue, full of puffy white clouds. Leo pressed his nose to the window. Maya held Glimmer up so she could see too."
+          "text": "The road curved up into the hills. Acacia trees gave way to pines and rocky outcrops. The sky was big and blue, full of puffy white clouds. Leo pressed his nose to the window. Maya held Glimmer up so she could see too.",
+          "image": "pages/book-04/page_07.jpg"
         },
         {
           "page": 8,
           "kind": "TEXT",
           "scene": "The Tablet Loses Signal",
-          "text": "Leo pulled out the tablet to check the map. The circle spun. And spun. And spun. \"Uh oh,\" he said. \"It’s not loading. It says ’No GPS’ in a red bar.\" Maya’s ears drooped. \"Does that mean we’re lost?\""
+          "text": "Leo pulled out the tablet to check the map. The circle spun. And spun. And spun. \"Uh oh,\" he said. \"It’s not loading. It says ’No GPS’ in a red bar.\" Maya’s ears drooped. \"Does that mean we’re lost?\"",
+          "image": "pages/book-04/page_08.jpg"
         },
         {
           "page": 9,
           "kind": "ILL",
           "scene": "The Rainstorm Hits",
-          "text": "The sky turned gray in seconds. Rain hammered the windshield. The wipers went back and forth, back and forth. Great-Grampa slowed down and leaned forward, squinting through the sheets of water. The road ahead disappeared into gray."
+          "text": "The sky turned gray in seconds. Rain hammered the windshield. The wipers went back and forth, back and forth. Great-Grampa slowed down and leaned forward, squinting through the sheets of water. The road ahead disappeared into gray.",
+          "image": "pages/book-04/page_09.jpg"
         },
         {
           "page": 10,
           "kind": "TEXT",
           "scene": "The Trail Is Washed Out",
-          "text": "A little ways ahead, a mudslide had covered the road. Branches and rocks blocked the way. Pop Pop clicked his tongue. \"Well, that trail’s out.\" Leo’s heart sank. The picnic. The overlook. Everything. Gone."
+          "text": "A little ways ahead, a mudslide had covered the road. Branches and rocks blocked the way. Pop Pop clicked his tongue. \"Well, that trail’s out.\" Leo’s heart sank. The picnic. The overlook. Everything. Gone.",
+          "image": "pages/book-04/page_10.jpg"
         },
         {
           "page": 11,
           "kind": "ILL",
           "scene": "Great-Grampa Reaches Under the Seat",
-          "text": "Maya started to sniffle. But Great-Grampa just chuckled. He reached under the seat, rummaged past a flashlight and a folded blanket, and pulled out a crinkled, yellowed paper map. He unfolded it with slow, careful hands."
+          "text": "Maya started to sniffle. But Great-Grampa just chuckled. He reached under the seat, rummaged past a flashlight and a folded blanket, and pulled out a crinkled, yellowed paper map. He unfolded it with slow, careful hands.",
+          "image": "pages/book-04/page_11.jpg"
         },
         {
           "page": 12,
           "kind": "TEXT",
           "scene": "The Paper Map",
-          "text": "\"See this?\" Great-Grampa said, smoothing the map across the steering wheel. \"This map got me through thirty years of long hauls. Paper don’t need batteries. Paper don’t lose signal. Paper just sits there, waitin’ for you to read it.\""
+          "text": "\"See this?\" Great-Grampa said, smoothing the map across the steering wheel. \"This map got me through thirty years of long hauls. Paper don’t need batteries. Paper don’t lose signal. Paper just sits there, waitin’ for you to read it.\"",
+          "image": "pages/book-04/page_12.jpg"
         },
         {
           "page": 13,
           "kind": "ILL",
           "scene": "Reading Ridge Landmarks",
-          "text": "Great-Grampa pointed a thick claw at the map. \"See that ridge line there? That’s Three Brothers Ridge. Three bumps in a row. I saw ’em from the road. That tells me we’re here — and we need to go there.\" Leo leaned in, fascinated."
+          "text": "Great-Grampa pointed a thick claw at the map. \"See that ridge line there? That’s Three Brothers Ridge. Three bumps in a row. I saw ’em from the road. That tells me we’re here — and we need to go there.\" Leo leaned in, fascinated.",
+          "image": "pages/book-04/page_13.jpg"
         },
         {
           "page": 14,
           "kind": "TEXT",
           "scene": "Leo Learns to Read the Map",
-          "text": "\"Let me try!\" Leo pointed at the map. \"Is this where we are?\" \"Close, cub. See that squiggly line? That’s the creek we just crossed. So we’re about here.\" Leo traced the road with his paw. \"So if we take this turn ... we can go around the mudslide?\""
+          "text": "\"Let me try!\" Leo pointed at the map. \"Is this where we are?\" \"Close, cub. See that squiggly line? That’s the creek we just crossed. So we’re about here.\" Leo traced the road with his paw. \"So if we take this turn ... we can go around the mudslide?\"",
+          "image": "pages/book-04/page_14.jpg"
         },
         {
           "page": 15,
           "kind": "ILL",
           "scene": "The Crossroads — Mr. Otter’s Stand",
-          "text": "The truck came to a crossroads. A little wooden stand sat under a canvas awning — Mr. Otter’s fruit stand, with fresh apples and jugs of lemonade. Mr. Otter himself was arranging peaches in a basket."
+          "text": "The truck came to a crossroads. A little wooden stand sat under a canvas awning — Mr. Otter’s fruit stand, with fresh apples and jugs of lemonade. Mr. Otter himself was arranging peaches in a basket.",
+          "image": "pages/book-04/page_15.jpg"
         },
         {
           "page": 16,
           "kind": "TEXT",
           "scene": "Manners at the Crossroads",
-          "text": "Pop Pop rolled down the window. \"Excuse me, sir,\" Leo called out politely. \"Could you please tell us which road goes to the Ridge Overlook? The trail washed out and our GPS isn’t working.\" Mr. Otter tipped his hat. \"Well, aren’t you the polite young cub! Take the right fork, follow it two miles, and you’ll hit the gravel turn-off.\""
+          "text": "Pop Pop rolled down the window. \"Excuse me, sir,\" Leo called out politely. \"Could you please tell us which road goes to the Ridge Overlook? The trail washed out and our GPS isn’t working.\" Mr. Otter tipped his hat. \"Well, aren’t you the polite young cub! Take the right fork, follow it two miles, and you’ll hit the gravel turn-off.\"",
+          "image": "pages/book-04/page_16.jpg"
         },
         {
           "page": 17,
           "kind": "ILL",
           "scene": "Great-Grampa’s Proud Nod",
-          "text": "Great-Grampa gave Leo a slow, proud nod. \"That’s how you do it, cub. ’Excuse me, sir.’ ’Please.’ ’Thank you.’ A polite word opens more doors than a crowbar ever will.\" Leo puffed up a little. Maya smiled and squeezed Glimmer."
+          "text": "Great-Grampa gave Leo a slow, proud nod. \"That’s how you do it, cub. ’Excuse me, sir.’ ’Please.’ ’Thank you.’ A polite word opens more doors than a crowbar ever will.\" Leo puffed up a little. Maya smiled and squeezed Glimmer.",
+          "image": "pages/book-04/page_17.jpg"
         },
         {
           "page": 18,
           "kind": "TEXT",
           "scene": "Pop Pop and Great-Grampa Work Together",
-          "text": "Pop Pop held the map while Great-Grampa drove. \"The right fork, he said?\" \"Right fork. Then gravel turn-off after two miles, near the big boulder.\" Great-Grampa took the turn slow, easing the truck onto a narrower road lined with wildflowers. The rain had stopped. Sunlight broke through the clouds in golden beams."
+          "text": "Pop Pop held the map while Great-Grampa drove. \"The right fork, he said?\" \"Right fork. Then gravel turn-off after two miles, near the big boulder.\" Great-Grampa took the turn slow, easing the truck onto a narrower road lined with wildflowers. The rain had stopped. Sunlight broke through the clouds in golden beams.",
+          "image": "pages/book-04/page_18.jpg"
         },
         {
           "page": 19,
           "kind": "ILL",
           "scene": "The Gravel Road — Sunbeams Through the Trees",
-          "text": "Gravel crunched under the tires. Sunlight poured through the trees in long, golden columns. Maya pointed. \"Look! A rainbow!\" A soft rainbow arched across the valley, faint and beautiful against the clearing sky."
+          "text": "Gravel crunched under the tires. Sunlight poured through the trees in long, golden columns. Maya pointed. \"Look! A rainbow!\" A soft rainbow arched across the valley, faint and beautiful against the clearing sky.",
+          "image": "pages/book-04/page_19.jpg"
         },
         {
           "page": 20,
           "kind": "TEXT",
           "scene": "The Overlook Appears",
-          "text": "The trees opened up, and there it was — the Ridge Overlook. The whole valley spread out below them, green and golden, with the river winding through it like a silver ribbon. \"Whoa,\" Leo breathed. Great-Grampa parked the truck and turned off the engine. \"Told you. Paper map never let me down.\""
+          "text": "The trees opened up, and there it was — the Ridge Overlook. The whole valley spread out below them, green and golden, with the river winding through it like a silver ribbon. \"Whoa,\" Leo breathed. Great-Grampa parked the truck and turned off the engine. \"Told you. Paper map never let me down.\"",
+          "image": "pages/book-04/page_20.jpg"
         },
         {
           "page": 21,
           "kind": "ILL",
           "scene": "Setting Up the Picnic at the Overlook",
-          "text": "Pop Pop spread the blanket on the grass. Maya set out the cups while Leo carried the sandwich basket. Great-Grampa found a flat rock to sit on, stretched his legs, and tipped his trucker hat back. The view was perfect."
+          "text": "Pop Pop spread the blanket on the grass. Maya set out the cups while Leo carried the sandwich basket. Great-Grampa found a flat rock to sit on, stretched his legs, and tipped his trucker hat back. The view was perfect.",
+          "image": "pages/book-04/page_21.jpg"
         },
         {
           "page": 22,
           "kind": "TEXT",
           "scene": "Lunch With a View",
-          "text": "They ate sandwiches and apple slices while the clouds drifted away. Leo sat close to Great-Grampa. \"Great-Grampa?\" he said. \"Yeah, cub?\" \"I’m glad you know how to read paper maps. You saved the picnic.\""
+          "text": "They ate sandwiches and apple slices while the clouds drifted away. Leo sat close to Great-Grampa. \"Great-Grampa?\" he said. \"Yeah, cub?\" \"I’m glad you know how to read paper maps. You saved the picnic.\"",
+          "image": "pages/book-04/page_22.jpg"
         },
         {
           "page": 23,
           "kind": "ILL",
           "scene": "Great-Grampa Shares Old Road Stories",
-          "text": "Great-Grampa leaned back and told them about the time he drove through a blizzard in the mountains with nothing but a compass and a CB radio. Leo and Maya listened with wide eyes, their sandwiches forgotten."
+          "text": "Great-Grampa leaned back and told them about the time he drove through a blizzard in the mountains with nothing but a compass and a CB radio. Leo and Maya listened with wide eyes, their sandwiches forgotten.",
+          "image": "pages/book-04/page_23.jpg"
         },
         {
           "page": 24,
           "kind": "TEXT",
           "scene": "Pop Pop’s Gratitude",
-          "text": "Pop Pop raised his lemonade. \"To Great-Grampa. The original GPS — Great Papa’s Sense of direction.\" Everybody laughed. Great-Grampa tipped his hat. \"I drove through worse than this, and I had no GPS. A paper map and good manners never left me stranded.\""
+          "text": "Pop Pop raised his lemonade. \"To Great-Grampa. The original GPS — Great Papa’s Sense of direction.\" Everybody laughed. Great-Grampa tipped his hat. \"I drove through worse than this, and I had no GPS. A paper map and good manners never left me stranded.\"",
+          "image": "pages/book-04/page_24.jpg"
         },
         {
           "page": 25,
           "kind": "ILL",
           "scene": "Maya Asks About the Map",
-          "text": "Maya sat on Great-Grampa’s knee and looked at the crinkled map. She traced the lines with one small paw. \"Will you teach me how to read it? So when I’m big, I can drive anywhere?\""
+          "text": "Maya sat on Great-Grampa’s knee and looked at the crinkled map. She traced the lines with one small paw. \"Will you teach me how to read it? So when I’m big, I can drive anywhere?\"",
+          "image": "pages/book-04/page_25.jpg"
         },
         {
           "page": 26,
           "kind": "TEXT",
           "scene": "Great-Grampa’s Offer",
-          "text": "\"You bet I will, little star,\" Great-Grampa said, his voice warm and gravelly. \"First lesson: always know where the sun rises. East. That way, even if you lose the map, you know which way is home.\" Maya nodded seriously. \"East. That’s where morning comes from.\""
+          "text": "\"You bet I will, little star,\" Great-Grampa said, his voice warm and gravelly. \"First lesson: always know where the sun rises. East. That way, even if you lose the map, you know which way is home.\" Maya nodded seriously. \"East. That’s where morning comes from.\"",
+          "image": "pages/book-04/page_26.jpg"
         },
         {
           "page": 27,
           "kind": "ILL",
           "scene": "Leo Tries to Fold the Map Back",
-          "text": "After lunch, Leo tried to fold the map back the way it was. He folded it once. Then twice. Then it was a crinkled mess. \"Uh, Great-Grampa? I think I broke the map.\" Great-Grampa laughed. \"I drove through worse than this, and I had no GPS. Hand it here, cub. Watch the master.\""
+          "text": "After lunch, Leo tried to fold the map back the way it was. He folded it once. Then twice. Then it was a crinkled mess. \"Uh, Great-Grampa? I think I broke the map.\" Great-Grampa laughed. \"I drove through worse than this, and I had no GPS. Hand it here, cub. Watch the master.\"",
+          "image": "pages/book-04/page_27.jpg"
         },
         {
           "page": 28,
           "kind": "TEXT",
           "scene": "Folding Lesson",
-          "text": "Great-Grampa took the map and folded it smooth in four neat creases. \"See? Patience. Everything needs patience — driving, map folding, and growing up.\" Leo tried again, slower. This time it worked. He handed it back with a grin. \"Thank you, sir.\""
+          "text": "Great-Grampa took the map and folded it smooth in four neat creases. \"See? Patience. Everything needs patience — driving, map folding, and growing up.\" Leo tried again, slower. This time it worked. He handed it back with a grin. \"Thank you, sir.\"",
+          "image": "pages/book-04/page_28.jpg"
         },
         {
           "page": 29,
           "kind": "ILL",
           "scene": "Packing Up — The Drive Home at Sunset",
-          "text": "The sky turned orange and pink as they packed up. Great-Grampa folded the blanket. Pop Pop carried the cooler. Leo held the map, folded perfectly. Maya clutched a wildflower she’d picked. The truck hummed to life."
+          "text": "The sky turned orange and pink as they packed up. Great-Grampa folded the blanket. Pop Pop carried the cooler. Leo held the map, folded perfectly. Maya clutched a wildflower she’d picked. The truck hummed to life.",
+          "image": "pages/book-04/page_29.jpg"
         },
         {
           "page": 30,
           "kind": "TEXT",
           "scene": "Closing — The Best Overlook Picnic Ever",
-          "text": "On the drive home, Leo looked out at the valley. \"Great-Grampa?\" \"Yeah, cub?\" \"Today was better than the old trail would’ve been. Getting lost with you was the best part.\" Great-Grampa smiled in the rearview mirror. \"That’s the secret, cub. The detour’s usually the real destination.\""
+          "text": "On the drive home, Leo looked out at the valley. \"Great-Grampa?\" \"Yeah, cub?\" \"Today was better than the old trail would’ve been. Getting lost with you was the best part.\" Great-Grampa smiled in the rearview mirror. \"That’s the secret, cub. The detour’s usually the real destination.\"",
+          "image": "pages/book-04/page_30.jpg"
         },
         {
           "page": 31,
           "kind": "BACK - FAMILY TALK",
           "scene": "Family Talk — 7 Questions for Tonight",
-          "text": "**7 Questions for Tonight — Great-Grampa’s No-GPS Road Trip**\n\n1. Leo panicked when the tablet lost signal. Have you ever panicked when something stopped working? What did you do?\n2. Great-Grampa kept a paper map under his seat for years. Why is it smart to have a backup plan?\n3. Leo used polite manners asking Mr. Otter for directions: \"Excuse me, sir\" and \"Please\" and \"Thank you.\" How do good manners help you get what you need?\n4. Great-Grampa said \"A polite word opens more doors than a crowbar ever will.\" What does that mean?\n5. Maya asked Great-Grampa to teach her to read the map. Is there a skill a grandparent or older person has that you want to learn?\n6. The mudslide ruined the original plan, but the detour led to an even better spot. Has a disappointment ever turned into something good?\n7. Great-Grampa said \"The detour’s usually the real destination.\" What do you think that means for your life?"
+          "text": "**7 Questions for Tonight — Great-Grampa’s No-GPS Road Trip**\n\n1. Leo panicked when the tablet lost signal. Have you ever panicked when something stopped working? What did you do?\n2. Great-Grampa kept a paper map under his seat for years. Why is it smart to have a backup plan?\n3. Leo used polite manners asking Mr. Otter for directions: \"Excuse me, sir\" and \"Please\" and \"Thank you.\" How do good manners help you get what you need?\n4. Great-Grampa said \"A polite word opens more doors than a crowbar ever will.\" What does that mean?\n5. Maya asked Great-Grampa to teach her to read the map. Is there a skill a grandparent or older person has that you want to learn?\n6. The mudslide ruined the original plan, but the detour led to an even better spot. Has a disappointment ever turned into something good?\n7. Great-Grampa said \"The detour’s usually the real destination.\" What do you think that means for your life?",
+          "image": "pages/book-04/page_31.jpg"
         },
         {
           "page": 32,
           "kind": "BACK - FIVE PILLARS",
           "scene": "Our Family Promise — The Five Pillars of the Pride",
-          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more."
+          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more.",
+          "image": "pages/book-04/page_32.jpg"
         }
       ],
       "stripe_single_voice": "https://buy.stripe.com/28E6oA5T54eDcpK7Kx08g1l",
@@ -1667,193 +1699,225 @@
           "page": 1,
           "kind": "FRONT",
           "scene": "Half-Title Still Life — A Crinkled Paper Map and a Trucker Hat",
-          "text": "Great-Grampa’s No-GPS Road Trip"
+          "text": "Great-Grampa’s No-GPS Road Trip",
+          "image": "pages/book-04/page_01.jpg"
         },
         {
           "page": 2,
           "kind": "FRONT",
           "scene": "Title Page — Great-Grampa in His Trucker Hat, Unfolding a Map",
-          "text": "The Jordan Pride - Book 4: Great-Grampa’s No-GPS Road Trip\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights"
+          "text": "The Jordan Pride - Book 4: Great-Grampa’s No-GPS Road Trip\n\nWritten by The Jordan Family\n\nIllustrated with love for Savanna Heights",
+          "image": "pages/book-04/page_02.jpg"
         },
         {
           "page": 3,
           "kind": "ILL",
           "scene": "Savanna Heights — Saturday Morning — Packing the Truck",
-          "text": "The pickup truck was packed with a cooler, a blanket, and a wicker picnic basket. Pop Pop loaded the last bag. Leo and Maya climbed into the back seat, buckled up, bouncing with excitement for the Ridge Picnic."
+          "text": "The pickup truck was packed with a cooler, a blanket, and a wicker picnic basket. Pop Pop loaded the last bag. Leo and Maya climbed into the back seat, buckled up, bouncing with excitement for the Ridge Picnic.",
+          "image": "pages/book-04/page_03.jpg"
         },
         {
           "page": 4,
           "kind": "TEXT",
           "scene": "Great-Grampa at the Wheel",
-          "text": "Great-Grampa climbed into the driver’s seat, one claw gripping the door frame. His trucker hat sat square on his head. He adjusted the rearview mirror and grinned at the cubs in the back. \"Y’all ready for an adventure?\""
+          "text": "Great-Grampa climbed into the driver’s seat, one claw gripping the door frame. His trucker hat sat square on his head. He adjusted the rearview mirror and grinned at the cubs in the back. \"Y’all ready for an adventure?\"",
+          "image": "pages/book-04/page_04.jpg"
         },
         {
           "page": 5,
           "kind": "ILL",
           "scene": "The Truck Rolling Through Savanna Heights",
-          "text": "The truck rolled down the cobblestone lane. Leo watched the familiar houses slide by — Mr. Badger’s bakery porch, the Otter kids playing in their yard, Miss Bunny reading under her shade tree. Everything was warm and golden."
+          "text": "The truck rolled down the cobblestone lane. Leo watched the familiar houses slide by — Mr. Badger’s bakery porch, the Otter kids playing in their yard, Miss Bunny reading under her shade tree. Everything was warm and golden.",
+          "image": "pages/book-04/page_05.jpg"
         },
         {
           "page": 6,
           "kind": "TEXT",
           "scene": "Great-Grampa’s Stories Begin",
-          "text": "\"When I was a young cub driving cross-country, we didn’t have no fancy talking box,\" Great-Grampa said, one paw loose on the wheel. \"Had a paper map and a good sense of direction. That’s all you need, long as you keep your eyes open.\""
+          "text": "\"When I was a young cub driving cross-country, we didn’t have no fancy talking box,\" Great-Grampa said, one paw loose on the wheel. \"Had a paper map and a good sense of direction. That’s all you need, long as you keep your eyes open.\"",
+          "image": "pages/book-04/page_06.jpg"
         },
         {
           "page": 7,
           "kind": "ILL",
           "scene": "The Scenic Mountain Road",
-          "text": "The road curved up into the hills. Acacia trees gave way to pines and rocky outcrops. The sky was big and blue, full of puffy white clouds. Leo pressed his nose to the window. Maya held Glimmer up so she could see too."
+          "text": "The road curved up into the hills. Acacia trees gave way to pines and rocky outcrops. The sky was big and blue, full of puffy white clouds. Leo pressed his nose to the window. Maya held Glimmer up so she could see too.",
+          "image": "pages/book-04/page_07.jpg"
         },
         {
           "page": 8,
           "kind": "TEXT",
           "scene": "The Tablet Loses Signal",
-          "text": "Leo pulled out the tablet to check the map. The circle spun. And spun. And spun. \"Uh oh,\" he said. \"It’s not loading. It says ’No GPS’ in a red bar.\" Maya’s ears drooped. \"Does that mean we’re lost?\""
+          "text": "Leo pulled out the tablet to check the map. The circle spun. And spun. And spun. \"Uh oh,\" he said. \"It’s not loading. It says ’No GPS’ in a red bar.\" Maya’s ears drooped. \"Does that mean we’re lost?\"",
+          "image": "pages/book-04/page_08.jpg"
         },
         {
           "page": 9,
           "kind": "ILL",
           "scene": "The Rainstorm Hits",
-          "text": "The sky turned gray in seconds. Rain hammered the windshield. The wipers went back and forth, back and forth. Great-Grampa slowed down and leaned forward, squinting through the sheets of water. The road ahead disappeared into gray."
+          "text": "The sky turned gray in seconds. Rain hammered the windshield. The wipers went back and forth, back and forth. Great-Grampa slowed down and leaned forward, squinting through the sheets of water. The road ahead disappeared into gray.",
+          "image": "pages/book-04/page_09.jpg"
         },
         {
           "page": 10,
           "kind": "TEXT",
           "scene": "The Trail Is Washed Out",
-          "text": "A little ways ahead, a mudslide had covered the road. Branches and rocks blocked the way. Pop Pop clicked his tongue. \"Well, that trail’s out.\" Leo’s heart sank. The picnic. The overlook. Everything. Gone."
+          "text": "A little ways ahead, a mudslide had covered the road. Branches and rocks blocked the way. Pop Pop clicked his tongue. \"Well, that trail’s out.\" Leo’s heart sank. The picnic. The overlook. Everything. Gone.",
+          "image": "pages/book-04/page_10.jpg"
         },
         {
           "page": 11,
           "kind": "ILL",
           "scene": "Great-Grampa Reaches Under the Seat",
-          "text": "Maya started to sniffle. But Great-Grampa just chuckled. He reached under the seat, rummaged past a flashlight and a folded blanket, and pulled out a crinkled, yellowed paper map. He unfolded it with slow, careful hands."
+          "text": "Maya started to sniffle. But Great-Grampa just chuckled. He reached under the seat, rummaged past a flashlight and a folded blanket, and pulled out a crinkled, yellowed paper map. He unfolded it with slow, careful hands.",
+          "image": "pages/book-04/page_11.jpg"
         },
         {
           "page": 12,
           "kind": "TEXT",
           "scene": "The Paper Map",
-          "text": "\"See this?\" Great-Grampa said, smoothing the map across the steering wheel. \"This map got me through thirty years of long hauls. Paper don’t need batteries. Paper don’t lose signal. Paper just sits there, waitin’ for you to read it.\""
+          "text": "\"See this?\" Great-Grampa said, smoothing the map across the steering wheel. \"This map got me through thirty years of long hauls. Paper don’t need batteries. Paper don’t lose signal. Paper just sits there, waitin’ for you to read it.\"",
+          "image": "pages/book-04/page_12.jpg"
         },
         {
           "page": 13,
           "kind": "ILL",
           "scene": "Reading Ridge Landmarks",
-          "text": "Great-Grampa pointed a thick claw at the map. \"See that ridge line there? That’s Three Brothers Ridge. Three bumps in a row. I saw ’em from the road. That tells me we’re here — and we need to go there.\" Leo leaned in, fascinated."
+          "text": "Great-Grampa pointed a thick claw at the map. \"See that ridge line there? That’s Three Brothers Ridge. Three bumps in a row. I saw ’em from the road. That tells me we’re here — and we need to go there.\" Leo leaned in, fascinated.",
+          "image": "pages/book-04/page_13.jpg"
         },
         {
           "page": 14,
           "kind": "TEXT",
           "scene": "Leo Learns to Read the Map",
-          "text": "\"Let me try!\" Leo pointed at the map. \"Is this where we are?\" \"Close, cub. See that squiggly line? That’s the creek we just crossed. So we’re about here.\" Leo traced the road with his paw. \"So if we take this turn ... we can go around the mudslide?\""
+          "text": "\"Let me try!\" Leo pointed at the map. \"Is this where we are?\" \"Close, cub. See that squiggly line? That’s the creek we just crossed. So we’re about here.\" Leo traced the road with his paw. \"So if we take this turn ... we can go around the mudslide?\"",
+          "image": "pages/book-04/page_14.jpg"
         },
         {
           "page": 15,
           "kind": "ILL",
           "scene": "The Crossroads — Mr. Otter’s Stand",
-          "text": "The truck came to a crossroads. A little wooden stand sat under a canvas awning — Mr. Otter’s fruit stand, with fresh apples and jugs of lemonade. Mr. Otter himself was arranging peaches in a basket."
+          "text": "The truck came to a crossroads. A little wooden stand sat under a canvas awning — Mr. Otter’s fruit stand, with fresh apples and jugs of lemonade. Mr. Otter himself was arranging peaches in a basket.",
+          "image": "pages/book-04/page_15.jpg"
         },
         {
           "page": 16,
           "kind": "TEXT",
           "scene": "Manners at the Crossroads",
-          "text": "Pop Pop rolled down the window. \"Excuse me, sir,\" Leo called out politely. \"Could you please tell us which road goes to the Ridge Overlook? The trail washed out and our GPS isn’t working.\" Mr. Otter tipped his hat. \"Well, aren’t you the polite young cub! Take the right fork, follow it two miles, and you’ll hit the gravel turn-off.\""
+          "text": "Pop Pop rolled down the window. \"Excuse me, sir,\" Leo called out politely. \"Could you please tell us which road goes to the Ridge Overlook? The trail washed out and our GPS isn’t working.\" Mr. Otter tipped his hat. \"Well, aren’t you the polite young cub! Take the right fork, follow it two miles, and you’ll hit the gravel turn-off.\"",
+          "image": "pages/book-04/page_16.jpg"
         },
         {
           "page": 17,
           "kind": "ILL",
           "scene": "Great-Grampa’s Proud Nod",
-          "text": "Great-Grampa gave Leo a slow, proud nod. \"That’s how you do it, cub. ’Excuse me, sir.’ ’Please.’ ’Thank you.’ A polite word opens more doors than a crowbar ever will.\" Leo puffed up a little. Maya smiled and squeezed Glimmer."
+          "text": "Great-Grampa gave Leo a slow, proud nod. \"That’s how you do it, cub. ’Excuse me, sir.’ ’Please.’ ’Thank you.’ A polite word opens more doors than a crowbar ever will.\" Leo puffed up a little. Maya smiled and squeezed Glimmer.",
+          "image": "pages/book-04/page_17.jpg"
         },
         {
           "page": 18,
           "kind": "TEXT",
           "scene": "Pop Pop and Great-Grampa Work Together",
-          "text": "Pop Pop held the map while Great-Grampa drove. \"The right fork, he said?\" \"Right fork. Then gravel turn-off after two miles, near the big boulder.\" Great-Grampa took the turn slow, easing the truck onto a narrower road lined with wildflowers. The rain had stopped. Sunlight broke through the clouds in golden beams."
+          "text": "Pop Pop held the map while Great-Grampa drove. \"The right fork, he said?\" \"Right fork. Then gravel turn-off after two miles, near the big boulder.\" Great-Grampa took the turn slow, easing the truck onto a narrower road lined with wildflowers. The rain had stopped. Sunlight broke through the clouds in golden beams.",
+          "image": "pages/book-04/page_18.jpg"
         },
         {
           "page": 19,
           "kind": "ILL",
           "scene": "The Gravel Road — Sunbeams Through the Trees",
-          "text": "Gravel crunched under the tires. Sunlight poured through the trees in long, golden columns. Maya pointed. \"Look! A rainbow!\" A soft rainbow arched across the valley, faint and beautiful against the clearing sky."
+          "text": "Gravel crunched under the tires. Sunlight poured through the trees in long, golden columns. Maya pointed. \"Look! A rainbow!\" A soft rainbow arched across the valley, faint and beautiful against the clearing sky.",
+          "image": "pages/book-04/page_19.jpg"
         },
         {
           "page": 20,
           "kind": "TEXT",
           "scene": "The Overlook Appears",
-          "text": "The trees opened up, and there it was — the Ridge Overlook. The whole valley spread out below them, green and golden, with the river winding through it like a silver ribbon. \"Whoa,\" Leo breathed. Great-Grampa parked the truck and turned off the engine. \"Told you. Paper map never let me down.\""
+          "text": "The trees opened up, and there it was — the Ridge Overlook. The whole valley spread out below them, green and golden, with the river winding through it like a silver ribbon. \"Whoa,\" Leo breathed. Great-Grampa parked the truck and turned off the engine. \"Told you. Paper map never let me down.\"",
+          "image": "pages/book-04/page_20.jpg"
         },
         {
           "page": 21,
           "kind": "ILL",
           "scene": "Setting Up the Picnic at the Overlook",
-          "text": "Pop Pop spread the blanket on the grass. Maya set out the cups while Leo carried the sandwich basket. Great-Grampa found a flat rock to sit on, stretched his legs, and tipped his trucker hat back. The view was perfect."
+          "text": "Pop Pop spread the blanket on the grass. Maya set out the cups while Leo carried the sandwich basket. Great-Grampa found a flat rock to sit on, stretched his legs, and tipped his trucker hat back. The view was perfect.",
+          "image": "pages/book-04/page_21.jpg"
         },
         {
           "page": 22,
           "kind": "TEXT",
           "scene": "Lunch With a View",
-          "text": "They ate sandwiches and apple slices while the clouds drifted away. Leo sat close to Great-Grampa. \"Great-Grampa?\" he said. \"Yeah, cub?\" \"I’m glad you know how to read paper maps. You saved the picnic.\""
+          "text": "They ate sandwiches and apple slices while the clouds drifted away. Leo sat close to Great-Grampa. \"Great-Grampa?\" he said. \"Yeah, cub?\" \"I’m glad you know how to read paper maps. You saved the picnic.\"",
+          "image": "pages/book-04/page_22.jpg"
         },
         {
           "page": 23,
           "kind": "ILL",
           "scene": "Great-Grampa Shares Old Road Stories",
-          "text": "Great-Grampa leaned back and told them about the time he drove through a blizzard in the mountains with nothing but a compass and a CB radio. Leo and Maya listened with wide eyes, their sandwiches forgotten."
+          "text": "Great-Grampa leaned back and told them about the time he drove through a blizzard in the mountains with nothing but a compass and a CB radio. Leo and Maya listened with wide eyes, their sandwiches forgotten.",
+          "image": "pages/book-04/page_23.jpg"
         },
         {
           "page": 24,
           "kind": "TEXT",
           "scene": "Pop Pop’s Gratitude",
-          "text": "Pop Pop raised his lemonade. \"To Great-Grampa. The original GPS — Great Papa’s Sense of direction.\" Everybody laughed. Great-Grampa tipped his hat. \"I drove through worse than this, and I had no GPS. A paper map and good manners never left me stranded.\""
+          "text": "Pop Pop raised his lemonade. \"To Great-Grampa. The original GPS — Great Papa’s Sense of direction.\" Everybody laughed. Great-Grampa tipped his hat. \"I drove through worse than this, and I had no GPS. A paper map and good manners never left me stranded.\"",
+          "image": "pages/book-04/page_24.jpg"
         },
         {
           "page": 25,
           "kind": "ILL",
           "scene": "Maya Asks About the Map",
-          "text": "Maya sat on Great-Grampa’s knee and looked at the crinkled map. She traced the lines with one small paw. \"Will you teach me how to read it? So when I’m big, I can drive anywhere?\""
+          "text": "Maya sat on Great-Grampa’s knee and looked at the crinkled map. She traced the lines with one small paw. \"Will you teach me how to read it? So when I’m big, I can drive anywhere?\"",
+          "image": "pages/book-04/page_25.jpg"
         },
         {
           "page": 26,
           "kind": "TEXT",
           "scene": "Great-Grampa’s Offer",
-          "text": "\"You bet I will, little star,\" Great-Grampa said, his voice warm and gravelly. \"First lesson: always know where the sun rises. East. That way, even if you lose the map, you know which way is home.\" Maya nodded seriously. \"East. That’s where morning comes from.\""
+          "text": "\"You bet I will, little star,\" Great-Grampa said, his voice warm and gravelly. \"First lesson: always know where the sun rises. East. That way, even if you lose the map, you know which way is home.\" Maya nodded seriously. \"East. That’s where morning comes from.\"",
+          "image": "pages/book-04/page_26.jpg"
         },
         {
           "page": 27,
           "kind": "ILL",
           "scene": "Leo Tries to Fold the Map Back",
-          "text": "After lunch, Leo tried to fold the map back the way it was. He folded it once. Then twice. Then it was a crinkled mess. \"Uh, Great-Grampa? I think I broke the map.\" Great-Grampa laughed. \"I drove through worse than this, and I had no GPS. Hand it here, cub. Watch the master.\""
+          "text": "After lunch, Leo tried to fold the map back the way it was. He folded it once. Then twice. Then it was a crinkled mess. \"Uh, Great-Grampa? I think I broke the map.\" Great-Grampa laughed. \"I drove through worse than this, and I had no GPS. Hand it here, cub. Watch the master.\"",
+          "image": "pages/book-04/page_27.jpg"
         },
         {
           "page": 28,
           "kind": "TEXT",
           "scene": "Folding Lesson",
-          "text": "Great-Grampa took the map and folded it smooth in four neat creases. \"See? Patience. Everything needs patience — driving, map folding, and growing up.\" Leo tried again, slower. This time it worked. He handed it back with a grin. \"Thank you, sir.\""
+          "text": "Great-Grampa took the map and folded it smooth in four neat creases. \"See? Patience. Everything needs patience — driving, map folding, and growing up.\" Leo tried again, slower. This time it worked. He handed it back with a grin. \"Thank you, sir.\"",
+          "image": "pages/book-04/page_28.jpg"
         },
         {
           "page": 29,
           "kind": "ILL",
           "scene": "Packing Up — The Drive Home at Sunset",
-          "text": "The sky turned orange and pink as they packed up. Great-Grampa folded the blanket. Pop Pop carried the cooler. Leo held the map, folded perfectly. Maya clutched a wildflower she’d picked. The truck hummed to life."
+          "text": "The sky turned orange and pink as they packed up. Great-Grampa folded the blanket. Pop Pop carried the cooler. Leo held the map, folded perfectly. Maya clutched a wildflower she’d picked. The truck hummed to life.",
+          "image": "pages/book-04/page_29.jpg"
         },
         {
           "page": 30,
           "kind": "TEXT",
           "scene": "Closing — The Best Overlook Picnic Ever",
-          "text": "On the drive home, Leo looked out at the valley. \"Great-Grampa?\" \"Yeah, cub?\" \"Today was better than the old trail would’ve been. Getting lost with you was the best part.\" Great-Grampa smiled in the rearview mirror. \"That’s the secret, cub. The detour’s usually the real destination.\""
+          "text": "On the drive home, Leo looked out at the valley. \"Great-Grampa?\" \"Yeah, cub?\" \"Today was better than the old trail would’ve been. Getting lost with you was the best part.\" Great-Grampa smiled in the rearview mirror. \"That’s the secret, cub. The detour’s usually the real destination.\"",
+          "image": "pages/book-04/page_30.jpg"
         },
         {
           "page": 31,
           "kind": "BACK - FAMILY TALK",
           "scene": "Family Talk — 7 Questions for Tonight",
-          "text": "**7 Questions for Tonight — Great-Grampa’s No-GPS Road Trip**\n\n1. Leo panicked when the tablet lost signal. Have you ever panicked when something stopped working? What did you do?\n2. Great-Grampa kept a paper map under his seat for years. Why is it smart to have a backup plan?\n3. Leo used polite manners asking Mr. Otter for directions: \"Excuse me, sir\" and \"Please\" and \"Thank you.\" How do good manners help you get what you need?\n4. Great-Grampa said \"A polite word opens more doors than a crowbar ever will.\" What does that mean?\n5. Maya asked Great-Grampa to teach her to read the map. Is there a skill a grandparent or older person has that you want to learn?\n6. The mudslide ruined the original plan, but the detour led to an even better spot. Has a disappointment ever turned into something good?\n7. Great-Grampa said \"The detour’s usually the real destination.\" What do you think that means for your life?"
+          "text": "**7 Questions for Tonight — Great-Grampa’s No-GPS Road Trip**\n\n1. Leo panicked when the tablet lost signal. Have you ever panicked when something stopped working? What did you do?\n2. Great-Grampa kept a paper map under his seat for years. Why is it smart to have a backup plan?\n3. Leo used polite manners asking Mr. Otter for directions: \"Excuse me, sir\" and \"Please\" and \"Thank you.\" How do good manners help you get what you need?\n4. Great-Grampa said \"A polite word opens more doors than a crowbar ever will.\" What does that mean?\n5. Maya asked Great-Grampa to teach her to read the map. Is there a skill a grandparent or older person has that you want to learn?\n6. The mudslide ruined the original plan, but the detour led to an even better spot. Has a disappointment ever turned into something good?\n7. Great-Grampa said \"The detour’s usually the real destination.\" What do you think that means for your life?",
+          "image": "pages/book-04/page_31.jpg"
         },
         {
           "page": 32,
           "kind": "BACK - FIVE PILLARS",
           "scene": "Our Family Promise — The Five Pillars of the Pride",
-          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more."
+          "text": "**The Five Pillars of the Pride**\n\n1. **Integrity & the Courage to Do What's Right** — Stand tall even when nobody's watching.\n2. **Family Unity & Unconditional Support** — We are always stronger together.\n3. **Hard Work & Self-Discipline** — Good things take time, and time takes patience.\n4. **Courtesy & Universal Respect** — 'Yes sir,' 'Yes ma'am,' and a kind word for everybody.\n5. **Humility & Lifelong Learning** — Every day is a chance to grow a little more.",
+          "image": "pages/book-04/page_32.jpg"
         }
       ],
       "word_count": 1430
